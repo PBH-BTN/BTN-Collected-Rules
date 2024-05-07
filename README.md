@@ -17,3 +17,4 @@
 * `dt_torrent.txt` 包含被观测到的 `dt/torrent` 的 IP 地址
 * `go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址
 * `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
+* `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
