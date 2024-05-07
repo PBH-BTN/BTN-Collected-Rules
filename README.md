@@ -15,4 +15,5 @@
 
 * `hp_torrent.txt` 包含被观测到的 `hp/torrent` 的 IP 地址
 * `dt_torrent.txt` 包含被观测到的 `dt/torrent` 的 IP 地址
-* `go.torrent dev 20181121.txt` - 包含被观测到的百度网盘离线下载的 IP 地址
+* `go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址
+* `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
