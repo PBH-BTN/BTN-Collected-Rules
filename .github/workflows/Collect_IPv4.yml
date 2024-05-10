@@ -15,7 +15,7 @@ jobs:
 
       - name: Find and collect IPv4 from .txt files
         run: |
-          find . -type f -name "*.txt" -exec grep -oE "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" {} + | sort | uniq > all_ipv4.txt
+          find . -type f -name "*.txt" -exec grep -oE -h "\b([0-9]{1,3}\.){3}[0-9]{1,3}\b" {} + | sort | uniq > all_ipv4.txt
 
       - name: Commit changes
         run: |
