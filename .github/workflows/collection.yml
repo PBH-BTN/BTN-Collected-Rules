@@ -1,0 +1,34 @@
+name: Collection IP addresses
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Collect_IPv4_and_IPv6:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Find and collect IPv4 and IPv6 from .txt files
+        run: |
+          find . -type f -name "*.txt" -exec cat {} + | sort | uniq > IP_all.txt
+
+      - name: Extract IPv4 addresses
+        run: |
+          grep -E "^([0-9]{1,3}\.){3}[0-9]{1,3}$" IP_all.txt > ipv4_all.txt
+
+      - name: Extract IPv6 addresses
+        run: |
+          grep -vFf ipv4_all.txt IP_all.txt > ipv6_all.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add IP_all.txt ipv4_all.txt ipv6_all.txt
+          git commit -m "自动集合全部IP并分离IPv4和IPv6"
+          git push
