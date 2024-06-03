@@ -18,3 +18,4 @@
 * `go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址
 * `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
 * `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
+* `ipv4_all，ipv6_all，IP_all` 分别包含所有规则内的IPv4以及IPv6，和全部的IPv4+IPv6
