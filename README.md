@@ -18,6 +18,7 @@
 * `go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址
 * `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
 * `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
+* `gitlab.i.ljyun.cn-hangzhou-monitoring.txt` 包含被观测到使用 `gitlab.i.ljyun.cn/hangzhou/monitoring (devel) (anacrolix/torrent v1.55.0)` 的 IP 地址，此特征 Peers 使用较为固定的 IP 段刷流
 * `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动
   * ![multi-dial-1](./assets/101.69.63.0-64-p1.png)
   * ![multi-dial-2](./assets/101.69.63.0-64-p2.png)
