@@ -27,5 +27,5 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add combine/all.txt
-        git diff-index --quiet HEAD || git commit -m 'Combine all txt files into combine/all.txt [ci skip]'
+        git diff-index --quiet HEAD || git commit -m '[ci skip] Combine all txt files into combine/all.txt'
         git push
