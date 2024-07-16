@@ -20,6 +20,7 @@ jobs:
     - name: Combine txt files
       run: |
         # Combine all .txt files except combine/all.txt to avoid recursion
+        cat "# Combined txt file contains IPV4/IPV6 raw address and/or CIDR, and comments starts with hashtag." + > combine/all.txt
         find . -name "*.txt" ! -path "./combine/all.txt" -exec cat {} + > combine/all.txt
 
     - name: Commit and push changes
