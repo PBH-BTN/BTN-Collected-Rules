@@ -19,8 +19,9 @@ jobs:
 
     - name: Combine txt files
       run: |
-        # Combine all .txt files except combine/all.txt to avoid recursion
-        find . -name "*.txt" ! -path "./combine/all.txt" -exec cat {} + > combine/all.txt
+        # Combine all .txt files except combine/alltmp.txt to avoid recursion
+        find . -name "*.txt" ! -path "./combine/alltmp.txt" -exec cat {} + > combine/alltmp.txt
+        awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
 
     - name: Commit and push changes
       run: |
