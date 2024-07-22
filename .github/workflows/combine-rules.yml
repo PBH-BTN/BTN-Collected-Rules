@@ -21,7 +21,7 @@ jobs:
       run: |
         # Combine all .txt files except combine/alltmp.txt to avoid recursion
         find . -name "*.txt" ! -path "./combine/alltmp.txt" -exec cat {} + > combine/alltmp.txt
-        sort -u  combine/alltmp.txt -o combie/all.txt
+        sort -u  combine/alltmp.txt -o combine/all.txt
         # awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
         
     - name: Commit and push changes
