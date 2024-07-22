@@ -21,8 +21,9 @@ jobs:
       run: |
         # Combine all .txt files except combine/alltmp.txt to avoid recursion
         find . -name "*.txt" ! -path "./combine/alltmp.txt" -exec cat {} + > combine/alltmp.txt
-        awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
-
+        sort -u  combine/alltmp.txt -o combie/all.txt
+        # awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
+        
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
