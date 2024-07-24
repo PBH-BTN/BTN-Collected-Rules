@@ -31,7 +31,7 @@ jobs:
         java-version: "21"
 
     - name: Cleanup Rules and Merge ips to CIDR
-      run: java -jar ./utils/RuleCleaner.jar ./combine/all.txt
+      run: java -jar ./tools/RuleCleaner.jar ./combine/all.txt
 
     - name: Commit and push changes
       run: |
