@@ -14,6 +14,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+
     - name: Create combine directory
       run: mkdir -p combine
 
@@ -23,7 +24,15 @@ jobs:
         find . -name "*.txt" ! -path "./combine/alltmp.txt" -exec cat {} + > combine/alltmp.txt
         sort -u  combine/alltmp.txt -o combine/all.txt
         # awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
-        
+
+    - uses: actions/setup-java@v4
+      with:
+        distribution: "temurin"
+        java-version: "21"
+
+    - name: Cleanup Rules and Merge ips to CIDR
+      run: java -jar ./utils/RuleCleaner.jar ./combine/all.txt
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
