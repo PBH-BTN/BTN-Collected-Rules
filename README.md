@@ -31,3 +31,8 @@
   * ![multi-dial-1](./assets/101.69.63.0-64-p1.png)
   * ![multi-dial-2](./assets/101.69.63.0-64-p2.png)
   * ![multi-dial-3](./assets/101.69.63.0-64-p3.png)
+
+---
+
+[[Github 仓库]](https://github.com/PBH-BTN/BTN-Collected-Rules)  
+Powered by CloudFlare Pages
