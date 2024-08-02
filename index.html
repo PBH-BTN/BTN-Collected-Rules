@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>PBH-BTN/BTN-Collected-Rules</title>
+</head>
+<body>
+  <div id="content">Loading... Please enable JavaScript from your browser.</div>
+  <script src="https://fastly.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch("README.md")
+    .then(x => x.text())
+    .then(y => {
+      document.getElementById('content').innerHTML =
+      marked.parse(y);
+    });
+  </script>
+</body>
+</html>
