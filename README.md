@@ -2,11 +2,18 @@
 
 由 BTN 网络统计分析得出的可被安全的加入系统防火墙屏蔽的 IP 地址列表。
 
-
 ## 如何使用
 
 你可以直接在 PeerBanHelper 规则订阅页面选择性订阅这些规则（或者干脆直接订阅 combine/all.txt 大合集）。  
 当然，你也可以配合路由器/网关 ACL 或防火墙规则，直接在网关处掐断这些 IP 的连接。
+
+## 订阅链接
+
+以下链接默认均为 `combine/all.txt` 的链接，如果您需要分开订阅，请自行修改。
+
+* [Github Raw (推荐，可能需要科学)](https://raw.githubusercontent.com/PBH-BTN/BTN-Collected-Rules/main/combine/all.txt)
+* [CloudFlare Pages (和上面保持同步更新)](https://bcr.pbh-btn.ghorg.ghostchu-services.top/combine/all.txt)
+* [jsdelivr (部分地区可能有污染)](https://fastly.jsdelivr.net/gh/PBH-BTN/BTN-Collected-Rules@master/combine/all.txt)
 
 ## 鸣谢
 
