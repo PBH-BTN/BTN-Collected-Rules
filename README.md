@@ -40,12 +40,7 @@
 * `random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)
 * `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动
 * `dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为
-
 * `untrusted-ips.txt` 被多位 BTN 的客户端标记为问题 Peer 的 IP 地址列表
-
-* ![multi-dial-1](./assets/101.69.63.0-64-p1.png)
-* ![multi-dial-2](./assets/101.69.63.0-64-p2.png)
-* ![multi-dial-3](./assets/101.69.63.0-64-p3.png)
 
 ## 被移除的规则
 
