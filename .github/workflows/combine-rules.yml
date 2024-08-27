@@ -18,21 +18,13 @@ jobs:
     - name: Create combine directory
       run: mkdir -p combine
 
-    - name: Combine txt files
-      run: |
-        # Combine all .txt files except combine/alltmp.txt to avoid recursion
-        find . -name "*.txt" ! -path "./combine/alltmp.txt" ! -path "./combine/all.txt" -exec cat {} + > combine/alltmp.txt
-        sort -u  combine/alltmp.txt -o combine/all.txt
-        cat combine/all.txt
-        # awk '!seen[$0]++' combine/alltmp.txt > combine/all.txt
-
     - uses: actions/setup-java@v4
       with:
         distribution: "temurin"
         java-version: "21"
 
     - name: Cleanup Rules and Merge ips to CIDR
-      run: java -cp ./tools/RuleCleaner.jar Main ./combine/all.txt
+      run: java -cp ./tools/RuleCleaner.jar Main ./ ./combine/all.txt
 
     - name: Commit and push changes
       run: |
