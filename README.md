@@ -43,7 +43,7 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 * `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
 * `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
 * `random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)
-* `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动
+* `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动。此规则由人工手动更新
 * `dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为
 * `untrusted-ips.txt` 被多位 BTN 的客户端标记为问题 Peer 的 IP 地址列表
 * `overdownload-ips.txt` - 由 BTN 网络统计的超量下载列表，当单一 IP 地址在 BTN 网络上下载总量超过种子大小的一定比例（目前为 250%）时才会加入此列表
