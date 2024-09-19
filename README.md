@@ -10,7 +10,7 @@
 你可以直接在 PeerBanHelper 规则订阅页面选择性订阅这些规则（或者干脆直接订阅 combine/all.txt 大合集）。  
 当然，你也可以配合路由器/网关 ACL 或防火墙规则，直接在网关处掐断这些 IP 的连接。  
 
-如果你已经在使用 qBittorrent, BiglyBT, Deluge 或者 Vuze/Azureus，请优先使用[PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)，该工具不但支持本仓库的规则，且带有更多如启发式检测等高级检测手段。  
+如果你已经在使用 qBittorrent, BiglyBT, Deluge 或者 Vuze/Azureus，请优先使用[PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)，该工具不但支持本仓库的规则，且带有更多如启发式检测等高级检测手段。且在加入 BTN 的情况下，可向本仓库自动提交贡献数据。  
 
 ## 订阅链接
 
