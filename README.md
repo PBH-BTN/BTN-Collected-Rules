@@ -28,6 +28,7 @@
 * BiglyBT/Vuze/Azureus 通过 [PeerBanHelper 及其适配器插件](https://pbh-btn.github.io/pbh-docs/docs/downloader/BiglyBT)提供插件级高级支持
 * Deluge 通过 [PeerBanHelper 及其适配器插件]([https://github.com/PBH-BTN/PeerBanHelper](https://pbh-btn.github.io/pbh-docs/docs/downloader/Deluge))提供插件支持（目前暂无百科页面，参见[这里](https://github.com/PBH-BTN/PBH-Adapter-Deluge)安装）
 * BitComet 通过[彗星论坛 - 社区 Powershell](https://www.cometbbs.com/t/%E9%80%82%E7%94%A8%E4%BA%8E-bitcomet-%E7%9A%84-btn-%E5%A4%96%E6%8C%82%E8%84%9A%E6%9C%AC%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%8A%A8%E6%80%81%E5%8F%8D%E5%90%B8%E8%A1%80/93875/1)提供基于系统防火墙过滤的基本支持
+  * 在 2.10 Beta3 \[20240920\] 或更新版本中，您可以前往 “设置 -> 任务 -> BT 下载 -> IP 黑名单” 导入本规则的 URL 
 * Tixati 通过[彗星论坛 - 教程](https://www.cometbbs.com/t/%E6%84%9F%E8%B0%A2%E8%AE%BA%E5%9D%9B%E5%8F%91%E7%9A%84pbh%E8%A7%84%E5%88%99-%E6%90%AD%E9%85%8Dtixati%E7%9A%84ip%E8%BF%87%E6%BB%A4%E5%99%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97/94202)提供 IP 过滤器基本支持
 * Transmission 通过 [PeerBanHelper 内置集成](https://pbh-btn.github.io/pbh-docs/docs/downloader/qBittorrent)对存量用户提供基本支持。由于其副作用会严重影响下载器稳定性和 Tracker 负载，已计划停止支持
 
