@@ -31,6 +31,7 @@
   * 在 2.10 Beta3 \[20240920\] 或更新版本中，您可以前往 “设置 -> 任务 -> BT 下载 -> IP 黑名单” 导入本规则的 URL 
 * Tixati 通过[彗星论坛 - 教程](https://www.cometbbs.com/t/%E6%84%9F%E8%B0%A2%E8%AE%BA%E5%9D%9B%E5%8F%91%E7%9A%84pbh%E8%A7%84%E5%88%99-%E6%90%AD%E9%85%8Dtixati%E7%9A%84ip%E8%BF%87%E6%BB%A4%E5%99%A8%E6%95%88%E6%9E%9C%E6%98%BE%E8%91%97/94202)提供 IP 过滤器基本支持
 * Transmission 通过 [PeerBanHelper 内置集成](https://pbh-btn.github.io/pbh-docs/docs/downloader/qBittorrent)对存量用户提供基本支持。由于其副作用会严重影响下载器稳定性和 Tracker 负载，已计划停止支持
+  * 您可以使用 Transmission 的屏蔽名单功能，导入本规则的 URL
 
 您编写了一个针对某个下载器的教程？欢迎打开一个 Issue 提交它！
 
