@@ -2,6 +2,8 @@
 
 由 BTN 网络统计分析得出的可被安全的加入系统防火墙屏蔽的 IP 地址列表。
 
+![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/792975044/badge.svg)
+
 > [!NOTE]
 > 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。  
 
