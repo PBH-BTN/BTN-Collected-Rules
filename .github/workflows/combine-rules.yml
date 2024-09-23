@@ -26,6 +26,12 @@ jobs:
     - name: Cleanup Rules and Merge ips to CIDR
       run: java -cp ./tools/RuleCleaner.jar Main ./ ./combine/all.txt
 
+    - name: Add timestamp
+      run: |
+        file="./combine/all.txt"
+        timestamp=$(date +"%Y-%m-%d %H:%M:%S")
+        sed -i "1i PBH-BTN/BTN-Collected-Rules, generated at $timestamp." "$file"
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
