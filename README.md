@@ -79,6 +79,20 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 * ~~`gitlab.i.ljyun.cn-hangzhou-monitoring.txt` 包含被观测到使用 `gitlab.i.ljyun.cn/hangzhou/monitoring (devel) (anacrolix/torrent v1.55.0)` 的 IP 地址，此特征 Peers 使用较为固定的 IP 段刷流~~ 
   * 长时间未再发现拥有此特征的 IP 地址
 
+## 协议
+
+PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则使用[知识共享 署名 4.0 国际版 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可。以下是本许可的重要内容摘要：
+
+### 您可以自由地
+
+* 共享 — 在任何媒介以任何形式复制、发行本作品 在任何用途下，甚至商业目的。
+* 演绎 — 修改、转换或以本作品为基础进行创作 在任何用途下，甚至商业目的。
+* 只要你遵守许可协议条款，许可人就无法收回你的这些权利。
+
+### 惟须遵守下列条件：
+
+* 署名 — 您必须给出[适当的署名](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-appropriate-credit) ，提供指向本许可协议的链接，同时[标明是否（对原始作品）作了修改](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-indicate-changes) 。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+* 没有附加限制 — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-technological-measures) 从而限制其他人做许可协议允许的事情。
 ---
 
 [[Github 仓库]](https://github.com/PBH-BTN/BTN-Collected-Rules)  
