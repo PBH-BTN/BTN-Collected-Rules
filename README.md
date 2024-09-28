@@ -95,5 +95,10 @@ PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则
 * 没有附加限制 — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-technological-measures) 从而限制其他人做许可协议允许的事情。
 ---
 
+## 捐赠
+
+如果这份 IP 规则帮到了你，请考虑[在爱发电上支持我们](https://afdian.com/a/Ghost_chu)。  
+所有收入将用于支付服务运行所需的开销，并激励我们的社区和开发者在反吸血的道路上继续坚持下去。
+
 [[Github 仓库]](https://github.com/PBH-BTN/BTN-Collected-Rules)  
 Powered by CloudFlare Pages
