@@ -93,12 +93,13 @@ PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则
 
 * 署名 — 您必须给出[适当的署名](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-appropriate-credit) ，提供指向本许可协议的链接，同时[标明是否（对原始作品）作了修改](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-indicate-changes) 。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
 * 没有附加限制 — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by/4.0/deed.zh-hans#ref-technological-measures) 从而限制其他人做许可协议允许的事情。
----
 
 ## 捐赠
 
 如果这份 IP 规则帮到了你，请考虑[在爱发电上支持我们](https://afdian.com/a/Ghost_chu)。  
 所有收入将用于支付服务运行所需的开销，并激励我们的社区和开发者在反吸血的道路上继续坚持下去。
+
+---
 
 [[Github 仓库]](https://github.com/PBH-BTN/BTN-Collected-Rules)  
 Powered by CloudFlare Pages
