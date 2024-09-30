@@ -29,7 +29,7 @@
 * qBittorrent Enhanced Edition 通过 [PeerBanHelper 内置集成](https://pbh-btn.github.io/pbh-docs/docs/downloader/qBittorrentEE)提供高级支持和 qbEE 的 ShadowBan 支持
 * BiglyBT/Vuze/Azureus 通过 [PeerBanHelper 及其适配器插件](https://pbh-btn.github.io/pbh-docs/docs/downloader/BiglyBT)提供插件级高级支持
 * Deluge 通过 [PeerBanHelper 及其适配器插件]([https://github.com/PBH-BTN/PeerBanHelper](https://pbh-btn.github.io/pbh-docs/docs/downloader/Deluge))提供插件支持（目前暂无百科页面，参见[这里](https://github.com/PBH-BTN/PBH-Adapter-Deluge)安装）
-* BitComet 通过 [PeerBanHelper 内置集成]([https://pbh-btn.github.io/pbh-docs/docs/downloader/qBittorrent](https://pbh-btn.github.io/pbh-docs/docs/downloader/BitComet))提供基本支持
+* BitComet 通过 [PeerBanHelper 内置集成](https://pbh-btn.github.io/pbh-docs/docs/downloader/BitComet)提供基本支持
 * 其他下载器可通过 [BT_BAN](https://github.com/Oniicyan/BT_BAN) 获取支持
 
 您编写了一个针对某个下载器的教程？欢迎打开一个 Issue 提交它！
