@@ -60,7 +60,6 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 * `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
 * `random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)
 * `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动。此规则由人工手动更新
-* `dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为
 * `untrusted-ips.txt` 被多位 BTN 的客户端标记为问题 Peer 的 IP 地址列表
 * `overdownload-ips.txt` - 由 BTN 网络统计的超量下载列表，当单一 IP 地址在 BTN 网络上下载总量超过种子大小的一定比例（目前为 250%）时才会加入此列表
 * `strange_ipv6_block.txt` - 在数据筛选检查过程中发现的一些异常的 IPV6 地址
@@ -76,6 +75,8 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
   * 长时间未再发现拥有此特征的 IP 地址
 * ~~`ipv6-dhcp-address.txt` - 使用 DHCP 分配的 IPV6 地址（IPV6 常使用 SLAAC 而非 DHCP），根据 Sparkle 统计数据显示，大部分 DHCP 的 IPV6 地址都为吸血 Peer （由于更改 IPV6 后缀地址绕过反吸血和用作混淆）。此规则内包含**已被用户标记为吸血**的 DHCP IPV6 地址。无封禁记录的 DHCP IPV6 地址并不会被一刀切到此规则内。~~
   * 改进了识别方式并已合并到 `strange_ipv6_block.txt`
+* ~~`dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为~~
+  * 已合并到 `strange_ipv6_block.txt`
 ## 协议
 
 PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则使用[知识共享 署名 4.0 国际版 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可。以下是本许可的重要内容摘要：
