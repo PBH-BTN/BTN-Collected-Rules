@@ -5,7 +5,14 @@
 ![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/792975044/badge.svg)
 
 > [!NOTE]
-> 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。  
+> 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。
+
+## 注意
+
+此项目**不能**作为唯一反吸血手段使用，它无法代替由反吸血程序提供的本地检测能力。它也并非是 PeerBanHelper 的核心 “全量” 数据。此项目的存在一切皆依赖于连接到 BTN 网络的用户。**规则并不是大风吹来的**。  
+鼓励您使用在可能的情况下优先使用[PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)并[连接到 BTN 网络](https://pbh-btn.github.io/pbh-docs/docs/btn/connect)，以便向本仓库贡献数据。  
+
+任何已在反作弊辅助脚本、工具、程序中使用本项目提供的数据的朋友，请您考虑[实现 BitTorrent Threat Network 标准规范](https://github.com/PBH-BTN/BTN-Spec)，以便向网络提交数据。
 
 ## 如何使用
 
