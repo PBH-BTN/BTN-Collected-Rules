@@ -18,19 +18,8 @@ jobs:
     - name: Create combine directory
       run: mkdir -p combine
 
-    - uses: actions/setup-java@v4
-      with:
-        distribution: "temurin"
-        java-version: "21"
-
     - name: Cleanup Rules and Merge ips to CIDR
-      run: java -cp ./tools/RuleCleaner.jar Main ./ ./combine/all.txt
-
-    - name: Add timestamp
-      run: |
-        file="./combine/all.txt"
-        timestamp=$(date +"%Y-%m-%d %H:%M:%S")
-        sed -i "1i # PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at $timestamp UTC." "$file"
+      run: python3 ./tools/combine.py
 
     - name: Commit and push changes
       run: |
