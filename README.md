@@ -4,6 +4,9 @@
 
 ![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/792975044/badge.svg)
 
+> [!WARNING]
+> 自 11 月以来，全国各省份、城市突发大量吸血客户端，并通过反复重新拨号和软件手段频繁更换 IP 地址。这导致了本规则的质量和精确性有所下降。  
+
 > [!NOTE]
 > 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。
 
