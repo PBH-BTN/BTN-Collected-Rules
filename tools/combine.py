@@ -49,8 +49,8 @@ with open("combine/all.txt", "w", encoding='utf-8') as f:
     f.write(header.format(time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC'), ipv4_prefix=ipv4_prefix, ipv6_prefix=ipv6_prefix))
     
     for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv4_blocklist.keys()]):
-        f.write(str(ip))
+        f.write(str(ip.network_address) if ip.prefixlen == 32 else str(ip))
         f.write("\n")
     for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv6_blocklist.keys()]):
-        f.write(str(ip))
+        f.write(str(ip.network_address) if ip.prefixlen == 128 else str(ip))
         f.write("\n")
