@@ -1,6 +1,7 @@
-import glob, ipaddress
+import glob
+import ipaddress
 from collections import Counter
-from datetime import datetime
+from datetime import datetime, timezone
 
 ipv4_prefix = 24
 ipv6_prefix = 56
@@ -18,7 +19,7 @@ ipv6_prefix_counter = Counter()
 
 for name in glob.glob("*.txt"):
     with open(name, encoding='utf-8') as f:
-        for l in f.readlines():
+        for l in f:
             line = l.strip()
             if line.startswith("#") or len(line) <= 2:
                 continue
@@ -46,11 +47,11 @@ for ip, count in ipv6_prefix_counter.most_common():
         break
 
 with open("combine/all.txt", "w", encoding='utf-8') as f:
-    f.write(header.format(time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC'), ipv4_prefix=ipv4_prefix, ipv6_prefix=ipv6_prefix))
-    
-    for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv4_blocklist.keys()]):
+    f.write(header.format(time=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z'), ipv4_prefix=ipv4_prefix, ipv6_prefix=ipv6_prefix))
+
+    for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv4_blocklist]):
         f.write(str(ip.network_address) if ip.prefixlen == 32 else str(ip))
         f.write("\n")
-    for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv6_blocklist.keys()]):
+    for ip in ipaddress.collapse_addresses([ipaddress.ip_network(x) for x in ipv6_blocklist]):
         f.write(str(ip.network_address) if ip.prefixlen == 128 else str(ip))
         f.write("\n")
