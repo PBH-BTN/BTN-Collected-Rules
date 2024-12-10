@@ -1,11 +1,8 @@
 # BTN-Collected-Rules
 
-由 BTN 网络统计分析得出的可被安全的加入系统防火墙屏蔽的 IP 地址列表。
+由 BTN 网络统计分析和维护的 BitTorrent 恶意/疑似恶意 IP 地址集合。
 
 ![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/792975044/badge.svg)
-
-> [!WARNING]
-> 自 11 月以来，全国各省份、城市突发大量吸血客户端，并通过反复重新拨号和软件手段频繁更换 IP 地址。这导致了本规则的质量和精确性有所下降。  
 
 > [!NOTE]
 > 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。
@@ -23,7 +20,6 @@
 当然，你也可以配合路由器/网关 ACL 或防火墙规则，直接在网关处掐断这些 IP 的连接。  
 
 如果你已经在使用 qBittorrent, BiglyBT, Deluge 或者 Vuze/Azureus，请优先使用[PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper)，该工具不但支持本仓库的规则，且带有更多如启发式检测等高级检测手段。且在加入 BTN 的情况下，可向本仓库自动提交贡献数据。  
-
 
 ## 订阅链接
 
