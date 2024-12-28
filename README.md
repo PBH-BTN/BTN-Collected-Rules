@@ -59,16 +59,9 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 ## IP 规则说明
 
 * `combine/all.txt` 包含下列所有规则
-* `hp_torrent.txt` 包含被观测到的 `hp/torrent` 的 IP 地址
-* `dt_torrent.txt` 包含被观测到的 `dt/torrent` 的 IP 地址
-* `go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址
-* `0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址
-* `123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用
-* `random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)
 * `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动。此规则由人工手动更新
 * `untrusted-ips.txt` 被多位 BTN 的客户端标记为问题 Peer 的 IP 地址列表
 * `overdownload-ips.txt` - 由 BTN 网络统计的超量下载列表，当单一 IP 地址在 BTN 网络上下载总量超过种子大小的一定比例（目前为 250%）时才会加入此列表
-* `strange_ipv6_block.txt` - 在数据筛选检查过程中发现的一些异常的 IPV6 地址
 * `high-risk-ips.txt` - 符合近期流行的吸血特征且因吸血而被的 IP 地址列表，此列表内的 IP 不受共识机制的最低共认人数的限制
 * `tracker-high-risk-ips.txt` - 通过 Sparkle Tracker 的数据生成的 BTN 规则，借助 Tracker 的力量生成更加准确的规则数据
 
@@ -84,6 +77,20 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
   * 改进了识别方式并已合并到 `strange_ipv6_block.txt`
 * ~~`dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为~~
   * 已合并到 `strange_ipv6_block.txt`
+* ~~`hp_torrent.txt` 包含被观测到的 `hp/torrent` 的 IP 地址~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持
+* ~~`dt_torrent.txt` 包含被观测到的 `dt/torrent` 的 IP 地址~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持
+* ~~`go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持
+* ~~`0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持
+* ~~`123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持
+* ~~`random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)~~
+  * 建议使用客户端名称过滤，主流下载器已全部支持 (PeerID 随机但客户端名称不变)
+* ~~`strange_ipv6_block.txt` - 在数据筛选检查过程中发现的一些异常的 IPV6 地址~~
+  * 误伤严重
 ## 协议
 
 PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则使用[知识共享 署名 4.0 国际版 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可。以下是本许可的重要内容摘要：
