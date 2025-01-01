@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-01 14:35:22 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-01 15:00:20 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -3049,9 +3049,9 @@
 36.142.44.187
 36.154.212.174
 42.94.167.246
+46.103.74.253
 59.146.29.93
 60.246.14.105
-61.160.198.117
 61.160.237.138
 61.160.237.150
 61.223.132.168
@@ -4572,6 +4572,11 @@
 # 江苏省 常州市 qBittorrent/4.6.x
 # 河南省 开封市 尉氏县 aria2/1.34.0
 61.147.218.0/24
+
+# [Merged Comment]
+# overdownload-ips.txt
+# high-risk-ips.txt
+61.160.198.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
