@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-01 21:35:22 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-01 22:00:20 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -3857,7 +3857,6 @@
 183.145.110.185
 183.195.98.79
 185.232.70.102
-188.245.215.163
 197.249.229.223
 211.103.112.139
 218.17.79.238
@@ -5410,6 +5409,13 @@
 # Netcup 结束
 61.160.240.0/22
 
+# high-risk-ips.txt
+62.210.211.55
+125.81.160.110
+158.178.233.109
+218.88.254.232
+223.73.75.130
+
 # 马赛 Oracle Cloud 开始
 79.72.24.0/21
 84.235.224.0/20
@@ -5558,12 +5564,6 @@
 # 浙江省 温州市 尉氏县/乐清市/苍南县/鹿城区/龙湾区/瑞安市 结束
 # Quanzhou city IDC 开始
 125.77.176.0/23
-
-# high-risk-ips.txt
-125.81.160.110
-158.178.233.109
-218.88.254.232
-223.73.75.130
 
 # [Merged Comment]
 # CHINANET-ZJ Wenzhou node network — www.chinatelecom.com.cn  - qBittorrent/4.6.3 inf download
