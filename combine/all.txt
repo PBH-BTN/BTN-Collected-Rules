@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-03 18:35:33 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-03 19:00:35 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -12012,7 +12012,6 @@
 112.20.158.0/24
 112.41.88.0/24
 112.43.124.0/24
-112.87.15.0/24
 112.101.190.0/24
 112.114.38.0/23
 112.114.40.0/23
@@ -13034,6 +13033,7 @@
 # high-risk-ips.txt
 62.210.211.55
 111.32.107.102
+142.132.151.206
 183.218.163.139
 223.73.75.130
 
@@ -13097,6 +13097,11 @@
 112.46.3.0/24
 113.137.59.0/24
 113.200.3.0/24
+
+# [Merged Comment]
+# untrusted-ips.txt
+# multi-dial.txt
+112.87.15.0/24
 
 # [Merged Comment]
 # libtorrent IDC
