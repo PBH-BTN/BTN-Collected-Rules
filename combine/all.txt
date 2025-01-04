@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-04 21:00:20 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-04 22:00:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 河南省 开封市 尉氏县 aria2/1.34.0
@@ -1668,12 +1668,6 @@
 # Netcup 结束
 61.160.240.0/22
 
-# high-risk-ips.txt
-62.210.211.55
-111.32.107.102
-142.132.151.206
-183.218.163.139
-
 # 马赛 Oracle Cloud 开始
 79.72.24.0/21
 84.235.224.0/20
@@ -1725,6 +1719,11 @@
 123.52.248.0/22
 123.180.40.0/22
 123.180.72.0/21
+
+# high-risk-ips.txt
+111.32.107.102
+142.132.151.206
+183.218.163.139
 
 # 不但刷流BT，还在刷 Sparkle Tracker
 112.45.16.0/22
