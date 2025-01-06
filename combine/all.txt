@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:00:27 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:05:55 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -3422,8 +3422,6 @@
 60.91.54.23
 60.163.50.42
 61.140.123.149
-61.160.198.0/24
-61.160.237.0/24
 61.223.132.168
 66.74.197.26
 76.64.155.208
@@ -5010,6 +5008,32 @@
 
 # [Merged Comment]
 # overdownload-ips.txt
+# aria2c115
+# aria2c117
+# aria2c118
+# 61.160.198.119
+# aria2c120
+# aria2c121
+# aria2c123
+# aria2c198-114
+61.160.198.0/24
+
+# [Merged Comment]
+# overdownload-ips.txt
+# aria2c130
+# aria2c133
+# aria2c138
+# aria2c145
+# aria2c146
+# aria2c147
+# aria2c148
+# aria2c149
+# aria2c150
+# aria2c151
+61.160.237.0/24
+
+# [Merged Comment]
+# overdownload-ips.txt
 #61.160.240.0/22 # 待检查，先使用 24
 # czdx90, 61.160.241.90-61.160.241.199
 # Netcup 结束
@@ -5089,12 +5113,24 @@
 
 # [Merged Comment]
 # overdownload-ips.txt
+# ---START--- aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
+# aria2c12
+# aria2c13
+# aria2c21-12
 # 河南省 开封市 尉氏县 aria2/1.34.0
 114.227.158.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
+# ---START--- aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
 #61.160.240.0/22 # 待检查，先使用 24
+# aria2c12
+# aria2c13
+# aria2c14
+# aria2c15
+# aria2c16
+# aria2c17
+# aria2c18
 114.228.87.0/24
 
 # [Merged Comment]
