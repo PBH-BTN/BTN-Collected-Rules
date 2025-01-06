@@ -57,6 +57,15 @@ def which_have_me(new_ip, ip_list):
             return ip
     return None
 
+def add_comment(ip,comment_block,comment):
+    if not ip in comment_blocks:
+        comment_blocks[ip] = []
+    comment_blocks[ip].append(comment_block)
+    if comment:
+        if not ip in comments_single:
+            comments_single[ip] = []
+        comments_single[ip].append(comment)
+
 for name in glob.glob("*.txt"):
     with open(name, encoding='utf-8') as f:
         comment_block = "# " + name
@@ -67,7 +76,10 @@ for name in glob.glob("*.txt"):
             if not ip:
                 comment_block = line
                 continue
-            
+            if ip.version == 6 and ip.network_address.ipv4_mapped:
+                ipv6_blocklist[ip] += 1
+                add_comment(ip,comment_block,comment)
+                ip = ipaddress.ip_network(ip.network_address.ipv4_mapped)
             if ip.version == 4:
                 ipv4_blocklist[ip] += 1
                 prefix = ipaddress.ip_network((ip.network_address, ipv4_prefix), strict=False)
@@ -76,14 +88,7 @@ for name in glob.glob("*.txt"):
                 ipv6_blocklist[ip] += 1
                 prefix = ipaddress.ip_network((ip.network_address, ipv6_prefix), strict=False)
                 ipv6_prefix_counter[prefix] += 1
-            
-            if not ip in comment_blocks:
-                comment_blocks[ip] = []
-            comment_blocks[ip].append(comment_block)
-            if comment:
-                if not ip in comments_single:
-                    comments_single[ip] = []
-                comments_single[ip].append(comment)
+            add_comment(ip,comment_block,comment)
 
 for ip, count in ipv4_prefix_counter.most_common():
     if count >= ipv4_merge_count:
