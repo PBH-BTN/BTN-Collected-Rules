@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:17:49 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:24:47 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -3540,6 +3540,11 @@
 2a00:7c80:0:250::/60
 2a01:4f9:5a:2120::/60
 
+# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行网心云容器魔方 PCDN 节点
+14.117.223.127
+27.156.108.147
+27.156.109.174
+
 # 辽宁省 大连市 全域 V4V6 封禁开始
 17.93.24.0/21
 17.94.240.0/21
@@ -4032,6 +4037,9 @@
 240e:658:a22::/47
 2605:6400:20::/47
 2a02:a03f:8959:a300::/56
+
+# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行甜糖 PCDN 节点
+27.25.74.82
 
 # libtorrent IDC
 27.133.128.0/19
