@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:05:55 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 11:10:17 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -4523,7 +4523,6 @@
 183.197.24.0/24
 183.198.224.0/24
 183.198.226.0/24
-223.111.104.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
@@ -4894,6 +4893,7 @@
 
 # [Merged Comment]
 # overdownload-ips.txt
+# ---START--- localhost.localdomain
 # 江苏省 常州市 天宁区 aria2/1.37.00 (less)
 58.216.63.0/24
 
@@ -5008,6 +5008,7 @@
 
 # [Merged Comment]
 # overdownload-ips.txt
+# ---START--- localhost.localdomain
 # aria2c115
 # aria2c117
 # aria2c118
@@ -5283,6 +5284,11 @@
 
 # Quanzhou city ID 结束
 223.109.144.0/21
+
+# [Merged Comment]
+# ---START--- localhost.localdomain
+# 中国 湖南省邵阳市大祥中国电信 大量封禁记录 结束
+223.111.104.0/24
 
 # 中国 湖南省怀化市麻阳中国电信 部分 PPPOE 开始
 223.149.44.0/22
