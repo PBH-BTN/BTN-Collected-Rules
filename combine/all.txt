@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 12:35:24 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 12:44:41 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -4904,7 +4904,6 @@
 153.35.80.198
 153.36.98.210
 153.36.98.218
-169.150.243.3
 175.21.217.219
 175.152.52.96
 175.155.175.162
@@ -5097,7 +5096,10 @@
 223.113.218.250
 223.167.64.221
 223.241.39.54
-::/56
+::ffff:a996:f303
+::ffff:b96b:2d09
+::ffff:b96b:2d0f
+::ffff:b96b:2d28
 
 # [Merged Comment]
 # overdownload-ips.txt
@@ -5174,6 +5176,11 @@
 # high-risk-ips.txt
 # multi-dial.txt
 153.99.234.0/24
+
+# [Merged Comment]
+# 合并
+# 合并
+169.150.243.3
 
 # [Merged Comment]
 # 2024-10-30 辽宁省网滥用，分段抑制
