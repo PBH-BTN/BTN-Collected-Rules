@@ -64,6 +64,12 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 * `overdownload-ips.txt` - 由 BTN 网络统计的超量下载列表，当单一 IP 地址在 BTN 网络上下载总量超过种子大小的一定比例（目前为 250%）时才会加入此列表
 * `high-risk-ips.txt` - 符合近期流行的吸血特征且因吸血而被的 IP 地址列表，此列表内的 IP 不受共识机制的最低共认人数的限制
 * `tracker-high-risk-ips.txt` - 通过 Sparkle Tracker 的数据生成的 BTN 规则，借助 Tracker 的力量生成更加准确的规则数据
+* `aria2c.txt` - 使用 aria2 特征刷流的 IP 地址，按主机名分类，非完整列表
+* `cevskxsnm-10-idc.txt` - 分布在特定 IDC 下运行刷流业务的 IP 地址，按主机名分类，非完整列表
+* `gopeeddev.txt` - 执行 Gopeed dev 刷流业务的 IP 地址，按主机名分类，非完整列表
+* `poonisxq-10.txt` - 某运行电影文件分发业务公司的刷流边缘节点，由于边缘节点过多，因此本列表未按照主机名分类，非完整列表，可能频繁变动
+* `tiantang-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行甜糖 PCDN 节点的 IP 地址列表，非完整列表
+* `wangxin-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行网心云 PCDN 节点的 IP 地址列表，非完整列表
 
 ## 被移除的规则
 
