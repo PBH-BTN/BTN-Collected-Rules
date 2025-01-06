@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 10:35:24 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-06 10:49:59 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # tracker-high-risk-ips.txt
@@ -3327,7 +3327,6 @@
 23.146.40.2
 27.210.136.185
 36.226.201.238
-36.250.249.0/24
 39.107.247.138
 42.79.6.174
 48.210.217.182
@@ -4530,7 +4529,13 @@
 # overdownload-ips.txt
 # 福建省 泉州市 qBittorrent/4.6.6
 # Quanzhou city IDC 开始
+# qzlt200, 36.250.241.200-36.250.241.214
 36.250.241.0/24
+
+# [Merged Comment]
+# untrusted-ips.txt
+# qzdx240, 36.250.249.25-36.250.249.39
+36.250.249.0/24
 
 # 福建省 泉州市 qBittorrent/4.6.6
 39.146.97.0/24
@@ -4891,11 +4896,17 @@
 # overdownload-ips.txt
 # 江苏省 常州市 天宁区 aria2/1.37.00 (less)
 58.216.63.0/24
+
+# [Merged Comment]
+# overdownload-ips.txt
+# 江苏省 常州市 天宁区 aria2/1.37.00 (less)
+# xzdx240, 58.218.213.240-58.218.213.254
 58.218.213.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
 # Netcup 结束
+# czlt90, 58.241.88.90-58.241.88.109
 # 江苏省 常州市 qBittorrent/4.6.x
 58.241.88.0/24
 
@@ -4998,6 +5009,7 @@
 # [Merged Comment]
 # overdownload-ips.txt
 #61.160.240.0/22 # 待检查，先使用 24
+# czdx90, 61.160.241.90-61.160.241.199
 # Netcup 结束
 61.160.240.0/22
 
@@ -5026,6 +5038,7 @@
 # [Merged Comment]
 # overdownload-ips.txt
 # multi-dial.txt
+# tzlt80, 101.69.63.80-101.69.63.94
 101.69.63.0/24
 
 # [Merged Comment]
@@ -5126,6 +5139,7 @@
 # overdownload-ips.txt
 # Netcup 结束
 # 下面这个可能范围略大
+# sxlt90, 124.91.148.90-124.91.148.222
 124.91.148.0/24
 
 # CHINANET-ZJ Wenzhou node network — www.chinatelecom.com.cn
@@ -5143,6 +5157,7 @@
 # multi-dial.txt
 # 辽宁也开始咔咔刷了
 # 河南省 开封市 尉氏县 aria2/1.34.0
+# fzdx90, 125.77.27.90-125.77.27.115
 125.77.27.0/24
 
 # [Merged Comment]
@@ -5201,6 +5216,7 @@
 # overdownload-ips.txt
 # multi-dial.txt
 # Oracle Cloud
+# hzdx90, 183.131.169.90-183.131.169.119
 # Hangzhou Sulian Mdt InfoTech Ltd — sulianidc.com - why?
 # CHINANET-ZJ Huzhou node network — www.chinatelecom.com.cn
 183.131.128.0/17
