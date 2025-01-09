@@ -110,6 +110,11 @@ deleted = list(set(comment_blocks.keys()) - set(collapsed))
 
 comment_blocks_new = {}
 
+# Debug output to inspect deleted IPs and added IPs
+print(f"Collapsed IPs: {collapsed}")
+print(f"Deleted IPs: {deleted}")
+print(f"Added IPs: {added}")
+
 for old_ip in deleted:
     ip = which_have_me(old_ip, collapsed)
     if ip and ip not in added:
