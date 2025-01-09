@@ -51,6 +51,12 @@ def i_include_which(new_ip, ip_list):
             ips.append(ip)
     return ips
 
+def which_have_me(new_ip, ip_list):
+    for ip in ip_list:
+        if ip.version == new_ip.version and new_ip.subnet_of(ip):
+            return ip
+    return None
+
 def add_comment(ip, comment_block, comment):
     if ip not in comment_blocks:
         comment_blocks[ip] = []
