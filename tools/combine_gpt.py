@@ -16,6 +16,8 @@ comments_single = {}  # IP -> 单行注释映射
 current_block = None  # 当前注释块
 
 def parse_line(line):
+    global current_block  # 移动到函数开头
+    
     line = line.strip()
     if not line:
         return None, None, None
@@ -31,14 +33,12 @@ def parse_line(line):
                 if blocks_stack:
                     blocks_stack[-1].extend(current)
                 else:
-                    global current_block
                     current_block = '\n'.join(current)
             return None, None, None
         else:
             if blocks_stack:
                 blocks_stack[-1].append(line)
             else:
-                global current_block
                 current_block = line if not current_block else current_block + '\n' + line
             return None, None, None
 
