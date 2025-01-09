@@ -18,7 +18,7 @@ jobs:
       run: mkdir -p combine
 
     - name: Cleanup Rules and Merge ips to CIDR
-      run: python3 ./tools/combine_gpt.py
+      run: python3 ./tools/combine.py
 
     - name: Commit and push changes
       run: |
