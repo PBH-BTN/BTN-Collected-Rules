@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - '**.txt'
+      - '**.py'
+      - '**.yml'
   workflow_dispatch:
 
 jobs:
