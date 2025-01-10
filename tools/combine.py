@@ -143,13 +143,15 @@ for ip in collapsed:
         if old_ip in comments_line:
             comment_multi_line += comments_line[old_ip]
     if len(comment_multi_line):
-        ip_str = "\n".join(set(comment_multi_line)) + "\n" + ip_str
+        ip_str = "\n".join({}.fromkeys(comment_multi_line).keys()) + "\n" + ip_str
     comments_block_new[new_comment_block].append(ip_str)
 
 with open("combine/all.txt", "w", encoding='utf-8') as f:
     f.write(header.format(time=datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %Z'), ipv4_prefix=ipv4_prefix, ipv6_prefix=ipv6_prefix))
     for comment_block in comments_block_new:
-        f.write(comment_block)
+        for new_ip in comments_block_new[comment_block]:
+            f.write(comment_block)
+            f.write("\n")
+            f.write(new_ip)
+            f.write("\n")
         f.write("\n")
-        f.write("\n".join(comments_block_new[comment_block]))
-        f.write("\n\n")
