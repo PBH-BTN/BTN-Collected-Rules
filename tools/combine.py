@@ -31,10 +31,10 @@ def parse_line(l):
     if line.startswith("#"):
         return line, None, None
     if not "#" in line:
-        return line, ipaddress.ip_network(line, strict=False), None
+        return line, ipaddress.ip_network(line, strict=True), None
     else:
         mark = line.find("#")
-        return line, ipaddress.ip_network(line[:mark].strip(), strict=False), line[mark:]
+        return line, ipaddress.ip_network(line[:mark].strip(), strict=True), line[mark:]
 
 def find_comments_block(new_ip, full=False):
     if not full and new_ip in comments_block:
