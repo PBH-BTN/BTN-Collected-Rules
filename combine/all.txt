@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-10 13:30:17 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-10 13:50:20 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # overdownload-ips.txt
@@ -1811,6 +1811,9 @@
 # [AutoGen] Tracker 数据 {PeerId: -TR3000-;#rËbTdzÆ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
 2408:8239:2204:3270::/60
 # tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -BC0211-7t>ÊY;, 端口号: 16896, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Transmission 2.94}
+2408:8270:40:9f90::/60
+# tracker-high-risk-ips.txt
 # [AutoGen] Tracker 数据 {PeerId: -TR3000-¦q¥ÝA¡ÎF6å[, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 499875840, 上传字节数（自汇报）: 596524114, 下载字节数（自汇报）: 1607503766, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
 2409:8a1e:7ee7:3360::/60
 # tracker-high-risk-ips.txt
@@ -2189,10 +2192,13 @@
 220.190.0.0/17
 # multi-dial.txt
 # 复查于 25/1/9 Transmission 4.0.6 （113 条进度回退）
-2408:825c::/32
+2408:825c:5020::/48
+# multi-dial.txt
+# 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 (94 条进度回退)
+2408:8270:2220::/48
 # multi-dial.txt
 # 复查于 25/1/9 qBittorrent/5.0.x 刷流 (44 条进度回退)
-240e:660::/32
+240e:660:150c::/48
 # multi-dial.txt
 # 复查于 25/1/9 Transmission 4.0.5 （19 条进度回退）
 2603:3024:1d06:5500::/64
@@ -2731,11 +2737,4 @@
 
 # localhost.localdomain
 223.111.104.0/25
-
-# [Merged Comment]
-# multi-dial.txt
-# tracker-high-risk-ips.txt
-# 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 (94 条进度回退)
-# [AutoGen] Tracker 数据 {PeerId: -BC0211-7t>ÊY;, 端口号: 16896, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Transmission 2.94}
-2408:8270::/32
 
