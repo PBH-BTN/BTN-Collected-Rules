@@ -68,9 +68,7 @@ def add_comment(ip,comment_block,comment_multi_line):
     
     if not ip in comments_line:
         comments_line[ip] = []
-    for comment in comment_multi_line:
-        if not comment in comments_line[ip]:
-            comments_line[ip].append(comment)
+    comments_line[ip] += comment_multi_line
 
 for name in glob.glob("*.txt"):
     with open(name, encoding='utf-8') as f:
@@ -145,7 +143,7 @@ for ip in collapsed:
         if old_ip in comments_line:
             comment_multi_line += comments_line[old_ip]
     if len(comment_multi_line):
-        ip_str = "\n".join(comment_multi_line) + "\n" + ip_str
+        ip_str = "\n".join(set(comment_multi_line)) + "\n" + ip_str
     comments_block_new[new_comment_block].append(ip_str)
 
 with open("combine/all.txt", "w", encoding='utf-8') as f:
