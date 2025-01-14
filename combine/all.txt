@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-14 15:30:17 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-14 16:00:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1449,6 +1449,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 222.125.69.209
 # untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+223.89.93.184
+# untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 223.90.139.153
 # untrusted-ips.txt
@@ -1490,6 +1493,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 240e:389:4302:9400::/60
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+240e:38b:2e47:c000::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 240e:3b3:5a04:3630::/60
@@ -2338,9 +2344,6 @@
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (17 条进度回退)
 27.133.128.0/19
 # multi-dial.txt
-# qBittorrent/4.6.7 刷流 福建福州
-36.248.74.0/24
-# multi-dial.txt
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (39 条进度回退)
 59.106.192.0/19
 # multi-dial.txt
@@ -2420,6 +2423,13 @@
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 # [AutoGen] 从大小为 5 GB 的种子上下载了 201 GB 的数据。下载比(100%=完整下载1次种子的大小)： 3840.66%
 36.154.212.174
+
+# [Merged Comment]
+# untrusted-ips.txt
+# multi-dial.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+# qBittorrent/4.6.7 刷流 福建福州
+36.248.74.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
