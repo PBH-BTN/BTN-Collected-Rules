@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-15 01:30:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-15 02:00:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1214,7 +1214,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 39.162.37.26
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 39.183.128.60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -1225,6 +1225,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
 49.84.39.114
+# untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+49.89.106.190
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 49.93.249.37
@@ -1355,8 +1358,8 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 120.231.220.225
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 122.224.33.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -1382,9 +1385,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 156.146.45.114
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-156.146.45.116
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 171.14.167.155
@@ -1874,6 +1874,12 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 11 GB 的种子上下载了 41 GB 的数据。下载比(100%=完整下载1次种子的大小)： 366.83%
 114.93.51.235
+# overdownload-ips.txt
+# [AutoGen] 从大小为 483 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1388.24%
+114.226.31.70
+# overdownload-ips.txt
+# [AutoGen] 从大小为 432 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 439.67%
+114.226.31.74
 # overdownload-ips.txt
 # [AutoGen] 从大小为 38 GB 的种子上下载了 156 GB 的数据。下载比(100%=完整下载1次种子的大小)： 410.65%
 115.218.44.104
@@ -2462,13 +2468,6 @@
 # [AutoGen] 从大小为 535 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 575.68%
 # [AutoGen] 从大小为 535 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 557.19%
 58.216.104.0/24
-# [Merged Comment]
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 从大小为 483 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1388.24%
-# [AutoGen] 从大小为 432 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 439.67%
-114.226.31.0/24
 
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
 # czlt100, 58.241.88.6-58.241.88.125
