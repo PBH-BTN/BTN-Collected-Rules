@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-16 08:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-16 09:00:17 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1197,6 +1197,9 @@
 1.175.175.212
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+1.192.242.35
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2.58.241.30
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -1450,6 +1453,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.71.10.115
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+218.71.11.170
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.71.12.155
@@ -2506,6 +2512,8 @@
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (625 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 125.77.176.0/24
 # multi-dial.txt
+125.109.0.0/17
+# multi-dial.txt
 # 复查于 25/1/9 Transmission 4.0.6 （113 条进度回退）
 2408:825c:5020::/48
 # multi-dial.txt
@@ -2558,11 +2566,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # qBittorrent/4.6.7 刷流 福建福州
 36.248.74.0/24
-# [Merged Comment]
-# untrusted-ips.txt
-# multi-dial.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-125.109.0.0/17
 
 # [Merged Comment]
 # overdownload-ips.txt
