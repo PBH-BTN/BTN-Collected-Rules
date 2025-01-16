@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-16 02:30:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-16 03:00:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1238,7 +1238,7 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.47.225.203
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.47.237.201
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1288,9 +1288,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 111.246.195.242
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-112.10.232.213
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 112.10.235.62
@@ -1384,6 +1381,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 123.235.197.226
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+124.16.123.108
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 124.214.65.200
@@ -1534,9 +1534,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2409:8a1e:86b4:4a80::/60
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2409:8a28:c31:3a30::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2409:8a28:c53:3d10::/60
@@ -2421,8 +2418,6 @@
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (625 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 125.77.176.0/24
 # multi-dial.txt
-125.109.0.0/17
-# multi-dial.txt
 # 复查于 25/1/9 Transmission 4.0.6 （113 条进度回退）
 2408:825c:5020::/48
 # multi-dial.txt
@@ -2475,6 +2470,11 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # qBittorrent/4.6.7 刷流 福建福州
 36.248.74.0/24
+# [Merged Comment]
+# untrusted-ips.txt
+# multi-dial.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+125.109.0.0/17
 
 # [Merged Comment]
 # overdownload-ips.txt
