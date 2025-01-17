@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-17 04:30:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-01-17 05:00:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1189,9 +1189,28 @@
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 ::ffff:b96b:2d28
 
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-1.82.129.171
+# wangxin-pcdn.txt
+1.83.127.93
+# wangxin-pcdn.txt
+# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行网心云 PCDN 节点
+14.117.223.127
+# wangxin-pcdn.txt
+27.156.108.147
+# wangxin-pcdn.txt
+27.156.109.174
+# wangxin-pcdn.txt
+58.246.101.251
+# wangxin-pcdn.txt
+60.178.231.76
+# wangxin-pcdn.txt
+61.240.243.20
+# wangxin-pcdn.txt
+110.90.207.129
+# wangxin-pcdn.txt
+112.66.84.243
+# wangxin-pcdn.txt
+112.103.141.134
+
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 1.175.175.212
@@ -1201,9 +1220,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2.58.241.30
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2.58.242.90
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 14.134.187.86
@@ -1235,7 +1251,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 50.115.93.36
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 58.216.8.81
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -1350,9 +1366,6 @@
 120.231.220.225
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-122.233.204.49
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 122.235.133.185
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -1398,13 +1411,7 @@
 172.98.12.231
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-173.35.77.63
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 173.56.19.111
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-175.213.169.124
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 177.254.92.110
@@ -1414,6 +1421,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.27.62.236
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+192.42.116.244
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 195.154.125.57
@@ -1528,28 +1538,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2602:ffd5:1:200::/60
-
-# wangxin-pcdn.txt
-1.83.127.93
-# wangxin-pcdn.txt
-# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行网心云 PCDN 节点
-14.117.223.127
-# wangxin-pcdn.txt
-27.156.108.147
-# wangxin-pcdn.txt
-27.156.109.174
-# wangxin-pcdn.txt
-58.246.101.251
-# wangxin-pcdn.txt
-60.178.231.76
-# wangxin-pcdn.txt
-61.240.243.20
-# wangxin-pcdn.txt
-110.90.207.129
-# wangxin-pcdn.txt
-112.66.84.243
-# wangxin-pcdn.txt
-112.103.141.134
 
 # overdownload-ips.txt
 # [AutoGen] 从大小为 660 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 452.62%
