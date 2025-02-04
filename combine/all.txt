@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-04 05:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-04 06:00:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # overdownload-ips.txt
@@ -2307,9 +2307,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.47.237.201
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-59.58.117.194
-# untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 59.174.134.38
 # untrusted-ips.txt
@@ -2452,9 +2449,6 @@
 118.161.204.57
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-119.108.35.226
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 120.43.54.119
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -2592,7 +2586,7 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 182.137.203.92
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 182.149.97.248
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -2685,6 +2679,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2408:8239:4101:1720::/60
 # untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+2408:823c:5611:9cc0::/60
+# untrusted-ips.txt
 # [AutoGen] 被 11 个用户应用程序上报为不信任的 IP 地址
 2408:8256:681:78f0::/60
 # untrusted-ips.txt
@@ -2758,6 +2755,9 @@
 # multi-dial.txt
 # 复查于 25/1/9 Transmission 4.06 （19 条进度回退）
 94.140.5.0/24
+# multi-dial.txt
+# 2025/02/02 福建省 莆田市 荔城区 Transmission 2.9x 刷流
+110.85.108.0/24
 # multi-dial.txt
 # 复查于 25/1/9 Deluge 刷流
 112.87.15.0/24
@@ -3215,13 +3215,6 @@
 # aria2c151
 61.160.237.0/24
 
-# [Merged Comment]
-# untrusted-ips.txt
-# multi-dial.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-# 2025/02/02 福建省 莆田市 荔城区 Transmission 2.9x 刷流
-110.85.108.0/24
-
 # nt
 112.21.127.2
 # nt
@@ -3305,11 +3298,10 @@
 # [AutoGen] 从大小为 394 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 383.22%
 114.228.87.0/24
 
-# [Merged Comment]
-# untrusted-ips.txt
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 117.26.238.0/24
+# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
+140.237.6.0/24
 
 # admin12
 122.193.222.2
@@ -3341,9 +3333,6 @@
 # [AutoGen] 从大小为 990 MB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 503.28%
 # 复查于 25/1/9 hp/torrent 和 Gopeed dev 活跃
 124.225.96.0/19
-
-# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
-140.237.6.0/24
 
 # [Merged Comment]
 # high-risk-ips.txt
