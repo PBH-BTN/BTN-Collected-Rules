@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-08 18:30:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-08 19:30:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # untrusted-ips.txt
@@ -79,9 +79,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.41.195.227
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-59.47.237.201
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 59.138.241.196
@@ -323,9 +320,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.167.249.116
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-183.228.6.173
-# untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 185.222.243.140
 # untrusted-ips.txt
@@ -352,6 +346,12 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 219.70.96.25
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+219.167.111.140
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+220.185.48.21
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 220.186.92.198
@@ -534,229 +534,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2a02:ce0:2002:18a0::/60
 
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-c®Ka­ßé*l, 端口号: 6887, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 4049785447, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 9584640, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-1.50.237.255
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Ì)8Ê] », 端口号: 6986, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 542720762, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 1261568, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-14.19.58.46
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¼Çayw½ëÚþ, 端口号: 6940, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 969814095, 上传字节数（自汇报）: 901120, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-14.19.201.8
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-óRS¡ Ù¸¿, 端口号: 6884, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 3205608802, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 7634944, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-14.153.102.150
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-gÿùi/¾º³4, 端口号: 6932, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 549454441, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 81920, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-27.17.83.227
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-aÿ§×U-:Ùð, 端口号: 51413, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
-27.17.206.202
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -qB4600-Iy´%ë{á¿HM, 端口号: 6881, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 697319424, 上传字节数（自汇报）: 87965696, 下载字节数（自汇报）: 140544466, UserAgent: aria2/1.37.0}
-27.47.96.233
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-³f7¤tc-I, 端口号: 6973, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 462895165, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 163840, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-27.190.12.239
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-W§N%³lí, 端口号: 6932, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1327304668, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-36.48.160.9
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-C,ÐmÖTÕð, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 559339869, 上传字节数（自汇报）: 9553589, 下载字节数（自汇报）: 73236480, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-36.110.206.10
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-_gbOÿþ, 端口号: 6953, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 4828991358, 上传字节数（自汇报）: 134365184, 下载字节数（自汇报）: 3853271040, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-36.113.67.54
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¿S¾È/Ø, 端口号: 6984, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 476545786, 上传字节数（自汇报）: 25247744, 下载字节数（自汇报）: 68370432, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-36.143.43.81
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-ý2®ÙBf³*¾, 端口号: 6888, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2497917932, 上传字节数（自汇报）: 58556416, 下载字节数（自汇报）: 1346158592, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-36.148.106.61
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-ÃÀEîb$à»), 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 215891968, 上传字节数（自汇报）: 301131966094, 下载字节数（自汇报）: 461926931, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
-49.68.18.134
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¤^G7eXéò, 端口号: 6970, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 503183447, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 114688, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-49.87.68.178
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-ÂÙØz7ÉFÑz, 端口号: 7509, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1051519285, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 16384, UserAgent: Transmission/3.00 (bb6b5a062e)}
-83.149.117.223
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-qq1ftr53kbmv, 端口号: 42824, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 331350016, 上传字节数（自汇报）: 65588, 下载字节数（自汇报）: 0, UserAgent: }
-85.203.39.233
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-S(K+ô)oa:¥, 端口号: 42069, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 4663479778, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 49152, UserAgent: Transmission/2.94}
-95.168.160.81
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-¡%^¢r/Mß, 端口号: 42069, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 882332683, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 19922944, UserAgent: Transmission/2.94}
-95.211.175.148
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-hù)w, 端口号: 6946, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 510906596, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 38338560, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-101.87.168.204
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¾9b-<zå, 端口号: 6893, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 506302638, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-111.14.33.12
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-½ÉLSk)õÆG, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1916305408, 上传字节数（自汇报）: 184094250, 下载字节数（自汇报）: 4194304, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-111.197.233.197
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-r¦ñ°4rîà, 端口号: 6912, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1137968013, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 219365376, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-112.7.128.141
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-á¨ÎR9´Ï, 端口号: 6994, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1683233146, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 22233088, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-112.24.212.144
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-fÎ²\Úµ, 端口号: 6908, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1516009931, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-112.48.96.113
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¿Ü¥¾, 端口号: 6929, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 627660474, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-113.65.8.34
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Â(%¦k#, 端口号: 6927, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 634542429, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-114.84.138.194
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Uî¾wçõDø¬, 端口号: 6985, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1621497432, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 109772800, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-116.31.62.116
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-aÿ§×U-:Ùð, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 810844160, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
-117.152.69.178
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-»ë*zïVÔ_, 端口号: 6898, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1810890752, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 93194550, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-117.152.147.173
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-'ûDëQ<d, 端口号: 6984, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 161447936, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-117.176.206.241
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-r7xj133cxcak, 端口号: 51413, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
-118.113.211.42
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-:SÇ]F, 端口号: 6950, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 27629097639, 上传字节数（自汇报）: 508444672, 下载字节数（自汇报）: 8909537280, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-118.181.184.176
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-$9!Þ9¶Aû, 端口号: 21301, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 2637824, 下载字节数（自汇报）: 389873808, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-118.232.226.33
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-bw199tdezz2q, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 559570938, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
-120.9.195.51
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-txxi8g4om56i, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 698433513169, 下载字节数（自汇报）: 277825198, UserAgent: }
-120.34.189.217
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-îTA»n§jíhA)´, 端口号: 21301, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 43827200, 下载字节数（自汇报）: 925517434, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-120.229.186.50
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-DßçgÓN§, 端口号: 6918, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 573759310, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 181551104, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-120.239.162.248
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-kÆ(ì;ù1tJ2, 端口号: 6977, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 409600, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 5617167834, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-120.244.141.13
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-hf»~òDª, 端口号: 6986, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2097152, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 1638400, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-120.244.219.34
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-ò÷4¿nôøA£Ú|, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 369819648, 上传字节数（自汇报）: 26750860, 下载字节数（自汇报）: 289570967, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36}
-120.245.134.31
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Ó£À.â0¶ÐyÓ, 端口号: 6921, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 57119895, 上传字节数（自汇报）: 10256384, 下载字节数（自汇报）: 37650432, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-121.9.184.219
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-Ç]ïõ LoFÅ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1420197888, 上传字节数（自汇报）: 257505104, 下载字节数（自汇报）: 3211264, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-121.238.44.44
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-°./ÎmÁ0!, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 6107795299, 上传字节数（自汇报）: 8191373, 下载字节数（自汇报）: 8290304, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-122.231.144.221
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Ãí|îöP©P|, 端口号: 6997, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2302640128, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-123.233.46.162
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-âD÷à7, 端口号: 6953, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 11129894, 上传字节数（自汇报）: 317669376, 下载字节数（自汇报）: 437420032, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-124.240.9.196
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-ztfsbtnnbwa6, 端口号: 50059, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 1532183403, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
-141.98.255.147
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-?@Å4Ð¤à, 端口号: 6903, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 241263462, 上传字节数（自汇报）: 31981568, 下载字节数（自汇报）: 152453120, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-171.120.31.71
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Î~r¤M=¸jö, 端口号: 6945, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 93787287, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 278528, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-171.213.133.254
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-kustrbowax62, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 30540837, 上传字节数（自汇报）: 1131802636, 下载字节数（自汇报）: 0, UserAgent: }
-171.217.45.245
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-(Je¯ã"Çi}­, 端口号: 7509, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 835488140, UserAgent: Transmission/3.00 (bb6b5a062e)}
-178.162.144.31
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-Øþì¤ß|é¤+, 端口号: 7509, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 1528463400, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Transmission/3.00 (bb6b5a062e)}
-178.162.149.59
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -GT0003-j×þ{ºqá«, 端口号: 7509, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1397855365, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 7815168, UserAgent: Transmission/3.00 (bb6b5a062e)}
-178.162.149.152
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-¬É©Ù3ËÈ?5, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
-180.143.183.57
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-1D,DÔ, 端口号: 6951, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 500301445, 上传字节数（自汇报）: 33849344, 下载字节数（自汇报）: 2599075840, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-182.84.214.131
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-cÙI$/l¾, 端口号: 6881, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 216432640, 上传字节数（自汇报）: 47349760, 下载字节数（自汇报）: 448380571, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-183.92.172.235
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR2940-¸¬Aú;s;M/ÚW, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 938947638, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
-183.199.220.250
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-R¡p:÷, 端口号: 6960, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 2316169210, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 26574848, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-183.222.23.225
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-ë¥Ú¤HvºÇ, 端口号: 6952, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1398022926, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 17498112, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-183.226.58.184
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-»\KOöq¡"h¡, 端口号: 6908, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 160944480, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 1146880, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-183.254.2.191
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-y30w3wbiaxhn, 端口号: 58501, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
-188.30.144.151
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-$$~¶gH®@ó|, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-217.146.82.84
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-9³ÌõªOáð\, 端口号: 6989, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1368132232, 上传字节数（自汇报）: 96092160, 下载字节数（自汇报）: 309608448, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-218.91.245.209
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-Þ{³H¬¦ÇYÊ½, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 257171869, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 23871488, UserAgent: aria2/1.36.0}
-219.68.159.89
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -qB4600-¯yÅ¶¤s¾¶_é×, 端口号: 6881, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 654835712, 上传字节数（自汇报）: 935218541, 下载字节数（自汇报）: 676511744, UserAgent: aria2/1.37.0}
-220.184.101.30
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-¯}Y(Ë·³}áÛ, 端口号: 24057, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 31942357263, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-220.197.232.54
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-e>&úBÿ#ißà, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 169845550, 下载字节数（自汇报）: 353952558, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-221.181.235.149
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-l±2$<SÄ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 677583267, 上传字节数（自汇报）: 183549952, 下载字节数（自汇报）: 202686464, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-222.209.24.219
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-b{ÚÁâ¿y`2Ç, 端口号: 6939, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 480275160, 上传字节数（自汇报）: 720896, 下载字节数（自汇报）: 1736704, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-223.8.84.19
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-ßÖÌõk-jä, 端口号: 6918, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 8229120891, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
-223.81.249.62
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-)¬HÑåY<åJÉ*, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1086275584, 上传字节数（自汇报）: 10076160, 下载字节数（自汇报）: 718864384, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-2001:b400:e35f:75b0::/60
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-ÕòÕ*M|Ií;#$, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 845185024, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 126402560, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-2400:dd0d:1001:10a0::/60
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -TR3000-Lß»Z§äúqÕ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2140651520, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
-240e:ec:6099:a410::/60
-# tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: -BC0206-ús)«|nULc, 端口号: 11018, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 262144000, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Transmission/2.94}
-240e:b8f:8fb9:9300::/60
-
 # overdownload-ips.txt
 # [AutoGen] 从大小为 318 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 403.37%
 1.62.125.89
@@ -827,17 +604,11 @@
 # [AutoGen] 从大小为 3 GB 的种子上下载了 10 GB 的数据。下载比(100%=完整下载1次种子的大小)： 355.79%
 42.3.139.181
 # overdownload-ips.txt
-# [AutoGen] 从大小为 5 GB 的种子上下载了 20 GB 的数据。下载比(100%=完整下载1次种子的大小)： 378.38%
-45.80.28.77
-# overdownload-ips.txt
 # [AutoGen] 从大小为 23 GB 的种子上下载了 89 GB 的数据。下载比(100%=完整下载1次种子的大小)： 380.92%
 45.136.154.251
 # overdownload-ips.txt
 # [AutoGen] 从大小为 5 GB 的种子上下载了 23 GB 的数据。下载比(100%=完整下载1次种子的大小)： 440.62%
 45.144.227.23
-# overdownload-ips.txt
-# [AutoGen] 从大小为 11 GB 的种子上下载了 48 GB 的数据。下载比(100%=完整下载1次种子的大小)： 439.69%
-46.228.205.6
 # overdownload-ips.txt
 # [AutoGen] 从大小为 296 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 363.61%
 49.7.234.229
@@ -1298,7 +1069,7 @@
 # [AutoGen] 从大小为 4 GB 的种子上下载了 19 GB 的数据。下载比(100%=完整下载1次种子的大小)： 437.69%
 183.165.173.42
 # overdownload-ips.txt
-# [AutoGen] 从大小为 23 GB 的种子上下载了 105 GB 的数据。下载比(100%=完整下载1次种子的大小)： 456.05%
+# [AutoGen] 从大小为 23 GB 的种子上下载了 106 GB 的数据。下载比(100%=完整下载1次种子的大小)： 460.33%
 183.194.128.207
 # overdownload-ips.txt
 # [AutoGen] 从大小为 443 GB 的种子上下载了 1 TB 的数据。下载比(100%=完整下载1次种子的大小)： 400.16%
@@ -1331,10 +1102,10 @@
 # [AutoGen] 从大小为 44 GB 的种子上下载了 158 GB 的数据。下载比(100%=完整下载1次种子的大小)： 359.49%
 185.183.35.248
 # overdownload-ips.txt
-# [AutoGen] 从大小为 287 GB 的种子上下载了 4 TB 的数据。下载比(100%=完整下载1次种子的大小)： 1514.02%
+# [AutoGen] 从大小为 287 GB 的种子上下载了 4 TB 的数据。下载比(100%=完整下载1次种子的大小)： 1531.65%
 185.203.56.56
 # overdownload-ips.txt
-# [AutoGen] 从大小为 37 GB 的种子上下载了 138 GB 的数据。下载比(100%=完整下载1次种子的大小)： 369.19%
+# [AutoGen] 从大小为 37 GB 的种子上下载了 157 GB 的数据。下载比(100%=完整下载1次种子的大小)： 418.01%
 198.44.129.102
 # overdownload-ips.txt
 # [AutoGen] 从大小为 61 GB 的种子上下载了 246 GB 的数据。下载比(100%=完整下载1次种子的大小)： 403.22%
@@ -1407,7 +1178,7 @@
 # [AutoGen] 从大小为 951 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 359.80%
 223.72.70.195
 # overdownload-ips.txt
-# [AutoGen] 从大小为 120 GB 的种子上下载了 516 GB 的数据。下载比(100%=完整下载1次种子的大小)： 429.14%
+# [AutoGen] 从大小为 120 GB 的种子上下载了 524 GB 的数据。下载比(100%=完整下载1次种子的大小)： 435.51%
 223.73.0.2
 # overdownload-ips.txt
 # [AutoGen] 从大小为 28 GB 的种子上下载了 118 GB 的数据。下载比(100%=完整下载1次种子的大小)： 421.30%
@@ -2887,7 +2658,7 @@
 # [AutoGen] 从大小为 3 GB 的种子上下载了 38 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1230.12%
 # [AutoGen] 从大小为 58 MB 的种子上下载了 238 MB 的数据。下载比(100%=完整下载1次种子的大小)： 409.19%
 # [AutoGen] 从大小为 5 GB 的种子上下载了 64 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1203.33%
-# [AutoGen] 从大小为 4 GB 的种子上下载了 97 GB 的数据。下载比(100%=完整下载1次种子的大小)： 2414.35%
+# [AutoGen] 从大小为 4 GB 的种子上下载了 97 GB 的数据。下载比(100%=完整下载1次种子的大小)： 2414.37%
 # [AutoGen] 从大小为 1 GB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 414.07%
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # czdx100, 61.160.241.100-61.160.241.214
@@ -2930,13 +2701,13 @@
 # [AutoGen] 从大小为 7 GB 的种子上下载了 30 GB 的数据。下载比(100%=完整下载1次种子的大小)： 391.82%
 # [AutoGen] 从大小为 181 MB 的种子上下载了 824 MB 的数据。下载比(100%=完整下载1次种子的大小)： 453.20%
 # [AutoGen] 从大小为 396 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 477.58%
-# [AutoGen] 从大小为 181 MB 的种子上下载了 814 MB 的数据。下载比(100%=完整下载1次种子的大小)： 447.77%
-# [AutoGen] 从大小为 396 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 373.49%
+# [AutoGen] 从大小为 181 MB 的种子上下载了 814 MB 的数据。下载比(100%=完整下载1次种子的大小)： 447.99%
+# [AutoGen] 从大小为 396 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 373.58%
 # [AutoGen] 从大小为 571 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1013.83%
 # [AutoGen] 从大小为 571 MB 的种子上下载了 10 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1840.02%
 # [AutoGen] 从大小为 477 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 468.32%
 # [AutoGen] 从大小为 432 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 730.65%
-# [AutoGen] 从大小为 387 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 946.75%
+# [AutoGen] 从大小为 387 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 946.87%
 # tzlt10, 101.69.63.5-101.69.63.119
 # tzlt20, 101.69.63.20-101.69.63.124
 # tzlt40, 101.69.63.40-101.69.63.114
@@ -2948,32 +2719,11 @@
 # [Merged Comment]
 # overdownload-ips.txt
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
-# [AutoGen] 从大小为 3 GB 的种子上下载了 30 GB 的数据。下载比(100%=完整下载1次种子的大小)： 805.20%
-# sxlt100, 124.91.148.100-124.91.148.215
-# sxlt110, 124.91.148.110-124.91.148.208
-# sxlt120, 124.91.148.120-124.91.148.201
-# sxlt130, 124.91.148.130-124.91.148.194
-# sxlt140, 124.91.148.140-124.91.148.187
-# sxlt150, 124.91.148.150-124.91.148.181
-# sxlt160, 124.91.148.160-124.91.148.175
-# sxlt20, 124.91.148.3-124.91.148.29
-# sxlt30, 124.91.148.10-124.91.148.39
-# sxlt40, 124.91.148.17-124.91.148.254
-# sxlt50, 124.91.148.50-124.91.148.250
-# sxlt60, 124.91.148.60-124.91.148.243
-# sxlt70, 124.91.148.70-124.91.148.236
-# sxlt80, 124.91.148.80-124.91.148.229
-# sxlt90, 124.91.148.90-124.91.148.222
-124.91.148.0/24
-# [Merged Comment]
-# overdownload-ips.txt
-# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
-# [AutoGen] 从大小为 361 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1083.64%
-# [AutoGen] 从大小为 361 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1078.47%
+# [AutoGen] 从大小为 361 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1084.09%
+# [AutoGen] 从大小为 361 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1078.80%
 # [AutoGen] 从大小为 393 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 368.16%
 # [AutoGen] 从大小为 393 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 367.36%
 # [AutoGen] 从大小为 479 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1331.53%
-# [AutoGen] 从大小为 461 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 493.72%
 # [AutoGen] 从大小为 466 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1403.60%
 # [AutoGen] 从大小为 466 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 855.83%
 # [AutoGen] 从大小为 466 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1483.04%
@@ -3057,7 +2807,7 @@
 # [AutoGen] 从大小为 361 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 701.83%
 # [AutoGen] 从大小为 361 MB 的种子上下载了 26 GB 的数据。下载比(100%=完整下载1次种子的大小)： 7479.21%
 # [AutoGen] 从大小为 875 MB 的种子上下载了 11 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1369.60%
-# [AutoGen] 从大小为 918 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1067.69%
+# [AutoGen] 从大小为 918 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1067.53%
 # [AutoGen] 从大小为 1 GB 的种子上下载了 16 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1099.63%
 # [AutoGen] 从大小为 361 MB 的种子上下载了 22 GB 的数据。下载比(100%=完整下载1次种子的大小)： 6450.98%
 58.216.63.0/24
@@ -3119,6 +2869,23 @@
 # czlt70, 58.241.88.70-58.241.88.119
 # czlt90, 58.241.88.90-58.241.88.109
 58.241.88.0/24
+# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
+# sxlt100, 124.91.148.100-124.91.148.215
+# sxlt110, 124.91.148.110-124.91.148.208
+# sxlt120, 124.91.148.120-124.91.148.201
+# sxlt130, 124.91.148.130-124.91.148.194
+# sxlt140, 124.91.148.140-124.91.148.187
+# sxlt150, 124.91.148.150-124.91.148.181
+# sxlt160, 124.91.148.160-124.91.148.175
+# sxlt20, 124.91.148.3-124.91.148.29
+# sxlt30, 124.91.148.10-124.91.148.39
+# sxlt40, 124.91.148.17-124.91.148.254
+# sxlt50, 124.91.148.50-124.91.148.250
+# sxlt60, 124.91.148.60-124.91.148.243
+# sxlt70, 124.91.148.70-124.91.148.236
+# sxlt80, 124.91.148.80-124.91.148.229
+# sxlt90, 124.91.148.90-124.91.148.222
+124.91.148.0/24
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
 # fzdx100, 125.77.27.100-125.77.27.114
 # fzdx30, 125.77.27.25-125.77.27.39
@@ -3247,6 +3014,118 @@
 # [AutoGen] 从大小为 364 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 827.92%
 114.228.87.0/24
 
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Û*ô_¦zÿÝÔ, 端口号: 6962, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 589843702, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 61587456, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+116.24.253.82
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-aÿ§×U-:Ùð, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 299241080, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
+117.152.69.178
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-'ûDëQ<d, 端口号: 6984, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 167624704, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+117.176.206.241
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-ås$½¦ôÆ, 端口号: 6923, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 1081365540, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 94568448, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+117.181.21.224
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-r7xj133cxcak, 端口号: 51413, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
+118.113.211.42
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-:SÇ]F, 端口号: 6950, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 27629097639, 上传字节数（自汇报）: 508444672, 下载字节数（自汇报）: 8909537280, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+118.181.184.176
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-bw199tdezz2q, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 559570938, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
+120.9.195.51
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-txxi8g4om56i, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 698433513169, 下载字节数（自汇报）: 277825198, UserAgent: }
+120.34.189.217
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-hf»~òDª, 端口号: 6986, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2097152, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 1638400, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+120.244.219.34
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-°*²©k, 端口号: 6985, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+120.245.22.33
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-ò÷4¿nôøA£Ú|, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 135741440, 上传字节数（自汇报）: 18233980, 下载字节数（自汇报）: 494004218, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36}
+120.245.134.31
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-Ç]ïõ LoFÅ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1420197888, 上传字节数（自汇报）: 257505104, 下载字节数（自汇报）: 3211264, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+121.238.44.44
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-°./ÎmÁ0!, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 6066900835, 上传字节数（自汇报）: 8191373, 下载字节数（自汇报）: 49889280, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+122.231.144.221
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-Ãí|îöP©P|, 端口号: 6997, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2302640128, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+123.233.46.162
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-7srdkyhfe4w5, 端口号: 60961, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 3275292672, 上传字节数（自汇报）: 1176468552, 下载字节数（自汇报）: 438407084, UserAgent: }
+124.217.188.40
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-zhotm507fenp, 端口号: 50059, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 9223372036854775807, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: }
+141.98.255.147
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-?@Å4Ð¤à, 端口号: 6903, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 147055462, 上传字节数（自汇报）: 54214656, 下载字节数（自汇报）: 247119872, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+171.120.31.71
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-hsuc510u8bgm, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 412097862, 上传字节数（自汇报）: 39746752, 下载字节数（自汇报）: 1048576, UserAgent: }
+171.217.45.245
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -GT0003-Øþì¤ß|é¤+, 端口号: 7509, 汇报事件: Stopped, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 318629735, UserAgent: Transmission/3.00 (bb6b5a062e)}
+178.162.149.59
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -GT0003-j×þ{ºqá«, 端口号: 7509, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1397855365, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 7815168, UserAgent: Transmission/3.00 (bb6b5a062e)}
+178.162.149.152
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-ÂAé ÛÓq¯y, 端口号: 6940, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 76592743, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 30277632, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+180.119.109.5
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-¬É©Ù3ËÈ?5, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
+180.143.183.57
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR2940-¸¬Aú;s;M/ÚW, 端口号: 51413, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 938947638, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57}
+183.199.220.250
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-»\KOöq¡"h¡, 端口号: 6908, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 160321888, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 3555328, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+183.254.2.191
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-$$~¶gH®@ó|, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+217.146.82.84
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-fO=¯ZªÖü, 端口号: 6942, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 471706328, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 10223616, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+218.82.109.125
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-9³ÌõªOáð\, 端口号: 6989, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 402983560, 上传字节数（自汇报）: 125485056, 下载字节数（自汇报）: 1285275648, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+218.91.245.209
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-Þ{³H¬¦ÇYÊ½, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 239886749, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 46039040, UserAgent: aria2/1.36.0}
+219.68.159.89
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -qB4600-¯yÅ¶¤s¾¶_é×, 端口号: 6881, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 654835712, 上传字节数（自汇报）: 935218541, 下载字节数（自汇报）: 676511744, UserAgent: aria2/1.37.0}
+220.184.101.30
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-¯}Y(Ë·³}áÛ, 端口号: 24057, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 31942357263, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+220.197.232.54
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-e>&úBÿ#ißà, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 0, 上传字节数（自汇报）: 169845550, 下载字节数（自汇报）: 353952558, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+221.181.235.149
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-9³ÌõªOáð\, 端口号: 6989, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 1101114405, 上传字节数（自汇报）: 34275328, 下载字节数（自汇报）: 309772288, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+222.184.156.126
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-l±2$<SÄ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 638622115, 上传字节数（自汇报）: 201031680, 下载字节数（自汇报）: 245252096, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+222.209.24.219
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-b{ÚÁâ¿y`2Ç, 端口号: 6939, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 912584364, 上传字节数（自汇报）: 1441792, 下载字节数（自汇报）: 21659648, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+223.8.84.19
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-ÕòÕ*M|Ií;#$, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 845185024, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 126402560, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+2400:dd0d:1001:10a0::/60
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -TR3000-Lß»Z§äúqÕ, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2140651520, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
+240e:ec:6099:a410::/60
+# tracker-high-risk-ips.txt
+# [AutoGen] Tracker 数据 {PeerId: -BC0206-ús)«|nULc, 端口号: 11018, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 262144000, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 0, UserAgent: Transmission/2.94}
+240e:b8f:8fb9:9300::/60
+
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
@@ -3307,6 +3186,7 @@
 # multi-dial.txt
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 58 MB 的种子上下载了 363 MB 的数据。下载比(100%=完整下载1次种子的大小)： 623.73%
 # [AutoGen] 从大小为 7 GB 的种子上下载了 448 GB 的数据。下载比(100%=完整下载1次种子的大小)： 6126.45%
 # [AutoGen] 从大小为 7 GB 的种子上下载了 355 GB 的数据。下载比(100%=完整下载1次种子的大小)： 4850.73%
 # [AutoGen] 从大小为 58 MB 的种子上下载了 306 MB 的数据。下载比(100%=完整下载1次种子的大小)： 526.39%
