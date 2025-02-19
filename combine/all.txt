@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-19 07:01:42 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-02-19 07:09:41 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # overdownload-ips.txt
@@ -3215,7 +3215,7 @@
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 (94 条进度回退)
 2408:8270:2220::/48
 # multi-dial.txt
-# 应急响应屏蔽，需要进一步调查
+# 应急响应屏蔽，需要进一步调查 2025-02-19
 240e:3b5:50ec:1500::/56
 # multi-dial.txt
 # 复查于 25/1/9 qBittorrent/5.0.x 刷流 (44 条进度回退)
@@ -3952,4 +3952,9 @@
 
 # localhost.localdomain
 223.111.104.0/25
+
+# 组合段刷流合并 需要进一步调查 2025-02-19
+240e:390:7c00::/47
+# 组合段刷流合并 需要进一步调查 2025-02-19
+240e:390:7d00::/47
 
