@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-03 07:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-03 08:30:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 56
 
 # overdownload-ips.txt
@@ -2398,10 +2398,7 @@
 36.4.63.199
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-36.26.152.22
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-36.26.152.143
+36.26.152.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 36.26.153.61
@@ -2535,6 +2532,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 92.60.39.120
 # untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+95.217.12.133
+# untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 98.51.213.244
 # untrusted-ips.txt
@@ -2619,7 +2619,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 115.207.104.214
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 115.207.105.0/24
 # untrusted-ips.txt
@@ -2760,9 +2759,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 125.86.2.108
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-125.106.23.212
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 125.106.93.82
@@ -2910,9 +2906,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 204.209.133.12
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-213.152.162.84
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.19.2.41
@@ -3093,6 +3086,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 240e:394:303d:b880::/60
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+240e:394:304f:2450::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 240e:394:3058:e920::/60
