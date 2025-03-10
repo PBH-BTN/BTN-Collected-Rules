@@ -4,7 +4,7 @@ from collections import Counter
 from datetime import datetime, timezone
 
 ipv4_prefix = 24
-ipv6_prefix = 56
+ipv6_prefix = 50
 ipv4_merge_count = 3
 ipv6_merge_count = 3
 
