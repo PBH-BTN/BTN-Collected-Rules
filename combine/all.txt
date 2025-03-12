@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-12 02:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-12 03:30:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # untrusted-ips.txt
@@ -8,7 +8,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 1.162.10.211
 # untrusted-ips.txt
-# [AutoGen] 被 14 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
 5.135.182.61
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
@@ -103,6 +103,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.39.129.167
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+59.47.237.201
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 59.174.61.97
@@ -312,12 +315,6 @@
 120.231.217.54
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-120.234.79.155
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-120.239.52.13
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 120.239.67.252
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -352,9 +349,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 123.173.19.68
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-123.186.30.63
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 124.66.15.243
@@ -402,9 +396,6 @@
 158.69.249.132
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-158.180.75.221
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 159.197.192.188
 # untrusted-ips.txt
 # [AutoGen] 被 11 个用户应用程序上报为不信任的 IP 地址
@@ -418,9 +409,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 171.106.3.186
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-171.108.183.14
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 171.213.203.165
@@ -470,17 +458,11 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.114.56.99
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-183.141.61.57
-# untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.161.191.25
 # untrusted-ips.txt
 # [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
 183.198.192.172
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-195.154.125.57
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 198.44.133.101
@@ -502,6 +484,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.66.81.145
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+218.71.15.78
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 218.108.91.211
@@ -554,7 +539,7 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2001:da8:d002:b000::/60
 # untrusted-ips.txt
-# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2001:41d0:8:bd30::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -2198,6 +2183,9 @@
 # [AutoGen] 从大小为 95 GB 的种子上下载了 352 GB 的数据。下载比(100%=完整下载1次种子的大小)： 370.65%
 27.136.209.101
 # overdownload-ips.txt
+# [AutoGen] 从大小为 5 GB 的种子上下载了 19 GB 的数据。下载比(100%=完整下载1次种子的大小)： 360.63%
+27.141.140.26
+# overdownload-ips.txt
 # [AutoGen] 从大小为 26 GB 的种子上下载了 206 GB 的数据。下载比(100%=完整下载1次种子的大小)： 771.87%
 27.186.206.210
 # overdownload-ips.txt
@@ -2254,6 +2242,9 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 24 GB 的种子上下载了 91 GB 的数据。下载比(100%=完整下载1次种子的大小)： 374.10%
 42.91.210.246
+# overdownload-ips.txt
+# [AutoGen] 从大小为 28 GB 的种子上下载了 104 GB 的数据。下载比(100%=完整下载1次种子的大小)： 362.58%
+42.225.30.106
 # overdownload-ips.txt
 # [AutoGen] 从大小为 2 GB 的种子上下载了 10 GB 的数据。下载比(100%=完整下载1次种子的大小)： 403.01%
 42.228.59.122
@@ -2486,7 +2477,7 @@
 # [AutoGen] 从大小为 2 GB 的种子上下载了 15 GB 的数据。下载比(100%=完整下载1次种子的大小)： 629.96%
 113.72.16.183
 # overdownload-ips.txt
-# [AutoGen] 从大小为 17 GB 的种子上下载了 79 GB 的数据。下载比(100%=完整下载1次种子的大小)： 443.72%
+# [AutoGen] 从大小为 17 GB 的种子上下载了 106 GB 的数据。下载比(100%=完整下载1次种子的大小)： 591.60%
 113.73.161.81
 # overdownload-ips.txt
 # [AutoGen] 从大小为 19 GB 的种子上下载了 83 GB 的数据。下载比(100%=完整下载1次种子的大小)： 420.10%
@@ -2593,9 +2584,6 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 46 GB 的种子上下载了 166 GB 的数据。下载比(100%=完整下载1次种子的大小)： 361.40%
 117.143.114.36
-# overdownload-ips.txt
-# [AutoGen] 从大小为 42 GB 的种子上下载了 162 GB 的数据。下载比(100%=完整下载1次种子的大小)： 378.97%
-117.147.29.83
 # overdownload-ips.txt
 # [AutoGen] 从大小为 16 GB 的种子上下载了 82 GB 的数据。下载比(100%=完整下载1次种子的大小)： 486.00%
 117.152.59.89
@@ -2750,7 +2738,7 @@
 # [AutoGen] 从大小为 12 GB 的种子上下载了 79 GB 的数据。下载比(100%=完整下载1次种子的大小)： 615.19%
 126.93.187.212
 # overdownload-ips.txt
-# [AutoGen] 从大小为 24 GB 的种子上下载了 113 GB 的数据。下载比(100%=完整下载1次种子的大小)： 464.56%
+# [AutoGen] 从大小为 24 GB 的种子上下载了 125 GB 的数据。下载比(100%=完整下载1次种子的大小)： 513.12%
 126.100.67.113
 # overdownload-ips.txt
 # [AutoGen] 从大小为 9 GB 的种子上下载了 42 GB 的数据。下载比(100%=完整下载1次种子的大小)： 425.33%
@@ -2834,9 +2822,6 @@
 # [AutoGen] 从大小为 6 GB 的种子上下载了 73 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1051.67%
 180.177.111.144
 # overdownload-ips.txt
-# [AutoGen] 从大小为 2 GB 的种子上下载了 10 GB 的数据。下载比(100%=完整下载1次种子的大小)： 485.62%
-181.115.210.47
-# overdownload-ips.txt
 # [AutoGen] 从大小为 116 MB 的种子上下载了 462 MB 的数据。下载比(100%=完整下载1次种子的大小)： 397.89%
 182.46.181.60
 # overdownload-ips.txt
@@ -2888,7 +2873,7 @@
 # [AutoGen] 从大小为 154 GB 的种子上下载了 4 TB 的数据。下载比(100%=完整下载1次种子的大小)： 3165.02%
 185.132.179.61
 # overdownload-ips.txt
-# [AutoGen] 从大小为 1020 MB 的种子上下载了 795 GB 的数据。下载比(100%=完整下载1次种子的大小)： 79877.79%
+# [AutoGen] 从大小为 1020 MB 的种子上下载了 841 GB 的数据。下载比(100%=完整下载1次种子的大小)： 84434.73%
 185.183.32.162
 # overdownload-ips.txt
 # [AutoGen] 从大小为 6 GB 的种子上下载了 23 GB 的数据。下载比(100%=完整下载1次种子的大小)： 377.90%
@@ -3191,6 +3176,9 @@
 # [AutoGen] 从大小为 5 GB 的种子上下载了 21 GB 的数据。下载比(100%=完整下载1次种子的大小)： 359.43%
 2600:1700:694b::/60
 # overdownload-ips.txt
+# [AutoGen] 从大小为 8 GB 的种子上下载了 32 GB 的数据。下载比(100%=完整下载1次种子的大小)： 371.38%
+2607:fb90:8f89:7c0::/60
+# overdownload-ips.txt
 # [AutoGen] 从大小为 5 GB 的种子上下载了 27 GB 的数据。下载比(100%=完整下载1次种子的大小)： 534.97%
 2a01:4f9:5a:2120::/60
 
@@ -3476,7 +3464,7 @@
 # [AutoGen] 从大小为 242 MB 的种子上下载了 858 MB 的数据。下载比(100%=完整下载1次种子的大小)： 354.30%
 # [AutoGen] 从大小为 426 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 355.18%
 # [AutoGen] 从大小为 350 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 654.25%
-# [AutoGen] 从大小为 191 MB 的种子上下载了 729 MB 的数据。下载比(100%=完整下载1次种子的大小)： 380.26%
+# [AutoGen] 从大小为 191 MB 的种子上下载了 813 MB 的数据。下载比(100%=完整下载1次种子的大小)： 424.07%
 # [AutoGen] 从大小为 403 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 352.52%
 # [AutoGen] 从大小为 425 MB 的种子上下载了 7 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1801.47%
 # [AutoGen] 从大小为 314 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 429.41%
@@ -3556,6 +3544,9 @@
 38.183.55.180
 # high-risk-ips.txt
 # Auto Generated by Sparkle
+39.162.88.239
+# high-risk-ips.txt
+# Auto Generated by Sparkle
 39.162.89.57
 # high-risk-ips.txt
 # Auto Generated by Sparkle
@@ -3598,6 +3589,9 @@
 112.32.12.76
 # high-risk-ips.txt
 # Auto Generated by Sparkle
+112.32.90.29
+# high-risk-ips.txt
+# Auto Generated by Sparkle
 116.132.136.0/24
 # high-risk-ips.txt
 # Auto Generated by Sparkle
@@ -3638,6 +3632,9 @@
 # high-risk-ips.txt
 # Auto Generated by Sparkle
 118.74.148.132
+# high-risk-ips.txt
+# Auto Generated by Sparkle
+119.118.38.247
 # high-risk-ips.txt
 # Auto Generated by Sparkle
 123.182.49.95
@@ -3904,7 +3901,7 @@
 # overdownload-ips.txt
 # admin
 # multi-dial.txt
-# [AutoGen] 从大小为 1020 MB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 408.17%
+# [AutoGen] 从大小为 1 GB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 419.05%
 # [AutoGen] 从大小为 1 GB 的种子上下载了 7 GB 的数据。下载比(100%=完整下载1次种子的大小)： 705.69%
 # 复查于 25/1/9 hp/torrent 和 Gopeed dev 活跃
 124.225.96.0/19
