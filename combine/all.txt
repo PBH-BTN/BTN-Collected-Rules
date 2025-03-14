@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-14 19:30:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-14 20:30:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # untrusted-ips.txt
@@ -33,6 +33,9 @@
 27.224.231.150
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+36.26.153.50
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 36.26.155.125
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -53,6 +56,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 58.29.122.230
 # untrusted-ips.txt
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
+58.32.34.34
+# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 59.172.167.17
 # untrusted-ips.txt
@@ -64,9 +70,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 60.116.239.158
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-60.163.203.59
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 60.167.151.40
@@ -121,6 +124,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 111.37.105.206
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+111.41.138.5
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 111.85.32.208
@@ -193,9 +199,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 116.28.86.211
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-116.128.251.121
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 116.237.93.181
@@ -351,7 +354,7 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 183.144.197.211
 # untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 183.148.91.186
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -361,16 +364,13 @@
 183.150.185.75
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-183.150.185.130
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-183.150.186.178
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.253.241.108
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 184.22.17.4
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+185.128.9.227
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 186.192.234.42
@@ -398,6 +398,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.71.42.138
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+218.102.231.33
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 219.157.128.205
@@ -587,9 +590,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 2804:d0:20d6:9500::/60
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2a0a:4cc0:0:30::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2a0a:4cc0:1:e0::/60
@@ -3153,7 +3153,7 @@
 # [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-µÆ²¿CÒW, 端口号: 6910, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 6927916, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 622592, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
 218.58.111.224
 # tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¬U°RÃeªö¢, 端口号: 6937, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 5850285, 上传字节数（自汇报）: 3686400, 下载字节数（自汇报）: 32129024, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-\ûÔh XÇÿ, 端口号: 6951, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 5850285, 上传字节数（自汇报）: 420184064, 下载字节数（自汇报）: 521076736, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
 219.138.103.37
 # tracker-high-risk-ips.txt
 # [AutoGen] Tracker 数据 {PeerId: -TR3000-BBªbS3a:Gÿ8, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2726007977, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 6766592, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
