@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-17 07:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-17 08:30:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2581,7 +2581,7 @@
 # [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-µÆ²¿CÒW, 端口号: 6910, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 6927916, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 622592, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
 218.58.111.224
 # tracker-high-risk-ips.txt
-# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-\ûÔh XÇÿ, 端口号: 6951, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 5850285, 上传字节数（自汇报）: 420184064, 下载字节数（自汇报）: 521076736, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
+# [AutoGen] Tracker 数据 {PeerId: A2-1-0--1-¬U°RÃeªö¢, 端口号: 6937, 汇报事件: Started, 剩余需要下载的字节数（自汇报）: 5850285, 上传字节数（自汇报）: 3686400, 下载字节数（自汇报）: 32129024, UserAgent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36}
 219.138.103.37
 # tracker-high-risk-ips.txt
 # [AutoGen] Tracker 数据 {PeerId: -TR3000-BBªbS3a:Gÿ8, 端口号: 21301, 汇报事件: Unknown, 剩余需要下载的字节数（自汇报）: 2726007977, 上传字节数（自汇报）: 0, 下载字节数（自汇报）: 6766592, UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36}
@@ -2808,10 +2808,7 @@
 115.207.104.109
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-115.207.105.100
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-115.207.105.249
+115.207.105.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 115.208.167.153
@@ -2860,6 +2857,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 121.225.172.72
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+122.4.98.219
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 122.100.140.223
@@ -3138,7 +3138,7 @@
 218.77.31.242
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-218.102.231.33
+220.185.48.7
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 221.0.95.254
@@ -3368,7 +3368,7 @@
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 240e:3bb:a6c:b1f0::/60
 # untrusted-ips.txt
-# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 2603:c024:13:200::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -3988,17 +3988,14 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 11 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 12 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 13 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 15 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 14 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 从大小为 742 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 362.17%
+# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 从大小为 14 GB 的种子上下载了 55 GB 的数据。下载比(100%=完整下载1次种子的大小)： 375.93%
+# [AutoGen] 从大小为 742 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 362.17%
 117.24.165.0/24
 # [Merged Comment]
 # untrusted-ips.txt
