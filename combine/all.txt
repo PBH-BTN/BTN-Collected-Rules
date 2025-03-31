@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-31 15:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-03-31 16:30:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # untrusted-ips.txt
@@ -20,6 +20,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 27.18.62.113
 # untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+27.44.25.22
+# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 27.47.3.76
 # untrusted-ips.txt
@@ -28,6 +31,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 31.222.238.6
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+36.5.145.12
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 36.22.78.156
@@ -45,10 +51,7 @@
 36.26.154.133
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-36.26.155.147
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-36.26.155.227
+36.26.155.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 36.49.28.45
@@ -149,9 +152,6 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 102.38.6.141
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-103.152.35.142
-# untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 104.36.87.143
 # untrusted-ips.txt
@@ -207,7 +207,7 @@
 112.64.39.221
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-112.67.241.18
+112.67.241.18/31
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 112.102.152.196
@@ -268,6 +268,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 115.221.12.247
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+115.221.104.172
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 115.221.124.31
@@ -351,15 +354,9 @@
 120.229.67.89
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-120.234.79.155
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 121.8.98.52
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-122.100.152.79
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 122.240.231.116
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -437,7 +434,10 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 157.180.4.99
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+158.62.10.202
+# untrusted-ips.txt
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 169.224.86.249
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
@@ -485,7 +485,7 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 180.17.20.155
 # untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 180.36.80.159
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -536,6 +536,9 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 210.191.91.139
 # untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+211.103.112.139
+# untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 211.142.24.136
 # untrusted-ips.txt
@@ -547,6 +550,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 218.67.232.126
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+218.71.25.171
 # untrusted-ips.txt
 # [AutoGen] 被 18 个用户应用程序上报为不信任的 IP 地址
 218.108.103.222
@@ -587,7 +593,7 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 222.174.232.10
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 222.235.238.152
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -597,10 +603,10 @@
 223.17.189.155
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-223.66.155.11
+223.72.12.167
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-223.72.12.167
+223.91.136.175
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 223.101.61.192
@@ -625,6 +631,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2400:dd01:103a:1010::/60
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+2401:e180:8940:70::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2401:e180:8d02:f6f0::/60
@@ -667,9 +676,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2408:8262:fd7:6d00::/60
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2408:8266:101:d40::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:8966:10:76d0::/60
@@ -714,9 +720,6 @@
 2409:8a50:1231:e3b0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2409:8a55:e9c:fdf0::/60
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2409:8a5c:886:2380::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -758,6 +761,9 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 240e:369:1407:9800::/60
 # untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+240e:36f:700:3e30::/60
+# untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 240e:381:8e27:4b00::/60
 # untrusted-ips.txt
@@ -766,6 +772,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 240e:3a1:bc41:f680::/60
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+240e:3b1:32:6ca0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 240e:3b2:3256:9dd0::/60
@@ -3569,8 +3578,10 @@
 58.216.63.0/24
 
 # [Merged Comment]
+# untrusted-ips.txt
 # overdownload-ips.txt
 # multi-dial.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 从大小为 58 MB 的种子上下载了 343 MB 的数据。下载比(100%=完整下载1次种子的大小)： 589.64%
 # [AutoGen] 从大小为 534 MB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 858.33%
 # [AutoGen] 从大小为 28 MB 的种子上下载了 158 MB 的数据。下载比(100%=完整下载1次种子的大小)： 561.23%
@@ -3584,20 +3595,6 @@
 # [AutoGen] 从大小为 444 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1264.19%
 # 江苏省 常州市 qBittorrent/4.6.7 刷流
 58.216.104.0/24
-# [Merged Comment]
-# overdownload-ips.txt
-# multi-dial.txt
-# [AutoGen] 从大小为 242 MB 的种子上下载了 897 MB 的数据。下载比(100%=完整下载1次种子的大小)： 370.05%
-# 复查于 25/1/9 Deluge 刷流
-112.87.15.0/24
-# [Merged Comment]
-# overdownload-ips.txt
-# multi-dial.txt
-# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 384.35%
-# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 387.44%
-# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 430.37%
-# 复查于 25/1/9 aria2/1.35.0 刷流（77 条进度回退，IP 集中）
-153.99.234.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
@@ -3800,6 +3797,21 @@
 112.23.146.2
 # nt
 180.97.236.129
+
+# [Merged Comment]
+# overdownload-ips.txt
+# multi-dial.txt
+# [AutoGen] 从大小为 242 MB 的种子上下载了 897 MB 的数据。下载比(100%=完整下载1次种子的大小)： 370.05%
+# 复查于 25/1/9 Deluge 刷流
+112.87.15.0/24
+# [Merged Comment]
+# overdownload-ips.txt
+# multi-dial.txt
+# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 384.35%
+# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 387.44%
+# [AutoGen] 从大小为 399 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 430.37%
+# 复查于 25/1/9 aria2/1.35.0 刷流（77 条进度回退，IP 集中）
+153.99.234.0/24
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
