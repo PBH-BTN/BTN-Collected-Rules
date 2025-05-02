@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-05-02 09:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-05-02 10:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2185,9 +2185,6 @@
 
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2.222.21.1
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 5.59.249.213
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
@@ -2214,7 +2211,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 14.216.93.170
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 24.3.31.220
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -2302,9 +2299,6 @@
 58.242.204.140
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-59.4.14.185
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 59.47.225.208
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
@@ -2330,9 +2324,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 60.147.177.41
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-60.246.63.245
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 61.39.210.252
@@ -2568,9 +2559,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 119.62.62.233
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-119.102.130.196
-# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 119.230.152.2
 # untrusted-ips.txt
@@ -2624,6 +2612,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 123.119.250.41
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+124.79.82.22
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 124.126.98.85
@@ -2848,9 +2839,6 @@
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2001:da8:203:dff0::/60
 # untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2001:f90:4900:1490::/60
-# untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 2400:4151:8780:9400::/60
 # untrusted-ips.txt
@@ -2883,10 +2871,7 @@
 2408:822e:1a74::/49
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2408:822e:1c73:eb0::/60
-# untrusted-ips.txt
-# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
-2408:822e:1c73:2640::/60
+2408:822e:1c73::/50
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2918,6 +2903,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 2409:8a18:c11:9bd0::/60
+# untrusted-ips.txt
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+2409:8a20:4da0:6670::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2409:8a30:1241:3580::/60
@@ -2999,6 +2987,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
 240e:3a3:4980:8c00::/60
+# untrusted-ips.txt
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+240e:3a3:4c3d:1d0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 240e:3a4:4c56:8690::/60
@@ -3344,6 +3335,21 @@
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
 # overdownload-ips.txt
 # untrusted-ips.txt
+# qBittorrent/4.6.7 刷流 福建泉州
+# qzdx150, 36.250.249.15-36.250.249.59
+# qzdx180, 36.250.249.80-36.250.249.114
+# qzdx190, 36.250.249.90-36.250.249.107
+# qzdx200, 36.250.249.6-36.250.249.125
+# qzdx240, 36.250.249.25-36.250.249.39
+# [AutoGen] 从大小为 3 GB 的种子上下载了 12 GB 的数据。下载比(100%=完整下载1次种子的大小)： 373.46%
+# [AutoGen] 从大小为 443 MB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 927.11%
+# [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
+36.250.249.0/24
+# [Merged Comment]
+# multi-dial.txt
+# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
+# overdownload-ips.txt
+# untrusted-ips.txt
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # czdx100, 61.160.241.100-61.160.241.214
 # czdx110, 61.160.241.110-61.160.241.219
@@ -3481,20 +3487,6 @@
 # [AutoGen] 从大小为 295 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 717.67%
 # [AutoGen] 被 3 个用户应用程序上报为不信任的 IP 地址
 183.131.128.0/17
-
-# [Merged Comment]
-# multi-dial.txt
-# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
-# overdownload-ips.txt
-# qBittorrent/4.6.7 刷流 福建泉州
-# qzdx150, 36.250.249.15-36.250.249.59
-# qzdx180, 36.250.249.80-36.250.249.114
-# qzdx190, 36.250.249.90-36.250.249.107
-# qzdx200, 36.250.249.6-36.250.249.125
-# qzdx240, 36.250.249.25-36.250.249.39
-# [AutoGen] 从大小为 3 GB 的种子上下载了 12 GB 的数据。下载比(100%=完整下载1次种子的大小)： 373.46%
-# [AutoGen] 从大小为 443 MB 的种子上下载了 4 GB 的数据。下载比(100%=完整下载1次种子的大小)： 927.11%
-36.250.249.0/24
 
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
