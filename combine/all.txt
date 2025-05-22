@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-05-22 21:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-05-22 22:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1301,9 +1301,6 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 27.37.67.7
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-36.26.152.25
-# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 36.224.17.4
 # untrusted-ips.txt
@@ -1427,15 +1424,12 @@
 115.65.164.55
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-115.207.41.64
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 115.207.104.59
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 115.221.106.244
 # untrusted-ips.txt
-# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 115.221.119.29
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1578,6 +1572,9 @@
 218.71.10.96
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+218.71.11.129
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 218.71.25.202
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1608,7 +1605,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 220.186.102.211
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 220.186.125.172
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2517,6 +2514,43 @@
 # [Merged Comment]
 # 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
 # overdownload-ips.txt
+# qzdx100
+# qzdx110
+# qzdx120
+# qzdx130
+# qzdx140
+# qzdx150
+# qzdx160
+# qzdx170
+# qzdx180
+# qzdx190
+# qzdx200
+# qzdx210
+# qzdx220
+# qzdx230
+# qzdx240
+# qzdx250
+# qzdx30
+# qzdx40
+# qzdx50
+# qzdx60
+# qzdx70
+# qzdx80
+# qzdx90
+# [AutoGen] 从大小为 431 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 796.11%
+# [AutoGen] 从大小为 446 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 548.72%
+# [AutoGen] 从大小为 454 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 428.44%
+# [AutoGen] 从大小为 7 GB 的种子上下载了 45 GB 的数据。下载比(100%=完整下载1次种子的大小)： 596.41%
+# [AutoGen] 从大小为 327 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 349.03%
+# [AutoGen] 从大小为 510 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 524.55%
+# [AutoGen] 从大小为 379 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 346.80%
+# [AutoGen] 从大小为 359 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 465.20%
+# [AutoGen] 从大小为 526 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 645.50%
+# [AutoGen] 从大小为 4 GB 的种子上下载了 32 GB 的数据。下载比(100%=完整下载1次种子的大小)： 647.05%
+110.85.5.0/24
+# [Merged Comment]
+# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
+# overdownload-ips.txt
 # fzDX190, 117.24.165.13-117.24.165.199
 # 太多了，总之都在一个段
 # fzdx110, 117.24.165.110-117.24.165.21
@@ -3016,46 +3050,6 @@
 # [AutoGen] 从大小为 83 MB 的种子上下载了 409 MB 的数据。下载比(100%=完整下载1次种子的大小)： 489.18%
 # [AutoGen] 从大小为 34 MB 的种子上下载了 513 MB 的数据。下载比(100%=完整下载1次种子的大小)： 1508.21%
 101.69.214.0/24
-
-# [Merged Comment]
-# untrusted-ips.txt
-# 伪装特征：-qB4670- qBittorrent/4.6.7 某 IDC 公司机房刷流
-# overdownload-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-# qzdx100
-# qzdx110
-# qzdx120
-# qzdx130
-# qzdx140
-# qzdx150
-# qzdx160
-# qzdx170
-# qzdx180
-# qzdx190
-# qzdx200
-# qzdx210
-# qzdx220
-# qzdx230
-# qzdx240
-# qzdx250
-# qzdx30
-# qzdx40
-# qzdx50
-# qzdx60
-# qzdx70
-# qzdx80
-# qzdx90
-# [AutoGen] 从大小为 431 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 796.11%
-# [AutoGen] 从大小为 446 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 548.72%
-# [AutoGen] 从大小为 454 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 428.44%
-# [AutoGen] 从大小为 7 GB 的种子上下载了 45 GB 的数据。下载比(100%=完整下载1次种子的大小)： 596.41%
-# [AutoGen] 从大小为 327 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 349.03%
-# [AutoGen] 从大小为 510 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 524.55%
-# [AutoGen] 从大小为 379 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 346.80%
-# [AutoGen] 从大小为 359 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 465.20%
-# [AutoGen] 从大小为 526 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 645.50%
-# [AutoGen] 从大小为 4 GB 的种子上下载了 32 GB 的数据。下载比(100%=完整下载1次种子的大小)： 647.05%
-110.85.5.0/24
 
 # nt
 112.21.127.2
