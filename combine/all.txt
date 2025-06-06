@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-06-06 03:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-06-06 04:30:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2043,28 +2043,9 @@
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 ::ffff:b96b:2d28
 
-# wangxin-pcdn.txt
-1.83.127.93
-# wangxin-pcdn.txt
-# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行网心云 PCDN 节点
-14.117.223.127
-# wangxin-pcdn.txt
-27.156.108.147
-# wangxin-pcdn.txt
-27.156.109.174
-# wangxin-pcdn.txt
-58.246.101.251
-# wangxin-pcdn.txt
-60.178.231.76
-# wangxin-pcdn.txt
-61.240.243.20
-# wangxin-pcdn.txt
-110.90.207.129
-# wangxin-pcdn.txt
-112.66.84.243
-# wangxin-pcdn.txt
-112.103.141.134
-
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+1.83.124.151
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 1.169.99.43
@@ -2103,6 +2084,9 @@
 36.224.38.69
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+39.89.165.47
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 43.250.53.85
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2132,9 +2116,6 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 92.60.39.120
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-104.28.242.151
-# untrusted-ips.txt
 # [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 18 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 14 个用户应用程序上报为不信任的 IP 地址
@@ -2149,7 +2130,7 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 112.123.221.169
 # untrusted-ips.txt
-# [AutoGen] 被 52 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 53 个用户应用程序上报为不信任的 IP 地址
 113.15.188.59
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2166,6 +2147,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 114.37.146.112
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+114.37.149.90
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2271,9 +2255,6 @@
 171.110.30.205
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-180.12.134.15
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 182.88.133.229
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
@@ -2340,7 +2321,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 240e:351:5cae:c00::/60
 # untrusted-ips.txt
-# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 240e:36f:717:9600::/60
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
@@ -2366,9 +2347,28 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2a01:4f8:172:d50::/60
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-2a09:bac1:7ac0:10::/60
+
+# wangxin-pcdn.txt
+1.83.127.93
+# wangxin-pcdn.txt
+# 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行网心云 PCDN 节点
+14.117.223.127
+# wangxin-pcdn.txt
+27.156.108.147
+# wangxin-pcdn.txt
+27.156.109.174
+# wangxin-pcdn.txt
+58.246.101.251
+# wangxin-pcdn.txt
+60.178.231.76
+# wangxin-pcdn.txt
+61.240.243.20
+# wangxin-pcdn.txt
+110.90.207.129
+# wangxin-pcdn.txt
+112.66.84.243
+# wangxin-pcdn.txt
+112.103.141.134
 
 # tiantang-pcdn.txt
 # 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行甜糖 PCDN 节点
