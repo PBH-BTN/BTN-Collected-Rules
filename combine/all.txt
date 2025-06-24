@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-06-24 13:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-06-24 14:00:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2029,6 +2029,9 @@
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 60.188.114.0/24
 # untrusted-ips.txt
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
+61.146.0.142
+# untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 61.228.194.42
 # untrusted-ips.txt
@@ -2073,6 +2076,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 116.10.64.173
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+120.87.238.196
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 121.60.116.138
@@ -2169,11 +2175,11 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 240d:1a:e65:3300::/60
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-240e:350:6f21:4a00::/60
-# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 240e:36e:1481:c200::/60
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+240e:36f:411:c260::/60
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 240e:36f:937:3f00::/60
@@ -2189,9 +2195,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 240e:390:256c:b2f0::/60
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-240e:390:270d:d2c0::/60
 
 # tiantang-pcdn.txt
 # 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行甜糖 PCDN 节点
