@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-08 19:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-08 20:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1364,6 +1364,12 @@
 # [AutoGen] 从大小为 48 GB 的种子上下载了 163 GB 的数据。下载比(100%=完整下载1次种子的大小)： 338.67%
 60.178.150.57
 # overdownload-ips.txt
+# [AutoGen] 从大小为 11 GB 的种子上下载了 86 GB 的数据。下载比(100%=完整下载1次种子的大小)： 743.57%
+60.188.114.162
+# overdownload-ips.txt
+# [AutoGen] 从大小为 452 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 348.21%
+60.188.114.185
+# overdownload-ips.txt
 # [AutoGen] 从大小为 2 GB 的种子上下载了 13 GB 的数据。下载比(100%=完整下载1次种子的大小)： 463.98%
 60.255.173.0
 # overdownload-ips.txt
@@ -2255,7 +2261,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 221.222.242.11
 # untrusted-ips.txt
-# [AutoGen] 被 19 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 17 个用户应用程序上报为不信任的 IP 地址
 222.83.244.43
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
@@ -2276,7 +2282,10 @@
 2408:822e:1a74::/49
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-2408:822e:1c73::/50
+2408:822e:1c73:d50::/60
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2408:822e:1c73:2ff0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:825c:21:67d0::/60
@@ -2296,7 +2305,7 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 2409:8a30:4274:3360::/60
 # untrusted-ips.txt
-# [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 11 个用户应用程序上报为不信任的 IP 地址
 2409:8a5c:5cae:4360::/60
 # untrusted-ips.txt
 # [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
@@ -2866,13 +2875,6 @@
 # [AutoGen] 从大小为 11 GB 的种子上下载了 42 GB 的数据。下载比(100%=完整下载1次种子的大小)： 368.55%
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 60.188.92.0/24
-# [Merged Comment]
-# overdownload-ips.txt
-# untrusted-ips.txt
-# [AutoGen] 从大小为 11 GB 的种子上下载了 86 GB 的数据。下载比(100%=完整下载1次种子的大小)： 743.57%
-# [AutoGen] 从大小为 452 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 348.21%
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-60.188.114.0/24
 # [Merged Comment]
 # overdownload-ips.txt
 # untrusted-ips.txt
