@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-25 15:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-25 16:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # untrusted-ips.txt
@@ -25,6 +25,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 60.162.199.57
+# untrusted-ips.txt
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+60.182.175.20
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 61.228.208.23
@@ -56,7 +59,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 120.239.49.91
 # untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 122.234.240.233
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -73,9 +76,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 12 个用户应用程序上报为不信任的 IP 地址
 171.94.107.55
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-180.175.163.231
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 183.160.74.174
@@ -127,6 +127,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:825c:20:b870::/60
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2408:825c:21:1fd0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1474,6 +1477,12 @@
 # [AutoGen] 从大小为 7 GB 的种子上下载了 44 GB 的数据。下载比(100%=完整下载1次种子的大小)： 612.09%
 59.174.116.182
 # overdownload-ips.txt
+# [AutoGen] 从大小为 316 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1111.47%
+60.188.92.210
+# overdownload-ips.txt
+# [AutoGen] 从大小为 292 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 515.37%
+60.188.92.220
+# overdownload-ips.txt
 # [AutoGen] 从大小为 30 MB 的种子上下载了 400 MB 的数据。下载比(100%=完整下载1次种子的大小)： 1332.50%
 # [AutoGen] 从大小为 367 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 552.18%
 # [AutoGen] 从大小为 76 MB 的种子上下载了 363 MB 的数据。下载比(100%=完整下载1次种子的大小)： 473.47%
@@ -2639,14 +2648,6 @@
 60.20.245.0/24
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
 60.20.247.0/24
-
-# [Merged Comment]
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 从大小为 316 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1111.47%
-# [AutoGen] 从大小为 292 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 515.37%
-60.188.92.0/24
 
 # [Merged Comment]
 # aria2c.txt
