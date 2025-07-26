@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-25 23:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-26 00:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # untrusted-ips.txt
@@ -30,7 +30,7 @@
 73.63.219.143
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-101.70.158.161
+101.70.158.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 110.136.135.250
@@ -64,6 +64,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 171.94.104.185
+# untrusted-ips.txt
+# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
+171.94.106.99
 # untrusted-ips.txt
 # [AutoGen] 被 12 个用户应用程序上报为不信任的 IP 地址
 171.94.107.55
@@ -2628,8 +2631,8 @@
 # [Merged Comment]
 # untrusted-ips.txt
 # overdownload-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 从大小为 316 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1111.47%
 60.188.92.0/24
 
