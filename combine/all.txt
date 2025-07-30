@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-30 19:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-07-30 20:00:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2507,8 +2507,14 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 123.116.97.174
 # untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+125.79.192.165
+# untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 150.147.73.109
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+156.146.45.201
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 158.179.164.85
@@ -2535,7 +2541,7 @@
 219.228.118.79
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-220.180.184.22
+220.180.184.0/24
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 222.215.155.169
@@ -2577,6 +2583,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
 240e:36f:986:a080::/60
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+240e:37b:9c00:69c0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 240e:390:aa4:c460::/60
