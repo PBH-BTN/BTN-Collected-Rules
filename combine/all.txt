@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-07 21:30:13 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-07 22:00:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -124,9 +124,6 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 12 GB 的种子上下载了 64 GB 的数据。下载比(100%=完整下载1次种子的大小)： 513.22%
 60.106.167.210
-# overdownload-ips.txt
-# [AutoGen] 从大小为 379 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 329.06%
-60.188.92.209
 # overdownload-ips.txt
 # [AutoGen] 从大小为 28 GB 的种子上下载了 92 GB 的数据。下载比(100%=完整下载1次种子的大小)： 328.64%
 61.18.40.48
@@ -2103,9 +2100,6 @@
 73.74.156.162
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-79.127.224.129
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 95.211.64.171
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
@@ -2135,6 +2129,9 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 139.226.147.15
 # untrusted-ips.txt
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+153.34.80.117
+# untrusted-ips.txt
 # [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
 163.204.166.17
 # untrusted-ips.txt
@@ -2158,6 +2155,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:822e:1a74:4000::/50
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2408:823c:4c15:490::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:8240:21b:22c0::/60
@@ -2647,6 +2647,12 @@
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
 60.20.247.0/24
 
+# [Merged Comment]
+# untrusted-ips.txt
+# overdownload-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 379 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 329.06%
+60.188.92.0/24
 # [Merged Comment]
 # untrusted-ips.txt
 # overdownload-ips.txt
