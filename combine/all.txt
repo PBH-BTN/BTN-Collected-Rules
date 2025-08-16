@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-16 13:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-16 14:30:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1302,12 +1302,6 @@
 114.37.152.207
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
-115.238.231.0/24
-# untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 116.237.123.250
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1665,9 +1659,6 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 28 GB 的种子上下载了 96 GB 的数据。下载比(100%=完整下载1次种子的大小)： 341.54%
 115.66.168.91
-# overdownload-ips.txt
-# [AutoGen] 从大小为 293 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 406.99%
-115.238.230.170
 # overdownload-ips.txt
 # [AutoGen] 从大小为 20 GB 的种子上下载了 89 GB 的数据。下载比(100%=完整下载1次种子的大小)： 434.23%
 116.117.116.182
@@ -2652,8 +2643,17 @@
 # [Merged Comment]
 # overdownload-ips.txt
 # untrusted-ips.txt
+# [AutoGen] 从大小为 293 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 406.99%
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
+115.238.230.0/23
+# [Merged Comment]
+# overdownload-ips.txt
+# untrusted-ips.txt
 # [AutoGen] 从大小为 418 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 344.53%
-# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 2001:b011:980a:7d00::/60
 
 # [Merged Comment]
