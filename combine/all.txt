@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-21 12:28:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-21 12:28:30 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2857,10 +2857,6 @@
 # 恶意 Aria2 IP 地址
 240e:39d:33::/50
 # 恶意 Aria2 IP 地址
-## 12851 个吸血唯一地址 - 过大，选择替代
-#240e:979:9500::/40 - 过大，选择替代
-# 8472 个吸血唯一地址 - 过大，选择替代
-#240e:3a0:3a00::/39 - 过大，选择替代
 240e:3a0:3a02:8000::/49
 # 恶意 Aria2 IP 地址
 240e:3a0:3a0a::/50
@@ -3181,6 +3177,10 @@
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
 # aria2c.txt
 # 复查于 25/1/9 aria2/1.37.0 刷流（77 条进度回退，IP 集中）
+## 12851 个吸血唯一地址 - 过大，选择替代
+#240e:979:9500::/40 - 过大，选择替代
+# 8472 个吸血唯一地址 - 过大，选择替代
+#240e:3a0:3a00::/39 - 过大，选择替代
 # 253 个吸血唯一地址
 # aria2c12
 # aria2c13
