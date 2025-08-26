@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-26 16:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-08-26 16:48:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -3046,9 +3046,10 @@
 # 恶意 Aria2 IP 地址
 240e:39d:33::/50
 # 恶意 Aria2 IP 地址
-240e:3a0:3a02:8000::/49
+# 8472 个吸血唯一地址
+240e:3a0:3a02::/48
 # 恶意 Aria2 IP 地址
-240e:3a0:3a0a::/50
+240e:3a0:3a0a::/48
 # 恶意 Aria2 IP 地址
 240e:3a0:4c0f::/50
 # 恶意 Aria2 IP 地址
@@ -3087,8 +3088,6 @@
 240e:3bb:649:8000::/49
 # 恶意 Aria2 IP 地址
 240e:3bc:31:c000::/50
-# 恶意 Aria2 IP 地址
-240e:978:301::/50
 # 恶意 Aria2 IP 地址
 240f:6f:f9f8::/50
 # 恶意 Aria2 IP 地址
@@ -3318,8 +3317,6 @@
 # overdownload-ips.txt
 # aria2c.txt
 # 复查于 25/1/9 aria2/1.37.0 刷流（77 条进度回退，IP 集中）
-# 8472 个吸血唯一地址 - 过大，选择替代
-#240e:3a0:3a00::/39 - 过大，选择替代
 # 253 个吸血唯一地址
 # [AutoGen] 从大小为 599 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 522.75%
 # aria2c12
@@ -3396,12 +3393,12 @@
 # overdownload-ips.txt
 # 恶意 Aria2 IP 地址
 # [AutoGen] 从大小为 54 MB 的种子上下载了 462 MB 的数据。下载比(100%=完整下载1次种子的大小)： 850.40%
-240e:978:30d::/50
+# 12851 个吸血唯一地址 - IDC 机房段
+240e:978:300::/40
 # [Merged Comment]
 # overdownload-ips.txt
 # 恶意 Aria2 IP 地址
 # [AutoGen] 从大小为 67 MB 的种子上下载了 14 GB 的数据。下载比(100%=完整下载1次种子的大小)： 21566.21%
-# 12851 个吸血唯一地址 - IDC 机房段
 240e:979:9500::/40
 
 # localhost.localdomain
