@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-09-26 07:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-09-26 08:00:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2216,9 +2216,6 @@
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 60.31.198.139
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-61.219.173.163
-# untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 89.213.174.190
 # untrusted-ips.txt
@@ -2231,7 +2228,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 103.125.146.75
 # untrusted-ips.txt
-# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 106.92.36.180
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2330,6 +2327,9 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 220.129.65.132
 # untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+220.180.184.19
+# untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 2001:da8:d800:190::/60
 # untrusted-ips.txt
@@ -2359,6 +2359,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:832e:1a7b:4000::/50
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2408:8438:200:42f0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 2408:865c:5c40::/60
@@ -2435,6 +2438,8 @@
 60.188.92.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 60.188.102.0/24
+# 恶意流量 IDC 地址黑名单 IPv4
+60.191.142.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 110.85.5.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -2714,12 +2719,6 @@
 60.20.245.0/24
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
 60.20.247.0/24
-
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-60.191.142.0/24
 
 # [Merged Comment]
 # high-risk-ips.txt
