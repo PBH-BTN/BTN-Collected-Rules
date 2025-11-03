@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 07:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 08:00:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -988,6 +988,10 @@
 39.188.217.48
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 39.189.38.0/24
+# 特征：-RN0.0.0- Rain 0.0.0 刷流
+42.48.17.27
+# 特征：-RN0.0.0- Rain 0.0.0 刷流
+42.48.17.62
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 42.48.87.161
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2241,6 +2245,9 @@
 2408:822e:1c73:1dc0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2408:832e:1a7b:3380::/60
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:865c:5c40::/60
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
@@ -2567,12 +2574,6 @@
 # [AutoGen] 从大小为 625 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 360.23%
 183.131.128.0/17
 
-# [Merged Comment]
-# untrusted-ips.txt
-# 特征：-RN0.0.0- Rain 0.0.0 刷流
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-42.48.17.0/24
-
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
@@ -2631,6 +2632,7 @@
 # overdownload-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 从大小为 294 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1802.01%
 # [AutoGen] 从大小为 794 MB 的种子上下载了 11 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1538.01%
 58.216.29.0/24
