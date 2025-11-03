@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 18:30:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 19:00:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -976,10 +976,6 @@
 39.188.217.48
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 39.189.38.0/24
-# 特征：-RN0.0.0- Rain 0.0.0 刷流
-42.48.17.27
-# 特征：-RN0.0.0- Rain 0.0.0 刷流
-42.48.17.62
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 42.48.87.161
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2108,6 +2104,9 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 109.137.59.195
 # untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+110.53.70.39
+# untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 110.53.164.49
 # untrusted-ips.txt
@@ -2237,11 +2236,11 @@
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 2409:8a38:6428:b810::/60
 # untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+2409:8a44:7915:2f60::/60
+# untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 2409:8a55:d1b6:50d0::/60
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-2409:8a62:e30:4db0::/60
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 2409:8a6a:818:5390::/60
@@ -2550,6 +2549,12 @@
 # 复查于 25/1/9 qBittorrent/4.6.3 刷流 (635 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # [AutoGen] 从大小为 625 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 360.23%
 183.131.128.0/17
+
+# [Merged Comment]
+# untrusted-ips.txt
+# 特征：-RN0.0.0- Rain 0.0.0 刷流
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+42.48.17.0/24
 
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
