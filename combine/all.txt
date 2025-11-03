@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 01:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-03 02:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2077,7 +2077,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 14.145.193.218
 # untrusted-ips.txt
-# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 8 个用户应用程序上报为不信任的 IP 地址
 36.157.159.206
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2176,6 +2176,9 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 119.39.77.26
 # untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+119.39.78.238
+# untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 120.229.226.245
 # untrusted-ips.txt
@@ -2189,9 +2192,6 @@
 122.100.213.99
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-123.156.69.202
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 163.125.217.16
 # untrusted-ips.txt
 # [AutoGen] 被 19 个用户应用程序上报为不信任的 IP 地址
@@ -2199,9 +2199,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 20 个用户应用程序上报为不信任的 IP 地址
 171.110.25.110
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-173.244.49.43
 # untrusted-ips.txt
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 177.93.10.21
@@ -2507,12 +2504,6 @@
 # [AutoGen] 从大小为 555 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 332.68%
 # [AutoGen] 从大小为 279 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 416.64%
 115.238.230.0/23
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# overdownload-ips.txt
-# [AutoGen] 从大小为 189 MB 的种子上下载了 779 MB 的数据。下载比(100%=完整下载1次种子的大小)： 412.16%
-# [AutoGen] 从大小为 84 MB 的种子上下载了 305 MB 的数据。下载比(100%=完整下载1次种子的大小)： 362.93%
-123.156.68.0/24
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # overdownload-ips.txt
@@ -3080,6 +3071,15 @@
 122.193.222.2
 # admin12
 122.193.244.2
+
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# untrusted-ips.txt
+# overdownload-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 189 MB 的种子上下载了 779 MB 的数据。下载比(100%=完整下载1次种子的大小)： 412.16%
+# [AutoGen] 从大小为 84 MB 的种子上下载了 305 MB 的数据。下载比(100%=完整下载1次种子的大小)： 362.93%
+123.156.68.0/23
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
