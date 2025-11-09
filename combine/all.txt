@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-09 11:30:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-09 12:30:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -1998,6 +1998,9 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 175.11.218.233
 # untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+180.102.35.113
+# untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 183.221.113.121
 # untrusted-ips.txt
@@ -2136,6 +2139,8 @@
 117.24.173.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 122.227.58.0/24
+# 恶意流量 IDC 地址黑名单 IPv4
+124.91.148.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 125.77.27.0/24
 
@@ -2865,12 +2870,6 @@
 122.193.222.2
 # admin12
 122.193.244.2
-
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-124.91.148.0/24
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
