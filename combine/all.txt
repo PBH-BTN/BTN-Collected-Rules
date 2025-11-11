@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-11 12:30:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-11 13:00:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -49,12 +49,6 @@
 # overdownload-ips.txt
 # [AutoGen] 从大小为 539 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 419.93%
 42.48.87.253
-# overdownload-ips.txt
-# [AutoGen] 从大小为 382 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 350.20%
-42.48.90.41
-# overdownload-ips.txt
-# [AutoGen] 从大小为 382 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 533.18%
-42.48.90.54
 # overdownload-ips.txt
 # [AutoGen] 从大小为 539 MB 的种子上下载了 6 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1271.75%
 42.48.105.64
@@ -1923,9 +1917,6 @@
 14.145.200.62
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-23.146.40.190
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 27.42.97.170
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1951,9 +1942,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 60.172.155.150
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-60.172.155.153
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 61.149.121.3
@@ -1991,9 +1979,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 113.225.175.181
-# untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
-114.102.157.171
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 115.193.177.0
@@ -2063,9 +2048,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 9 个用户应用程序上报为不信任的 IP 地址
 2607:5300:60:1db0::/60
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-2a02:2788:1206:26e0::/60
 
 # tiantang-pcdn.txt
 # 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行甜糖 PCDN 节点
@@ -2335,6 +2317,14 @@
 # [AutoGen] 从大小为 570 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 393.05%
 # [AutoGen] 从大小为 570 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 400.65%
 123.156.68.0/23
+
+# [Merged Comment]
+# untrusted-ips.txt
+# overdownload-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 382 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 350.20%
+# [AutoGen] 从大小为 382 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 533.18%
+42.48.90.0/24
 
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
