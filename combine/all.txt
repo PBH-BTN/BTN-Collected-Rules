@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-17 05:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-17 06:00:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -2061,7 +2061,7 @@
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 110.53.70.39
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 110.53.70.40
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2107,7 +2107,7 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 117.63.63.237
 # untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 119.39.77.26
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2116,7 +2116,7 @@
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 182.233.233.117
 # untrusted-ips.txt
-# [AutoGen] 被 15 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 21 个用户应用程序上报为不信任的 IP 地址
 183.236.68.204
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2131,7 +2131,7 @@
 # [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 2408:8270:a37:8620::/60
 # untrusted-ips.txt
-# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 2408:865c:5c40::/60
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2352,6 +2352,12 @@
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # overdownload-ips.txt
+# [AutoGen] 从大小为 520 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1897.74%
+# [AutoGen] 从大小为 55 MB 的种子上下载了 183 MB 的数据。下载比(100%=完整下载1次种子的大小)： 329.71%
+101.69.214.0/24
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# overdownload-ips.txt
 # [AutoGen] 从大小为 18 GB 的种子上下载了 68 GB 的数据。下载比(100%=完整下载1次种子的大小)： 364.67%
 115.238.230.0/23
 # [Merged Comment]
@@ -2444,14 +2450,6 @@
 # [AutoGen] 从大小为 226 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 484.29%
 # [AutoGen] 从大小为 520 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 607.67%
 36.250.241.0/24
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 从大小为 520 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1897.74%
-# [AutoGen] 从大小为 55 MB 的种子上下载了 183 MB 的数据。下载比(100%=完整下载1次种子的大小)： 329.71%
-101.69.214.0/24
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # untrusted-ips.txt
