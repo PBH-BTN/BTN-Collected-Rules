@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-19 03:30:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-19 04:00:08 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1224,6 +1224,9 @@
 14.155.113.105
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+42.48.22.44
+# untrusted-ips.txt
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 42.48.22.82
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
@@ -1267,9 +1270,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 112.251.251.155
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-113.65.8.7
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 113.89.247.88
@@ -2220,6 +2220,8 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 117.24.173.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
+124.91.148.0/24
+# 恶意流量 IDC 地址黑名单 IPv4
 125.77.27.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 220.180.184.0/24
@@ -3076,12 +3078,6 @@
 # [AutoGen] 从大小为 84 MB 的种子上下载了 316 MB 的数据。下载比(100%=完整下载1次种子的大小)： 375.05%
 # [AutoGen] 从大小为 570 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 349.76%
 123.156.68.0/23
-
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-124.91.148.0/24
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
