@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-21 02:00:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-21 03:00:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1235,6 +1235,9 @@
 42.48.82.115
 # untrusted-ips.txt
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+58.20.102.59
+# untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 60.211.179.82
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1279,7 +1282,7 @@
 # [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 117.154.103.184
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 6 个用户应用程序上报为不信任的 IP 地址
 119.39.78.238
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1287,9 +1290,6 @@
 # untrusted-ips.txt
 # [AutoGen] 被 7 个用户应用程序上报为不信任的 IP 地址
 120.236.89.194
-# untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-121.206.105.200
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 122.234.30.9
@@ -2296,6 +2296,12 @@
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # overdownload-ips.txt
+# [AutoGen] 从大小为 520 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1897.74%
+# [AutoGen] 从大小为 55 MB 的种子上下载了 183 MB 的数据。下载比(100%=完整下载1次种子的大小)： 329.71%
+101.69.214.0/24
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# overdownload-ips.txt
 # [AutoGen] 从大小为 339 MB 的种子上下载了 3 GB 的数据。下载比(100%=完整下载1次种子的大小)： 983.54%
 # [AutoGen] 从大小为 476 MB 的种子上下载了 117 GB 的数据。下载比(100%=完整下载1次种子的大小)： 25302.88%
 # [AutoGen] 从大小为 290 MB 的种子上下载了 997 MB 的数据。下载比(100%=完整下载1次种子的大小)： 343.80%
@@ -2409,14 +2415,6 @@
 # [AutoGen] 从大小为 55 GB 的种子上下载了 411 GB 的数据。下载比(100%=完整下载1次种子的大小)： 747.63%
 # [AutoGen] 从大小为 210 MB 的种子上下载了 827 MB 的数据。下载比(100%=完整下载1次种子的大小)： 392.81%
 101.69.63.0/24
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
-# [AutoGen] 从大小为 520 MB 的种子上下载了 9 GB 的数据。下载比(100%=完整下载1次种子的大小)： 1897.74%
-# [AutoGen] 从大小为 55 MB 的种子上下载了 183 MB 的数据。下载比(100%=完整下载1次种子的大小)： 329.71%
-101.69.214.0/24
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # untrusted-ips.txt
