@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-22 15:30:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-22 16:30:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2478,14 +2478,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
 # overdownload-ips.txt
-# qb467 刷流
-# [AutoGen] 从大小为 611 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 887.73%
-# [AutoGen] 从大小为 84 MB 的种子上下载了 316 MB 的数据。下载比(100%=完整下载1次种子的大小)： 375.05%
-123.156.68.0/23
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# multi-dial.txt
-# overdownload-ips.txt
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (635 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # 复查于 25/1/9 qBittorrent/4.6.3 刷流 (635 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # [AutoGen] 从大小为 770 MB 的种子上下载了 2 GB 的数据。下载比(100%=完整下载1次种子的大小)： 360.82%
@@ -3030,6 +3022,17 @@
 122.193.222.2
 # admin12
 122.193.244.2
+
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
+# untrusted-ips.txt
+# overdownload-ips.txt
+# qb467 刷流
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 611 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 887.73%
+# [AutoGen] 从大小为 84 MB 的种子上下载了 316 MB 的数据。下载比(100%=完整下载1次种子的大小)： 375.05%
+123.156.68.0/23
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
