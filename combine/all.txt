@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-28 14:30:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-28 15:00:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2239,7 +2239,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 106.168.195.100
 # untrusted-ips.txt
-# [AutoGen] 被 80 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 79 个用户应用程序上报为不信任的 IP 地址
 107.189.14.229
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2279,6 +2279,9 @@
 186.188.214.211
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+193.70.45.204
+# untrusted-ips.txt
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 218.79.252.40
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -2301,11 +2304,6 @@
 # multi-dial.txt
 # qBittorrent/4.6.7 刷流 福建福州
 36.248.74.0/24
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# multi-dial.txt
-# qBittorrent/4.6.7 刷流 福建泉州
-36.250.249.0/24
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -2337,6 +2335,14 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 # [AutoGen] 从大小为 59 MB 的种子上下载了 256 MB 的数据。下载比(100%=完整下载1次种子的大小)： 428.04%
 101.70.158.0/24
+
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
+# untrusted-ips.txt
+# qBittorrent/4.6.7 刷流 福建泉州
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+36.250.249.0/24
 
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
