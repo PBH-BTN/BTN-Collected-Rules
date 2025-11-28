@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-28 00:30:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-11-28 01:00:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -1856,7 +1856,7 @@
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
 42.48.106.75
 # untrusted-ips.txt
-# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
 54.210.215.74
 # untrusted-ips.txt
 # [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
@@ -1876,6 +1876,9 @@
 # untrusted-ips.txt
 # [AutoGen] 被 14 个用户应用程序上报为不信任的 IP 地址
 113.81.21.14
+# untrusted-ips.txt
+# [AutoGen] 被 5 个用户应用程序上报为不信任的 IP 地址
+113.89.244.220
 # untrusted-ips.txt
 # [AutoGen] 被 10 个用户应用程序上报为不信任的 IP 地址
 113.89.245.150
@@ -2409,17 +2412,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
 # overdownload-ips.txt
-# qb467 刷流
-# [AutoGen] 从大小为 323 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 334.97%
-# [AutoGen] 从大小为 611 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 887.73%
-# [AutoGen] 从大小为 300 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 380.81%
-# [AutoGen] 从大小为 317 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 353.91%
-# [AutoGen] 从大小为 439 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 401.06%
-123.156.68.0/23
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# multi-dial.txt
-# overdownload-ips.txt
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (635 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # 复查于 25/1/9 qBittorrent/4.6.3 刷流 (635 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # [AutoGen] 从大小为 113 MB 的种子上下载了 409 MB 的数据。下载比(100%=完整下载1次种子的大小)： 362.21%
@@ -2853,6 +2845,20 @@
 122.193.222.2
 # admin12
 122.193.244.2
+
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
+# untrusted-ips.txt
+# overdownload-ips.txt
+# qb467 刷流
+# [AutoGen] 被 4 个用户应用程序上报为不信任的 IP 地址
+# [AutoGen] 从大小为 323 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 334.97%
+# [AutoGen] 从大小为 611 MB 的种子上下载了 5 GB 的数据。下载比(100%=完整下载1次种子的大小)： 887.73%
+# [AutoGen] 从大小为 300 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 380.81%
+# [AutoGen] 从大小为 317 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 353.91%
+# [AutoGen] 从大小为 439 MB 的种子上下载了 1 GB 的数据。下载比(100%=完整下载1次种子的大小)： 401.06%
+123.156.68.0/23
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
