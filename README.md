@@ -73,6 +73,8 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 * `tiantang-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行甜糖 PCDN 节点的 IP 地址列表，非完整列表
 * `wangxin-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行网心云 PCDN 节点的 IP 地址列表，非完整列表
 * `concurrent-downloads-ips.txt` - 同时进行大量下载任务的 IP 地址列表
+* `random-identity.txt` - 使用随机 PeerID + 客户端名称进行吸血的 IP 地址列表
+* `rain0.0.0.txt` - `Rain 0.0.0` 特征 IP 名单
 
 ## 被移除的规则
 
