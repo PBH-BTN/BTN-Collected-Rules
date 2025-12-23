@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-23 12:30:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-23 13:30:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # overdownload-ips.txt
@@ -256,6 +256,9 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1066.82% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 907.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 114.92.166.65
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 383.81% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 179.9 GiB, BTN 网络从此 Peer 接收的流量: 68.3 GiB, 跨种计算数量: 1
+114.224.45.137
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 426.78% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 15.5 GiB, BTN 网络从此 Peer 接收的流量: 310.8 MiB, 跨种计算数量: 3
 114.236.32.222
@@ -5285,6 +5288,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 94-a4ef- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b4-9a02- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 76-b74f- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d9-8f5c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f1-8a07- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: bb-a0c3-2d41d8235102 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d8-94c8- ClientName: Gopeed dev
@@ -5372,6 +5376,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 9e-93ee- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 69-a05c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ad-8d71- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 17-ba1b- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e5-9857- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cd-be56- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f0-8382- ClientName: Gopeed dev
@@ -6591,6 +6596,13 @@
 # 组合段刷流合并 需要进一步调查 2025-02-19
 240e:390:7d00::/47
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 30, BTN 网络发送到此 Peer 的总流量: 2.08 GB, BTN 网络从此 Peer 接收的总流量: 126.42 KB
+240e:3a2:4a68:4740:98e:3869:d309:961
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 134, 标记人数: 28, BTN 网络发送到此 Peer 的总流量: 2.44 GB, BTN 网络从此 Peer 接收的总流量: 20.51 KB
+240e:3a2:4a68:4740:f3fd:daf4:b7c4:da0f
+
 # [Merged Comment]
 # gopeeddev.txt
 # random-identity.txt
@@ -7068,7 +7080,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f4-b5d7- ClientName: f4-b5d7-9eccfe39a8f5
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fe-b8a2- ClientName: fe-b8a2-0341489cb10d
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: d8-ba8f- ClientName: d8-ba8f-c26a49f54ddf
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e3-b950- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-b3c1-ea0640670cd0 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-b94f- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e8-b7fd- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fd-8e24- ClientName: fd-8e24-cc28f93b167c
