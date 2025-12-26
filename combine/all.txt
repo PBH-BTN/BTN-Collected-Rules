@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-26 01:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-26 02:30:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # random-identity.txt
@@ -270,6 +270,9 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: z8Kck5pA ClientName: z8Kck5pATBtlVBRbwBJk
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: yTfl0ldf ClientName: yTfl0ldfLIIZo0suBm3H
 111.23.84.0/24
+# random-identity.txt
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830R ClientName: -UT1830RR+v... G..2.
+111.83.184.116
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830V ClientName: -UT1830V=...`7.B.p<.
 111.185.146.21
@@ -572,6 +575,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 975.2 MiB, BTN网络从此Peer获取流量: 432.1 MiB
 38.92.25.154
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.3 GiB, BTN网络从此Peer获取流量: 1.7 MiB
+38.246.114.230
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 22, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.8 MiB, BTN网络从此Peer获取流量: 0 B
 39.182.13.79
 # untrusted-ips.txt
@@ -835,7 +841,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 768.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 14, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 722.8 MiB, BTN网络从此Peer获取流量: 0 B
@@ -1141,8 +1146,8 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 164.8 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a38:9e11:b270::1
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 123.7 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a3c:7a52:6890::1
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 296.0 MiB, BTN网络从此Peer获取流量: 470.8 KiB
+2409:8a3c:6f13:b730:e248:d8ff:fe21:bca4
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 174.1 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a55:3032:ab33:7821:1a1d:ecfe:8d0d
@@ -2566,9 +2571,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 405.37% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 51.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 119.109.34.101
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 414.51% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 132.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
-120.82.120.154
-# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 437.50% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 48.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 120.198.3.40
 # overdownload-ips.txt
@@ -2586,9 +2588,6 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1585.02% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 281.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 122.96.57.132
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 380.66% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 69.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
-123.11.106.173
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 563.99% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 177.2 GiB, BTN 网络从此 Peer 接收的流量: 10.8 MiB, 跨种计算数量: 1
 123.112.23.20
@@ -2902,6 +2901,7 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 866.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 497.6 MiB, BTN网络从此Peer获取流量: 0 B
@@ -3457,7 +3457,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ZEvXC57h ClientName: ZEvXC57hxxWZ7t3AZHfb
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: zrtvuYlH ClientName: zrtvuYlHdhaQ4AlUV72p
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 423.7 MiB, BTN网络从此Peer获取流量: 0 B
 116.128.236.0/24
 # [Merged Comment]
 # random-identity.txt
@@ -4416,7 +4415,6 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f2-9806- ClientName: f2-9806-cd6a082ac672
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-9027- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f3-8197- ClientName: f3-8197-2de1052af76c
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: eb-ba56- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e1-a808- ClientName: e1-a808-12ad874fa8c1
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-aa1a- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e2-932d- ClientName: e2-932d-9099224a8247
@@ -6410,13 +6408,6 @@
 # high-risk-ips.txt
 # Auto Generated by Sparkle
 223.111.104.0/25
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 2.37 GB, BTN 网络从此 Peer 接收的总流量: 0.00 B
-2408:8256:968f:4c8::5b9
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 24, BTN 网络发送到此 Peer 的总流量: 1.44 GB, BTN 网络从此 Peer 接收的总流量: 0.00 B
-2408:8256:968f:4c8:dd5d:699d:8ecc:d83b
 
 # 组合段刷流合并 需要进一步调查 2025-02-19
 240e:390:7c00::/47
