@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-27 10:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-27 11:30:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # random-identity.txt
@@ -86,6 +86,9 @@
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -RN0.0.0 ClientName: -RN0.0.0-.Q..|`.T..\
 39.172.139.124
+# random-identity.txt
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: Chamongo ClientName: Chamongo/1.0.2.921
+39.187.255.238
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -BL24636 ClientName: -BL246363-_Yunqo.!DH
 41.10.145.82
@@ -394,6 +397,9 @@
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -UT1830& ClientName: -UT1830&kLd.VYmL...
 124.218.35.104
+# random-identity.txt
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: Chamongo ClientName: Chamongo/1.0.2.921
+125.116.55.140
 # random-identity.txt
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: -KT22123 ClientName: -KT22123-.yWblvy1AFX
 128.28.29.249
@@ -1087,9 +1093,6 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 37.8 MiB
 218.22.21.23
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.6 MiB, BTN网络从此Peer获取流量: 0 B
-218.34.173.87
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 94.6 MiB, BTN网络从此Peer获取流量: 0 B
 218.58.163.117
@@ -2565,9 +2568,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 854.75% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 122.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 60.170.30.100
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 323.95% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 62.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
-61.170.180.93
-# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 716.36% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 309.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 61.198.73.82
 # overdownload-ips.txt
@@ -2586,10 +2586,10 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1381.59% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 101.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 95.173.219.46
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 369.07% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 214.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
+# [Sparkle3 过量下载在线分析]  过量下载比率: 334.80% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 194.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 101.16.167.65
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 425.30% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 247.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
+# [Sparkle3 过量下载在线分析]  过量下载比率: 404.03% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 234.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 101.16.167.180
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 432.77% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 297.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
@@ -2667,9 +2667,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 652.48% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 147.5 GiB, BTN 网络从此 Peer 接收的流量: 46.5 MiB, 跨种计算数量: 1
 113.201.183.195
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 394.79% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 89.3 GiB, BTN 网络从此 Peer 接收的流量: 28.2 MiB, 跨种计算数量: 1
-113.201.183.220
-# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1056.54% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 101.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 113.233.177.16
 # overdownload-ips.txt
@@ -2681,9 +2678,6 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 688.81% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 119.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 114.24.212.186
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 412.47% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 234.2 GiB, BTN 网络从此 Peer 接收的流量: 180.6 GiB, 跨种计算数量: 1
-114.25.201.113
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 839.59% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 349.9 GiB, BTN 网络从此 Peer 接收的流量: 20.6 GiB, 跨种计算数量: 1
 114.32.213.74
@@ -2763,7 +2757,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 472.88% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 215.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 121.225.64.193
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 346.99% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 335.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 3
+# [Sparkle3 过量下载在线分析]  过量下载比率: 333.83% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 322.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 3
 121.230.180.168
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1585.02% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 281.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
@@ -2865,7 +2859,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 482.20% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 219.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 175.0.253.66
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 629.00% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 432.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+# [Sparkle3 过量下载在线分析]  过量下载比率: 627.66% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 431.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 175.172.221.87
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 379.01% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 191.5 GiB, BTN 网络从此 Peer 接收的流量: 81.3 GiB, 跨种计算数量: 1
@@ -2891,9 +2885,6 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1040.85% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 57.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 182.139.47.119
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 441.89% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 155.2 GiB, BTN 网络从此 Peer 接收的流量: 66.6 GiB, 跨种计算数量: 1
-182.150.247.29
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 3308.25% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 75.7 GiB, BTN 网络从此 Peer 接收的流量: 6.7 GiB, 跨种计算数量: 1
 183.6.60.68
@@ -2925,7 +2916,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 403.80% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 183.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 185.150.18.11
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 471.24% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 86.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+# [Sparkle3 过量下载在线分析]  过量下载比率: 401.22% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 73.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 202.201.11.61
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 519.90% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 59.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
@@ -2943,7 +2934,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 522.66% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 164.3 GiB, BTN 网络从此 Peer 接收的流量: 1.1 GiB, 跨种计算数量: 1
 218.4.40.62
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 859.14% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 523.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+# [Sparkle3 过量下载在线分析]  过量下载比率: 851.85% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 518.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 218.71.172.18
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 518.90% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 88.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
@@ -5022,7 +5013,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 5e-9383- ClientName: 5e-9383-e68d0950cf8a
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e0-b77b- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 33-8bc9-8affbc4210d4 ClientName: Gopeed dev (n/a)
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 89-83bc- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e3-a33d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cb-b7d2- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 0c-9d6d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e3-8ac4- ClientName: Gopeed dev
@@ -6710,7 +6701,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 39, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.2 GiB, BTN网络从此Peer获取流量: 1.8 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 706.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.2 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 12, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 30, 不信任票数: 21, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.2 GiB, BTN网络从此Peer获取流量: 0 B
@@ -6834,8 +6825,10 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f6-8e68- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ab-96bb- ClientName: ab-96bb-24dbeb94be5e
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-b601- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: ef-9f26- ClientName: ef-9f26-50d688659c56
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: f8-81ad- ClientName: f8-81ad-146cd51ac953
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-b040-17f505fc138c ClientName: Gopeed dev (n/a)
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: ef-9f26- ClientName: ef-9f26-50d688659c56
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: f8-9a38- ClientName: f8-9a38-b642eb78dffe
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f2-9806- ClientName: f2-9806-cd6a082ac672
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-b580- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ef-8d09- ClientName: ef-8d09-3283f3c68a16
@@ -6863,7 +6856,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f5-9042- ClientName: f5-9042-99510a1789c3
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-88c3- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ed-85ab- ClientName: ed-85ab-6e29ea57cb8c
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ef-8d09- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-bf31- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ef-9fe2- ClientName: ef-9fe2-63944128e8a7
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a09e- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f3-88b5- ClientName: f3-88b5-4d8db8a68b52
@@ -7040,6 +7033,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d9-be63- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f0-be65- ClientName: f0-be65-16112d557117
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: d5-8963- ClientName: d5-8963-dc41172ac44e
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: ee-acb1- ClientName: ee-acb1-93e729423bbc
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f1-9371- ClientName: f1-9371-4d1a7934b06a
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f7-8923- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f3-8a0c- ClientName: f3-8a0c-8222764158bd
