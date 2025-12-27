@@ -4,8 +4,6 @@
 
 ![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/792975044/badge.svg)
 
-[点此查看 BTN 网络统计数据](https://grafana.ghostchu-services.top/public-dashboards/eded9089491241099c9ab3e384d33595)
-
 > [!NOTE]
 > 自 2024/08/21 起，大部分规则现在由 BTN 服务器直接生成更新，更新数据仅包含最近 45 天的活跃数据。当超过 45 天 IP 不活动时，将从列表中自动移除。
 
