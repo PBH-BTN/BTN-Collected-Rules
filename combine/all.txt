@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-28 21:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-28 22:30:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # random-identity.txt
@@ -685,6 +685,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 0 B
 61.179.45.2
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.5 MiB, BTN网络从此Peer获取流量: 0 B
+61.179.45.78
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.8 GiB, BTN网络从此Peer获取流量: 58.3 MiB
 67.241.188.55
 # untrusted-ips.txt
@@ -775,6 +778,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.4 KiB, BTN网络从此Peer获取流量: 0 B
 111.45.22.61
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 13, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
+111.47.210.30
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 339.1 MiB, BTN网络从此Peer获取流量: 0 B
 111.196.131.164
 # untrusted-ips.txt
@@ -828,11 +834,11 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 458.6 MiB, BTN网络从此Peer获取流量: 0 B
 113.89.246.0/24
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 215.9 MiB, BTN网络从此Peer获取流量: 0 B
-113.89.247.101
-# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 638.3 MiB, BTN网络从此Peer获取流量: 0 B
 113.89.247.162
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 365.6 MiB, BTN网络从此Peer获取流量: 0 B
+113.89.247.204
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.4 GiB, BTN网络从此Peer获取流量: 0 B
 113.118.179.173
@@ -849,6 +855,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.2 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 269.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 309.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 448.5 MiB, BTN网络从此Peer获取流量: 0 B
@@ -876,11 +883,8 @@
 # [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 12, 合并记录数量: 2, BTN网络发送到此Peer流量: 2.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.5 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 848.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 14, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.0 GiB, BTN网络从此Peer获取流量: 0 B
@@ -927,9 +931,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 954.0 MiB, BTN网络从此Peer获取流量: 4.7 MiB
 122.116.22.250
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.7 MiB, BTN网络从此Peer获取流量: 0 B
-123.178.206.150
-# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 613.2 MiB, BTN网络从此Peer获取流量: 0 B
 123.192.202.23
 # untrusted-ips.txt
@@ -971,6 +972,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 212.6 MiB, BTN网络从此Peer获取流量: 2.4 MiB
 142.171.181.117
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.0 MiB, BTN网络从此Peer获取流量: 352.0 KiB
+146.70.27.250
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 604.2 MiB, BTN网络从此Peer获取流量: 44.9 KiB
 146.70.76.43
@@ -1069,6 +1073,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 2.6 MiB
 185.132.179.9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.1 MiB, BTN网络从此Peer获取流量: 0 B
+185.170.113.16
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 488.9 MiB, BTN网络从此Peer获取流量: 0 B
 185.177.126.221
@@ -2592,6 +2599,9 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 854.75% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 122.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 60.170.30.100
 # overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 82359.33% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 51.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+61.141.176.9
+# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 716.36% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 309.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 2
 61.198.73.82
 # overdownload-ips.txt
@@ -2865,9 +2875,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 88673.70% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 55.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 171.221.144.4
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 439.52% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 105.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
-171.222.251.184
-# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 401.28% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 182.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 171.222.251.253
 # overdownload-ips.txt
@@ -2943,7 +2950,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 522.66% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 164.3 GiB, BTN 网络从此 Peer 接收的流量: 1.1 GiB, 跨种计算数量: 1
 218.4.40.62
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 433.99% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 264.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+# [Sparkle3 过量下载在线分析]  过量下载比率: 425.83% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 259.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
 218.71.172.18
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 366.62% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 167.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
@@ -3361,16 +3368,6 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.2 GiB, BTN网络从此Peer获取流量: 0 B
 122.227.58.0/24
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 282, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 10.30 GB, BTN 网络从此 Peer 接收的总流量: 0.00 B
-36.151.251.63
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 112, 标记人数: 62, BTN 网络发送到此 Peer 的总流量: 5.86 GB, BTN 网络从此 Peer 接收的总流量: 0.00 B
-183.232.141.150
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 127, 标记人数: 70, BTN 网络发送到此 Peer 的总流量: 15.11 GB, BTN 网络从此 Peer 接收的总流量: 0.00 B
-183.232.141.163
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -4204,7 +4201,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-9347-4171d1e42408 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 10-8ec0- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 71-b9b9- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 05-b6c5- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 39-a1cf- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ea-a2e0- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 98-82be- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: bd-b323- ClientName: Gopeed dev
@@ -4526,7 +4523,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a4-b88d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f4-adc7- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 48-b9ac-26ce99fa5b69 ClientName: Gopeed dev (n/a)
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a952- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 4e-b16b- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b8-bf09- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: bf-b6ca- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 53-9212- ClientName: Gopeed dev
@@ -4610,7 +4607,7 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e2-932d- ClientName: e2-932d-9099224a8247
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fd-9292- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: dc-8bed- ClientName: dc-8bed-9ca70621d3b1
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f0-b3f7- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fc-8359- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e9-b188- ClientName: e9-b188-5a02a900969c
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a9c1- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fd-8f46- ClientName: fd-8f46-e70380d639ba
@@ -4988,7 +4985,7 @@
 # [Merged Comment]
 # gopeeddev.txt
 # random-identity.txt
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-9f08- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d1-834c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f0-9504-b548728d966b ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e9-ac3f- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: bf-b286- ClientName: Gopeed dev
@@ -5016,7 +5013,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a3-8461- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 7b-bb4f- ClientName: 7b-bb4f-39a64776b8d9
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: dd-a1ed- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d7-bb9d-01c90a211bb2 ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b5-a361- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: b0-bcf2- ClientName: b0-bcf2-aafd6636577b
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 7d-bd07- ClientName: 7d-bd07-1b2e2b441dca
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 9b-a08f- ClientName: 9b-a08f-34d798556a41
@@ -5036,6 +5033,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f5-8518- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d0-a793- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-bcd8- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a5-9e38- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b3-af1b- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-b83c- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 7b-a1e8- ClientName: 7b-a1e8-c6f4fb4fe1ae
@@ -5463,7 +5461,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: e4-b7f4- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: bf-a8bb-1d440184ebf3 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 9c-9931- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 4e-8999- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 8d-b89c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a5-b994-d78b06a23879 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: cd-909c- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 99-a772- ClientName: Gopeed dev
@@ -5531,6 +5529,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 16-98c2-f09678247c81 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a0-b3de- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 71-a37c- ClientName: 71-a37c-099322bfb57e
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: 94-8bda- ClientName: 94-8bda-7ee27e35b92d
 114.225.190.0/23
 # [Merged Comment]
 # gopeeddev.txt
@@ -5588,6 +5587,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: eb-a157-c3e9a30a3338 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: c8-9968- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fa-acc9- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 25-8caa- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d3-b193- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f1-ad88-18e7848b6b7b ClientName: Gopeed dev (n/a)
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 6b-8be7- ClientName: 6b-8be7-e420462e5088
@@ -5866,6 +5866,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 56-be1d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 9a-945a- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: 12-a2c1- ClientName: 12-a2c1-8fe4e0d1f1ab
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: 71-88c5- ClientName: 71-88c5-568d302dd297
 180.113.143.0/24
 # [Merged Comment]
 # gopeeddev.txt
@@ -5965,7 +5966,6 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 81-bf5d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 83-a3cf- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: aa-a341- ClientName: Gopeed dev
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 45-86f2- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 4a-998d- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f4-9ab3- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a0-9bfc- ClientName: Gopeed dev
@@ -6169,7 +6169,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: d4-8024- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 71-afab-61b35a7a26a3 ClientName: Gopeed dev (n/a)
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-b451- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 20-a6c8- ClientName: 20-a6c8-6d9baad3ac88
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: bc-8282- ClientName: bc-8282-81523b1e0f5a
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 2c-abeb- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 9f-beb0- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 18-979b- ClientName: Gopeed dev
@@ -6611,13 +6611,6 @@
 # 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
 
-# [Merged Comment]
-# concurrent-downloads-ips.txt
-# untrusted-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 115, 标记人数: 50, BTN 网络发送到此 Peer 的总流量: 13.87 GB, BTN 网络从此 Peer 接收的总流量: 96.00 KB
-# [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 13, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
-111.47.210.30
-
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -7032,7 +7025,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: df-9db6- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f6-a722- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: da-aed3- ClientName: da-aed3-fb606c135ccb
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: ae-8990- ClientName: ae-8990-92274573a4ec
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: cd-bb57- ClientName: cd-bb57-a982073f4ecd
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-8e73- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-bf14- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: cf-94af- ClientName: cf-94af-629aed7b677b
