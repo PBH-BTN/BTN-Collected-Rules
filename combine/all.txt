@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-30 22:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2025-12-30 23:30:19 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # random-identity.txt
@@ -1985,10 +1985,10 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.5 MiB, BTN网络从此Peer获取流量: 0 B
 113.15.182.106
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 452.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 453.1 MiB, BTN网络从此Peer获取流量: 0 B
 113.15.183.124
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 736.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 740.1 MiB, BTN网络从此Peer获取流量: 0 B
 113.15.183.162
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 883.7 MiB, BTN网络从此Peer获取流量: 608.0 KiB
@@ -3878,9 +3878,6 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 53-96ec- ClientName: Gopeed dev
 114.224.24.5
 # gopeeddev.txt
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a9c0- ClientName: Gopeed dev
-114.224.51.70
-# gopeeddev.txt
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: be-ae85-591cd896816c ClientName: Gopeed dev (n/a)
 114.224.94.47
 # gopeeddev.txt
@@ -4263,6 +4260,7 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 42-8d36- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 6e-851f- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 31-9142- ClientName: Gopeed dev
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 9a-8f59- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 65-8ada- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: 36-b4db- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b5-b738-d378132150ba ClientName: Gopeed dev (n/a)
@@ -5417,6 +5415,12 @@
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: f1-a864- ClientName: f1-a864-1577646c4e32
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: a6-ae80- ClientName: Gopeed dev
 114.223.240.0/21
+# [Merged Comment]
+# gopeeddev.txt
+# random-identity.txt
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a9c0- ClientName: Gopeed dev
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: 1b-be0f- ClientName: 1b-be0f-d40fd4df5ea9
+114.224.51.70
 # [Merged Comment]
 # gopeeddev.txt
 # random-identity.txt
@@ -7146,8 +7150,8 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fe-a9b7- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fa-bcd8- ClientName: fa-bcd8-c7161cba3edf
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f7-a02e- ClientName: Gopeed dev
-# [Sparkle3] 随机特征识别: 采样数据: PeerId: 67-b49f- ClientName: 67-b49f-cf75f7dc0f79
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-bb23- ClientName: Gopeed dev
+# [Sparkle3] 随机特征识别: 采样数据: PeerId: ef-855f- ClientName: ef-855f-6079ccfc04b4
+# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-b913- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e2-a5b4- ClientName: e2-a5b4-f27f85b2dfa3
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-9d75- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f2-934e- ClientName: Gopeed dev
@@ -7175,11 +7179,9 @@
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f6-a722- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: da-aed3- ClientName: da-aed3-fb606c135ccb
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: cd-bb57- ClientName: cd-bb57-a982073f4ecd
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: fb-8e73- ClientName: Gopeed dev
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f9-bf14- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: cf-94af- ClientName: cf-94af-629aed7b677b
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: fd-9f78- ClientName: fd-9f78-7254a2215fcf
-# [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: f8-8ec1- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: ad-b730- ClientName: ad-b730-2cfefbaf8039
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: ff-a61b- ClientName: Gopeed dev
 # [Sparkle3] 随机特征识别: 采样数据: PeerId: e0-8dc6- ClientName: e0-8dc6-a346e5e79c40
