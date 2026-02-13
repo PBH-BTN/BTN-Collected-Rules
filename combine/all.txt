@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-13 19:31:43 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-13 19:46:48 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 50
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -7671,8 +7671,6 @@
 # 恶意 Aria2 IP 地址
 240e:3ac:3a2e::/48
 # 恶意 Aria2 IP 地址
-240e:978:1508::/48
-# 恶意 Aria2 IP 地址
 240e:979:9500::/40
 
 # [Merged Comment]
@@ -7971,5 +7969,5 @@
 # [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 19, 合并记录数量: 1, BTN网络发送到此Peer流量: 910.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 19, 合并记录数量: 1, BTN网络发送到此Peer流量: 453.5 MiB, BTN网络从此Peer获取流量: 0 B
 # 12851 个吸血唯一地址 - IDC 机房段
-240e:978:1503::/48
+240e:978:1500::/40
 
