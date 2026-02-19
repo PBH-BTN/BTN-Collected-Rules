@@ -1,5 +1,5 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-19 06:30:34 UTC.
-# [START] Auto merged CIDR - IPV4: 24, IPV6: 50
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-19 07:50:16 UTC.
+# [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.6 MiB, BTN网络从此Peer获取流量: 0 B
@@ -12247,7 +12247,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 433.3 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 896.0 KiB, BTN网络从此Peer获取流量: 0 B
-2001:250:4000:8000::/50
+2001:250:4000:8000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 363.0 MiB, BTN网络从此Peer获取流量: 0 B
 2001:268:9ad1:71a:9fcb:116d:5b:513d
@@ -12268,7 +12268,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1005.6 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.8 KiB, BTN网络从此Peer获取流量: 422 B
-2001:ac8:40::/50
+2001:ac8:40::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 122.5 MiB, BTN网络从此Peer获取流量: 96.0 KiB
 2001:b07:646a:4cc0:1d7b:2f22:8a84:a2ef
@@ -12279,7 +12279,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 94.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.0 MiB, BTN网络从此Peer获取流量: 0 B
-2001:ce8:140::/50
+2001:ce8:140:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.6 GiB, BTN网络从此Peer获取流量: 0 B
 2001:da8:203:bbbb::ab50:bdb4
@@ -12299,7 +12299,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 37, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 48.8 MiB, BTN网络从此Peer获取流量: 29.6 MiB
-2001:da8:201d::/50
+2001:da8:201d:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 1, BTN网络发送到此Peer流量: 233.3 MiB, BTN网络从此Peer获取流量: 0 B
 2001:da8:2d00:2117::114
@@ -12316,7 +12316,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 227.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 311.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 MiB, BTN网络从此Peer获取流量: 0 B
-2001:da8:d800::/50
+2001:da8:d800::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 824.1 MiB, BTN网络从此Peer获取流量: 0 B
 2001:da8:d800:a544:816b:455c:66d6:b087
@@ -12342,10 +12342,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.2 MiB, BTN网络从此Peer获取流量: 0 B
 2001:f40:98c:d9e1:b0c0:b941:8c0e:49f9
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 873.9 MiB, BTN网络从此Peer获取流量: 2.8 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.1 GiB, BTN网络从此Peer获取流量: 288.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 GiB, BTN网络从此Peer获取流量: 1.8 GiB
-2001:41d0:2:8000::/50
+2001:41d0:2:8bbd::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.1 GiB, BTN网络从此Peer获取流量: 288.0 KiB
+2001:41d0:2:8fd3::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 873.9 MiB, BTN网络从此Peer获取流量: 2.8 MiB
+2001:41d0:2:bbc0::1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.1 MiB, BTN网络从此Peer获取流量: 0 B
 2001:41d0:a:5704::1
@@ -12374,10 +12378,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 87.8 MiB, BTN网络从此Peer获取流量: 4.9 MiB
 2001:41d0:403:43c0::1
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 524.0 MiB, BTN网络从此Peer获取流量: 13.2 MiB
-2001:41d0:700::/50
+2001:41d0:700:b49::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.4 GiB, BTN网络从此Peer获取流量: 0 B
+2001:41d0:700:b6b::
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
+2001:41d0:700:3c93::1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 1021.6 MiB, BTN网络从此Peer获取流量: 0 B
 2001:41d0:700:55e2::1
@@ -12388,12 +12396,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 17, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.7 GiB, BTN网络从此Peer获取流量: 18.2 MiB
 2001:41d0:1008:297f::1
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 60.5 MiB, BTN网络从此Peer获取流量: 0 B
+2001:b011:1001:db1e:45a0:fe07:6066:bd62
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 39.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 404.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 60.5 MiB, BTN网络从此Peer获取流量: 0 B
-2001:b011:1001:c000::/50
+2001:b011:1001:f000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 54.0 MiB, BTN网络从此Peer获取流量: 0 B
 2001:b011:380f:1e30:211:32ff:fe7e:a9e9
@@ -12470,7 +12480,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 10.8 MiB, BTN网络从此Peer获取流量: 0 B
-2400:1a00:4b29:8000::/50
+2400:1a00:4b29:a000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 110.2 MiB, BTN网络从此Peer获取流量: 0 B
 2400:2410:9f1b:7800:4aeb:1361:fd4c:4e4a
@@ -12483,7 +12493,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.1 MiB, BTN网络从此Peer获取流量: 0 B
-2400:4050:8562:4000::/50
+2400:4050:8562:7000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.9 MiB, BTN网络从此Peer获取流量: 0 B
 2400:4053:2382:800:753e:77d:f2a0:4282
@@ -12561,7 +12571,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 768.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.6 MiB, BTN网络从此Peer获取流量: 0 B
-2403:d400:1000::/50
+2403:d400:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
 2404:7a80:82e0:6200:adee:8d09:ee33:994e
@@ -12585,7 +12595,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 34.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.1 GiB, BTN网络从此Peer获取流量: 0 B
-2404:7a86:841:4000::/50
+2404:7a86:841:6000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 68.3 MiB, BTN网络从此Peer获取流量: 0 B
 2404:c805:4c21:ba00:caff:bfff:fe05:df0
@@ -12686,7 +12696,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 192, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.6 GiB, BTN网络从此Peer获取流量: 0 B
-2408:8207:309c:c000::/50
+2408:8207:309c:c000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.8 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8207:4835:91e0:1204:c1ff:fe07:863b
@@ -12775,7 +12785,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 23, 不信任票数: 17, 合并记录数量: 1, BTN网络发送到此Peer流量: 262.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 37.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 22, 不信任票数: 17, 合并记录数量: 1, BTN网络发送到此Peer流量: 557.3 MiB, BTN网络从此Peer获取流量: 0 B
-2408:820c:8219:c000::/50
+2408:820c:8219:e000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:820c:821a:c550::100
@@ -12807,7 +12817,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 63.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.8 MiB, BTN网络从此Peer获取流量: 0 B
-2408:820c:8f8f::/50
+2408:820c:8f8f:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.5 MiB, BTN网络从此Peer获取流量: 0 B
 2408:820c:c343:2730:9e47:82ff:fea3:1ad7
@@ -12860,7 +12870,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 595.0 MiB, BTN网络从此Peer获取流量: 13.2 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 GiB, BTN网络从此Peer获取流量: 4.8 MiB
-2408:8210:8404::/50
+2408:8210:8404:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 514.8 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8210:8411:9180:4e4b:f9ff:fe4a:d5a1
@@ -12964,7 +12974,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 37.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.4 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8215:8111:8000::/50
+2408:8215:8111:b000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
 2408:821a:4730:9250:1e83:41ff:fee4:1a99
@@ -13002,7 +13012,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.0 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8221:1c12:c000::/50
+2408:8221:1c12:e000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 61.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8221:4b11:900:8a72:be04:20dd:7376
@@ -13013,7 +13023,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 19, 不信任票数: 16, 合并记录数量: 1, BTN网络发送到此Peer流量: 614.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.1 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8226:42:c000::/50
+2408:8226:42:f000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 409.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8226:3b01:fc21::d73
@@ -13036,7 +13046,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 782.3 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.0 MiB, BTN网络从此Peer获取流量: 1.2 MiB
-2408:822e:6d6:8000::/50
+2408:822e:6d6:9000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 585.0 MiB, BTN网络从此Peer获取流量: 0 B
 2408:822e:781:bbe0::5c4
@@ -13062,7 +13072,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 59.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.0 MiB, BTN网络从此Peer获取流量: 96.0 KiB
-2408:8239:101:c000::/50
+2408:8239:101:c000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 61.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8239:1901:128:5c94:eb02:4c31:9293
@@ -13130,7 +13140,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 256.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 192.0 KiB, BTN网络从此Peer获取流量: 0 B
-2408:823d:4c11::/50
+2408:823d:4c11:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.0 MiB, BTN网络从此Peer获取流量: 0 B
 2408:823d:c212:8f34:1204:c1ff:fe07:914d
@@ -13153,7 +13163,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 43.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 345.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 65.2 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8240:a11:8000::/50
+2408:8240:a11:b000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.1 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8240:a18:db60::5f4
@@ -13209,7 +13219,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 47.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.8 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8240:4e3c::/50
+2408:8240:4e3c:2000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8240:5a10:8af0:e248:d8ff:fe21:4e34
@@ -13382,10 +13392,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.1 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:1481:bfdc:e248:d8ff:fe21:ceec
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.6 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:1980::/50
+2408:8256:1980:a32:e248:d8ff:fe20:b894
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.9 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:1980:17c7:e248:d8ff:fe20:b894
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:1980:3066:e248:d8ff:fe20:b894
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:2284:8ea::b6f
@@ -13396,12 +13410,20 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:2285:17a9:70b4:6ffa:fb5a:9a18
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 245.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 132.8 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:2e85::/50
+2408:8256:2e85:2ae::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:2e85:ed1::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:2e85:1041::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 245.6 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:2e85:157f::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.3 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:2e85:2970:51c5:361e:fd0a:a9c8
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 256.0 KiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3277:2d16:3839:9e31:a3e:8491
@@ -13412,11 +13434,13 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 162.5 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3380:ea09:44f9:8564:53ca:9ea7
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 328.7 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:3489:2ce:e248:d8ff:fe21:a6ea
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 825.7 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 328.7 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:3489::/50
+2408:8256:3489:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 56.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:348d:4e1::d64
@@ -13429,7 +13453,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.9 MiB, BTN网络从此Peer获取流量: 3.7 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 207.3 MiB, BTN网络从此Peer获取流量: 2.3 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.8 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:3500::/50
+2408:8256:3500::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 173.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3511:5ac1::78c
@@ -13446,12 +13470,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3881:bd26:6203:cff:fed3:1171
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 43.7 MiB, BTN网络从此Peer获取流量: 279.2 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 181.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 33.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 99.2 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:3883::/50
+2408:8256:3883::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 43.7 MiB, BTN网络从此Peer获取流量: 279.2 KiB
+2408:8256:3883:1381:6203:cff:fed3:1171
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 88.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3e8d:1f0:e248:d8ff:fe1f:81e2
@@ -13480,7 +13506,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.1 MiB, BTN网络从此Peer获取流量: 176.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 17, 合并记录数量: 1, BTN网络发送到此Peer流量: 135.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.0 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:5683::/50
+2408:8256:5683::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:6681:9f7::7c8
@@ -13495,7 +13521,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 47.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 912.7 KiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:d188::/50
+2408:8256:d188::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 26, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:d27d:f5b4:2be7:f7c4:2f3c:5252
@@ -13503,38 +13529,70 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:d280:3fe:88ad:519d:77c0:61ef
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 415.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 384.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 259.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 153.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 218.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 68.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 355.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 167.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 311.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 165.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 338.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 112.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 54.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 36.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.8 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82::/52
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 509.3 MiB, BTN网络从此Peer获取流量: 164.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 665.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 215.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 52.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 36.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.8 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8256:ec82::/48
+2408:8256:ec82:2000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 54.9 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:32b6:e248:d8ff:fe20:2c40
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 112.4 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:5347:e248:d8ff:fe1f:8860
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.8 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:5c60:e248:d8ff:fe20:231c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:7ab6:e248:d8ff:fe20:2c40
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:7ab7:e248:d8ff:fe20:d262
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 338.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:8a9f:e248:d8ff:fe1f:8860
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.3 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:8fa8:e248:d8ff:fe20:d262
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 165.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:a5ec:e248:d8ff:fe1f:8860
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:b1ff:e248:d8ff:fe1f:8860
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 311.5 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:b326:e248:d8ff:fe20:231c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 218.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 68.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 355.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 167.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:c000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 153.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:d3f2:e248:d8ff:fe20:2c40
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.8 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:d3f3:e248:d8ff:fe20:d262
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 415.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 384.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 259.5 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:e000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.7 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8256:ec82:ff18:e248:d8ff:fe1f:8860
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.6 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:ed80:2b32:e248:d8ff:fe20:2c40
@@ -13563,7 +13621,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 236.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 480.2 MiB, BTN网络从此Peer获取流量: 0 B
-2408:825c:22:8000::/50
+2408:825c:22:b000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:825c:23:8f0c:d395:ddc9:b772:5213
@@ -13618,7 +13676,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 755.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 171.3 MiB, BTN网络从此Peer获取流量: 0 B
-2408:825c:5c60:4000::/50
+2408:825c:5c60:5000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 139.8 MiB, BTN网络从此Peer获取流量: 0 B
 2408:825c:5c60:bfe6:131b:18b3:529b:aa61
@@ -13641,15 +13699,25 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.5 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8262:f8b:47a8::1
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 33.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.6 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8262:2a74:4508::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8262:2a74:4593::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.1 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8262:2a74:554e::1
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 161.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.6 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8262:2a74:4000::/50
+2408:8262:2a74:6000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.8 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8262:2a74:711a::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 33.6 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8262:2a74:7757::1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 261.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8262:7eca:5c15::1
@@ -13711,7 +13779,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 785.3 MiB, BTN网络从此Peer获取流量: 308.9 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 907.6 MiB, BTN网络从此Peer获取流量: 385.4 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 167.5 MiB
-2408:8270:be41:8000::/50
+2408:8270:be41:b000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 357.6 MiB, BTN网络从此Peer获取流量: 386.6 MiB
 2408:8274:100:c801::880
@@ -13794,7 +13862,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 127.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 8, 合并记录数量: 2, BTN网络发送到此Peer流量: 18.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 2, BTN网络发送到此Peer流量: 141.6 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8352:a20::/50
+2408:8352:a20:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 184.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8352:e60:5005::efb
@@ -13817,19 +13885,29 @@
 # [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 8, 合并记录数量: 2, BTN网络发送到此Peer流量: 135.2 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8352:5e20:ea3::2/127
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 313.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.4 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8352:5e30::/50
+2408:8352:5e30:b57::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.4 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8352:5e30:1206::2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 313.3 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8352:5e30:1786::2
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 158.9 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8352:cc01:cd34:e248:d8ff:fe1f:afae
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 342.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 177.9 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8352:d400::/50
+2408:8352:d400:1f2:e248:d8ff:fe20:1e78
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.4 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8352:d400:e2f::47b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.4 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8352:d400:1111::47b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 342.4 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8352:d400:215b:e248:d8ff:fe20:1e78
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.3 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8360:be01:2ea0:e248:d8ff:fe1f:e7b2
@@ -13852,11 +13930,17 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.0 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8362:6a0:50a5::1
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 239.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 MiB, BTN网络从此Peer获取流量: 0 B
-2408:8362:2a74:4000::/50
+2408:8362:2a74:404e::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8362:2a74:447b::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.0 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8362:2a74:5cb0::1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 239.9 MiB, BTN网络从此Peer获取流量: 0 B
+2408:8362:2a74:7c58::1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.4 MiB, BTN网络从此Peer获取流量: 0 B
 2408:8362:6676:4332::1
@@ -14632,10 +14716,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.7 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:4071:dc90:e248:d8ff:fe20:344a
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 270.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 742.1 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:4072:4000::/50
+2409:8a34:4072:4280:e248:d8ff:fe21:5c08
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 270.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:4072:6a40:e248:d8ff:fe21:1cc0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:4072:7310:e248:d8ff:fe21:1cc0
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.6 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:4072:9050:e248:d8ff:fe21:194e
@@ -15033,34 +15121,66 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 975.1 KiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c10:2f20:e248:d8ff:fe20:bc00
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.1 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c10:4000::/50
+2409:8a34:9c10:4000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c10:7240:e248:d8ff:fe20:b86a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c10:7b30:e248:d8ff:fe20:2ffa
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c10:9cf0:e248:d8ff:fe21:3460
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c10:a210:e248:d8ff:fe21:5f14
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 452.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c10:a8a0:e248:d8ff:fe1f:cfa6
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 452.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.4 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c10:8000::/50
+2409:8a34:9c10:bb20:e248:d8ff:fe21:1ccc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 832.0 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:1b0:e248:d8ff:fe20:2ffa
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 266.8 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:2e0:e248:d8ff:fe21:833e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.9 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:35c0:e248:d8ff:fe21:3904
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:3a40:e248:d8ff:fe21:1e22
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:42a0:e248:d8ff:fe20:3b16
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:4710:e248:d8ff:fe21:1ae
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 70.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:6030:e248:d8ff:fe1f:cd1e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:6100:e248:d8ff:fe21:dc9c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:94b0:e248:d8ff:fe21:6a00
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 188.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:a600:e248:d8ff:fe21:ab64
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c11:a990:e248:d8ff:fe21:3244
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.1 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 188.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 70.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 266.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 832.0 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c11::/48
+2409:8a34:9c11:e000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c12:1d20:e248:d8ff:fe21:3904
@@ -15080,18 +15200,26 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 325.9 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c12:ef80:e248:d8ff:fe21:434e
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.5 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c13:4000::/50
+2409:8a34:9c13:4820:e248:d8ff:fe21:24dc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c13:6b20:e248:d8ff:fe21:356e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c13:79d0:e248:d8ff:fe21:d4e6
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.5 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c13:a410:e248:d8ff:fe1f:8bea
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.0 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c13:c000::/50
+2409:8a34:9c13:c760:e248:d8ff:fe21:650e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c13:f081:e248:d8ff:fe20:5fa
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c13:f600:e248:d8ff:fe21:52c
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.9 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c14:9c0:e248:d8ff:fe21:5f14
@@ -15180,10 +15308,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 976.0 KiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c18:f750:e248:d8ff:fe20:22d4
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.9 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c19::/50
+2409:8a34:9c19:ae0:e248:d8ff:fe21:43b4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c19:1690:e248:d8ff:fe21:bfda
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.8 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c19:32e0:e248:d8ff:fe21:6358
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.2 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c19:f790:e248:d8ff:fe21:9b44
@@ -15221,12 +15353,20 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.3 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c1f:c6f0:e248:d8ff:fe21:48e8
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 28.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 269.3 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 351.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 165.3 MiB, BTN网络从此Peer获取流量: 1.2 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.8 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c20::/50
+2409:8a34:9c20:3c0:e248:d8ff:fe21:833e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 165.3 MiB, BTN网络从此Peer获取流量: 1.2 KiB
+2409:8a34:9c20:f00:e248:d8ff:fe21:ab2e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 351.1 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c20:2880:e248:d8ff:fe20:ebf4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 269.3 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c20:2970:e248:d8ff:fe21:c6b8
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 28.1 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c20:3200:e248:d8ff:fe21:590e
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.4 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c20:5b50:e248:d8ff:fe21:83f8
@@ -15234,20 +15374,32 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 266.3 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c20:8850:e248:d8ff:fe21:d8dc
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 406.0 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c20:c000::/50
+2409:8a34:9c20:cc50:e248:d8ff:fe21:5d82
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c20:d550:e248:d8ff:fe21:ab2e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c20:e570:e248:d8ff:fe21:d240
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 143.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c21:1b80:e248:d8ff:fe21:1efa
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.2 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c21:4000::/50
+2409:8a34:9c21:4fe0:e248:d8ff:fe21:b8c0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c21:5640:e248:d8ff:fe1f:8a04
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.1 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c21:60d0:e248:d8ff:fe21:3e5c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.9 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c21:7130:e248:d8ff:fe21:cdfc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.9 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c21:7300:e248:d8ff:fe21:3e5c
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 87.5 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c21:8ec0:e248:d8ff:fe21:6652
@@ -15267,16 +15419,26 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.6 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c22:a920:e248:d8ff:fe21:ab2e
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 394.5 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 249.2 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c22:c000::/50
+2409:8a34:9c22:c000:e248:d8ff:fe1f:f052
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c22:d920:e248:d8ff:fe21:17b0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 394.5 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c22:ebc0:e248:d8ff:fe21:833e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.8 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:210:e248:d8ff:fe21:b4dc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 178.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:790:e248:d8ff:fe1f:d2ac
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 307.2 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:16b0:e248:d8ff:fe1f:d312
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 307.2 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 178.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.8 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c23::/50
+2409:8a34:9c23:32d0:e248:d8ff:fe21:4756
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c23:4060:e248:d8ff:fe21:c8fe
@@ -15287,11 +15449,17 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 465.6 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c23:85f0:e248:d8ff:fe21:3a8a
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 373.4 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 68.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.6 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c23:c000::/50
+2409:8a34:9c23:c8a0:e248:d8ff:fe21:cdfc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 68.8 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:cee0:e248:d8ff:fe1f:d2ac
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:dab0:e248:d8ff:fe21:17b0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 373.4 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c23:eff0:e248:d8ff:fe21:dd74
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.8 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c24:ce0:e248:d8ff:fe21:c96a
@@ -15299,27 +15467,49 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9c24:3e50:e248:d8ff:fe21:83f8
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.4 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c24:4000::/50
+2409:8a34:9c24:4790:e248:d8ff:fe1f:bec0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.8 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c24:5890:e248:d8ff:fe21:b2f6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c24:6940:e248:d8ff:fe21:3e5c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c24:75b0:e248:d8ff:fe21:d0ea
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c24:8cf0:e248:d8ff:fe21:245e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 192.0 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c24:9f20:e248:d8ff:fe1f:d288
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 139.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 192.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.4 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c24:8000::/50
+2409:8a34:9c24:b000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:1bd0:e248:d8ff:fe21:d0ea
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.2 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:2100:e248:d8ff:fe1f:8a04
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 144.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:2fd0:e248:d8ff:fe21:b2f6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 102.0 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:3dc0:e248:d8ff:fe21:b2f6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:4580:e248:d8ff:fe21:aabc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9c25:50e0:e248:d8ff:fe21:a34e
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 102.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 144.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.2 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.6 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9c25::/49
+2409:8a34:9c25:7340:e248:d8ff:fe21:b16a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 119.3 MiB, BTN网络从此Peer获取流量: 94.0 KiB
 2409:8a34:9c25:81a0:e248:d8ff:fe21:d42c
@@ -15447,12 +15637,20 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.6 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9e1d:e760:e248:d8ff:fe21:e4c4
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.5 MiB, BTN网络从此Peer获取流量: 162.3 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 10.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 739.1 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 162.5 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a34:9e21:c000::/50
+2409:8a34:9e21:c3b0:e248:d8ff:fe1f:d162
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9e21:cd00:e248:d8ff:fe21:4a7a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 739.1 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9e21:d380:e248:d8ff:fe1f:c47e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 10.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a34:9e21:d440:e248:d8ff:fe21:4a7a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.5 MiB, BTN网络从此Peer获取流量: 162.3 KiB
+2409:8a34:9e21:f9f0:e248:d8ff:fe21:c1fc
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.2 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a34:9e22:3b90:e248:d8ff:fe1f:c8b0
@@ -15817,7 +16015,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 296.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 243.1 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a44:967a::/50
+2409:8a44:967a::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 102.3 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a44:967b:37b0:e248:d8ff:fe1f:84d6
@@ -15849,10 +16047,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 493.1 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:1407:b970:e248:d8ff:fe20:17d0
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 313.2 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a47:5903:4000::/50
+2409:8a47:5903:4700:e248:d8ff:fe21:d672
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.4 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:5903:4c40:e248:d8ff:fe21:d672
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:5903:62f0:e248:d8ff:fe21:d672
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 331.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:6103:4ce0:e248:d8ff:fe1f:bd6a
@@ -15860,10 +16062,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:6103:fb60:e248:d8ff:fe1f:bd6a
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 310.9 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 186.9 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a47:8d03::/50
+2409:8a47:8d03:2580:e248:d8ff:fe1f:a1e0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:8d03:26f0:e248:d8ff:fe1f:e920
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 310.9 KiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:8d03:35d0:e248:d8ff:fe1f:e920
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.0 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:8d07:1130:e248:d8ff:fe1f:a38a
@@ -15877,19 +16083,37 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 136.5 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:9205:7670:e248:d8ff:fe1f:b4b8
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 191.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.8 MiB, BTN网络从此Peer获取流量: 224.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 19, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 166.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 346.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.8 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a47:9205:8000::/49
+2409:8a47:9205:8000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.9 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:9210:e248:d8ff:fe1f:9862
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.9 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:9ff0:e248:d8ff:fe1f:b4b8
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:a320:e248:d8ff:fe1f:b4b8
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 19, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 166.6 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:a720:e248:d8ff:fe20:3ff6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.8 MiB, BTN网络从此Peer获取流量: 224.0 KiB
+2409:8a47:9205:bdb0:e248:d8ff:fe20:3d3e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.1 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:bfb0:e248:d8ff:fe20:3fd2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:cc30:e248:d8ff:fe1f:b4b8
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 191.5 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:d080:e248:d8ff:fe20:3fd2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a47:9205:d1f0:e248:d8ff:fe1f:9a00
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 590.0 KiB, BTN网络从此Peer获取流量: 0 B
 2409:8a47:9209:b3f0:e248:d8ff:fe1f:9844
@@ -15910,7 +16134,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 658.8 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 952.9 KiB, BTN网络从此Peer获取流量: 0 B
-2409:8a4c:ec8::/50
+2409:8a4c:ec8:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 119.4 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a4c:1436:5f30:e248:d8ff:fe20:fa7c
@@ -16575,7 +16799,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 13, 合并记录数量: 1, BTN网络发送到此Peer流量: 654.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 475.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.2 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a5c:7e68::/50
+2409:8a5c:7e68:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 234.8 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a5c:8065:650:4ee9:713e:3da4:502
@@ -16613,7 +16837,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 64.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.7 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a60:9617:4000::/50
+2409:8a60:9617:7000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 532.3 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a60:ae46:c530:ecad:38f6:da03:c8f9
@@ -16636,13 +16860,15 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 1, BTN网络发送到此Peer流量: 10.2 GiB, BTN网络从此Peer获取流量: 0 B
 2409:8a62:3d0:f9c0:c9e0:874f:5f55:5e6b
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 44.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.4 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 450.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 94.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 580.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.1 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a62:3d2:8000::/49
+2409:8a62:3d2:a000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 44.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.4 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 450.7 MiB, BTN网络从此Peer获取流量: 0 B
+2409:8a62:3d2:c000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 75.3 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a62:4d6:c750:e248:d8ff:fe1f:d180
@@ -16875,7 +17101,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.8 MiB, BTN网络从此Peer获取流量: 0 B
-2409:8a6c:2338:c000::/50
+2409:8a6c:2338:e000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.7 MiB, BTN网络从此Peer获取流量: 0 B
 2409:8a6c:2733:ba00:e248:d8ff:fe21:6904
@@ -17194,7 +17420,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 226.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:335:60d:4000::/50
+240e:335:60d:7000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.6 MiB, BTN网络从此Peer获取流量: 0 B
 240e:335:2e80:1d31:d04f:7a52:c995:e1d1
@@ -17385,7 +17611,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 259.0 MiB, BTN网络从此Peer获取流量: 128.0 KiB
-240e:34c:362:c000::/50
+240e:34c:362:c000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.8 MiB, BTN网络从此Peer获取流量: 0 B
 240e:34c:e15:4320:e248:d8ff:fe20:d4ba
@@ -17504,7 +17730,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 20, 不信任票数: 16, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 11, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 20, 不信任票数: 17, 合并记录数量: 1, BTN网络发送到此Peer流量: 184.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:361:6844:4000::/50
+240e:361:6844:5000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:368:9d43:1500:e248:d8ff:fe1f:ea52
@@ -17683,7 +17909,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 37.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 63.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 155.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:37a:4370:c000::/50
+240e:37a:4370:d000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:37a:4511:1c00:e248:d8ff:fe20:3f00
@@ -17718,7 +17944,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 48.0 MiB, BTN网络从此Peer获取流量: 1.5 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 108.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:37c:5168:4000::/50
+240e:37c:5168:6000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 37.7 MiB, BTN网络从此Peer获取流量: 0 B
 240e:37e:5064:aa00::2
@@ -17776,7 +18002,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 216.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 148.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:381:4969:c000::/50
+240e:381:4969:d000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:384:c25e:c100::a
@@ -17823,7 +18049,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 15, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 17, 不信任票数: 13, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:390:1ac1:4000::/50
+240e:390:1ac1:4000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:390:1ac6:a531:5ff:e90c:f841:2d91
@@ -17837,7 +18063,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 302.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 36.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 215.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:390:1acd::/50
+240e:390:1acd::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 166.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:390:2023:7320:e248:d8ff:fe20:2a66
@@ -17959,7 +18185,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 329.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 48.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:390:9005:4000::/50
+240e:390:9005:6000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:390:9228:36f1:8fb:3c8a:9399:51d1
@@ -18181,7 +18407,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3a1:681:c000::/50
+240e:3a1:681:c000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 64.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3a1:50f0:daf0:ca98:28ff:fe23:207d
@@ -18200,7 +18426,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 88.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3a1:6426::/50
+240e:3a1:6426:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 107.6 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3a2:370:9e30::1
@@ -18341,7 +18567,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2b6::/50
+240e:3b0:2b6::/51
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 329.3 MiB, BTN网络从此Peer获取流量: 168.9 KiB
 240e:3b0:2b9:1:cdf6:9ca:75ac:b683
@@ -18352,7 +18578,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 441.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:4b9::/50
+240e:3b0:4b9::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 203.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:86c:8c8:2e0:61a3:ad61:777e
@@ -18364,12 +18590,12 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 347.0 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:aa7:4000::/50
+240e:3b0:aa7:4000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 71.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 311.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:aa9::/50
+240e:3b0:aa9:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:c57:2cc3:c887:b7f6:8044:c6c8
@@ -18383,15 +18609,23 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 372.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:c57:b827:a9eb:ccc2:27be:e3d4
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 65.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 148.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 278.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:c57:c000::/50
+240e:3b0:c57:c26f:78c3:97db:70ce:1f58
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 148.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:c57:eb32:700f:b27a:8f7:32cf
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 65.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:c57:ec50:126:89d8:c5d8:b98d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 123.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:1044:475:f9e9:ee1a:37e6:98b7
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:1044:d72:3956:f7d2:777d:70ef
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 192.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 123.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:1044::/50
+240e:3b0:1044:3fc6:e1bc:bd17:2556:2b0d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 201.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:1044:6786:bd4d:838e:d1ab:3f72
@@ -18414,10 +18648,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 155.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2c34:32e9:9148:fd6:15f0:a3bf
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 15.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 319.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2c34:4000::/50
+240e:3b0:2c34:46ec:95f6:ace2:a36c:a86a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 319.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2c34:5399:ec7a:e2b9:d422:b2d5
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 15.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2c34:7a14:8d0b:5a03:615d:f77b
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 136.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2c34:bae3:cc9b:5874:e2f:e1a7
@@ -18440,10 +18678,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.0 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2c3f:a8fd:d57f:3ab:e35c:d07d
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 280.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 121.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 156.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2c3f:c000::/50
+240e:3b0:2c3f:d04c:c814:ca68:804d:5a01
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 121.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2c3f:d42e:847d:bc08:8ccd:f97a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 280.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2c3f:e8fb:8d90:2092:61fe:fb3d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 59.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2c58:1ee:9892:2a12:10bf:382c
@@ -18463,22 +18705,11 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 88.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2c58:c889:3dbf:a750:51ff:bc7b
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 158.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 207.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 612.7 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 310.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 89.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 615.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 98.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 219.3 MiB, BTN网络从此Peer获取流量: 0 B
@@ -18503,6 +18734,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 253.2 MiB, BTN网络从此Peer获取流量: 2.4 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 125.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 475.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 274.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 512.0 KiB, BTN网络从此Peer获取流量: 0 B
@@ -18512,7 +18744,25 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 145.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 277.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 231.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2caa::/50
+240e:3b0:2caa::/51
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 612.7 KiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 310.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2caa:2000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 207.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2caa:31cd:c029:e667:12e3:6884
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 158.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2caa:340e:e536:9974:ad86:6abc
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.4 MiB, BTN网络从此Peer获取流量: 0 B
@@ -18571,37 +18821,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2cab::/50
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 235.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 424.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 39.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 293.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 152.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 475.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 374.6 MiB, BTN网络从此Peer获取流量: 19.4 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 402.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 235.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 293.2 MiB, BTN网络从此Peer获取流量: 58.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 234.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 369.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 229.6 MiB, BTN网络从此Peer获取流量: 0 B
@@ -18684,8 +18903,10 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 112.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 675.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 39.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 238.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 78.3 MiB, BTN网络从此Peer获取流量: 0 B
@@ -18711,19 +18932,41 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 87.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 276.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2cac::/50
+240e:3b0:2cac::/51
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 57.2 MiB, BTN网络从此Peer获取流量: 103.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 52.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 182.4 MiB, BTN网络从此Peer获取流量: 91.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 235.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 424.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 39.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 293.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 152.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 966.5 KiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 475.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 374.6 MiB, BTN网络从此Peer获取流量: 19.4 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 402.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 235.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 293.2 MiB, BTN网络从此Peer获取流量: 58.0 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 234.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 369.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2cac:2000::/52
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 256.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 202.4 MiB, BTN网络从此Peer获取流量: 0 B
@@ -18856,7 +19099,20 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2cad::/50
+240e:3b0:2cad::/51
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 57.2 MiB, BTN网络从此Peer获取流量: 103.0 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 52.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 182.4 MiB, BTN网络从此Peer获取流量: 91.0 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 966.5 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:2cad:2000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.6 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2cb4:9:6129:a3e9:9f60:f8d5
@@ -18879,7 +19135,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 89.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 864.0 KiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2cb5::/50
+240e:3b0:2cb5::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 218.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2cbb:aefb:b94b:b311:1d38:2f18
@@ -18894,15 +19150,19 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 119.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:2eaa:c000::/50
+240e:3b0:2eaa:e000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 704.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2eab:5a99:1441:e20d:dc71:81c2
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 92.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 927.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:305f::/50
+240e:3b0:305f:2de:8d05:dc27:3b9c:c403
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 92.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:305f:776:bc33:a174:64b3:b172
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:305f:3210:3060:513d:c8d8:94c0
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:305f:4695:2dff:62a3:5ba5:2c0
@@ -18926,7 +19186,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 48.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:309d:8000::/50
+240e:3b0:309d:a000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:309e:a43e:e997:15c1:8dc8:bcf1
@@ -18934,36 +19194,58 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:309e:b24d:c8a5:cb0b:800a:4b7d
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 55.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 264.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 181.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:320a::/50
+240e:3b0:320a::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:320a:11cd:2d92:bf1d:816f:a5cb
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 299.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:321d:dfc9:6817:58c5:a02b:ad2b
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 137.8 MiB, BTN网络从此Peer获取流量: 103.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 478.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 392.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 172.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.0 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:324a::/49
+240e:3b0:324a:bc9:2e0:61a2:6f60:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:1a42:2e0:619c:ce60:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 172.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:3560:2e0:6173:560:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:3fca:2e0:613a:a960:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:45fe:2e0:61f6:1760:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:526d:2e0:613a:6760:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 392.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:58b6:2e0:61e9:ec60:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 478.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:324a:701e:2e0:61ba:f860:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 137.8 MiB, BTN网络从此Peer获取流量: 103.0 KiB
+240e:3b0:324a:7123:2e0:6142:7d60:f652
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 451.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3256::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3256:1890:792f:6418:b77d:f810
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 34.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 337.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 451.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3256::/49
+240e:3b0:3256:6000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 130.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3256:9692:a572:555c:739f:9bd5
@@ -18971,12 +19253,16 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 191.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3256:d279:1559:6bef:4990:5df4
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 137.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 293.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 408.9 MiB, BTN网络从此Peer获取流量: 96.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 280.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3267::/50
+240e:3b0:3267::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 137.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3267:189d:509f:19ce:4246:e8fd
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3267:3c0d:e007:9ee7:b85e:2058
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 70.7 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3267:58f5:40ed:2088:7215:4abc
@@ -19181,7 +19467,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 102.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 99.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:32ab::/50
+240e:3b0:32ab::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 223.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.9 MiB, BTN网络从此Peer获取流量: 0 B
@@ -19322,7 +19608,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 39.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 59.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:32ae::/50
+240e:3b0:32ae::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:343a:5224:2585:636d:f37f:38cb
@@ -19345,15 +19631,23 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3444:bff4:91c6:9bd1:1596:a93b
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 78.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 609.1 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3444:c000::/50
+240e:3b0:3444:d878:b52c:9f36:696b:10ad
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 78.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3444:ef6a:4930:68b2:47b6:275d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3444:fb76:f4c3:aaa2:3c6b:f627
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 343.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:34a4:64a:1019:d5d0:28d0:4396
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:34a4:803:7cb8:4a18:fe85:fd0d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 350.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 343.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:34a4::/50
+240e:3b0:34a4:2b12:35e9:14f0:e9ad:8c31
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:34a4:860e:2037:d9e1:f8fc:c61e
@@ -19379,48 +19673,94 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 291.8 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3a29:a854:fc7a:3787:a489:b18f
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 162.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 170.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 197.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3a29:c000::/50
+240e:3b0:3a29:d430:655c:301d:59d9:f9df
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 170.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3a29:f633:a57a:6d2f:7307:7ae
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 162.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3a29:fd7c:8526:7bb:f9a8:8623
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:1266:51ea:8e6b:d54e:4eaf
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:2da8:1965:3a1f:fd45:1e0
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 238.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3c1b::/50
+240e:3b0:3c1b:32a0:9b5:6a15:2def:a4eb
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:3c1b:45da:fdb1:dab9:eba7:6013
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 210.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 233.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:856d:21fd:9978:6531:ace7
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:88df:50a7:58ed:42ae:ee4c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:ba41:f481:d463:161e:4acd
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 284.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:bd6c:28c3:bd3f:3a99:1f34
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 446.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 145.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 144.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 284.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:3c1b:8000::/49
+240e:3b0:3c1b:c000::/52
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 54.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 512.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 286.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.1 MiB, BTN网络从此Peer获取流量: 2.0 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:d02b:7cd0:1ec4:24f1:127
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 233.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:dc57:595f:1b8b:3d53:a122
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 210.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:e3a5:d161:9f75:5530:aeed
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 113.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:e494:9ff:edca:73e:e11e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:f4cb:9879:2ba:eae6:894e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:3c1b:fec1:5dfb:2392:f158:2729
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:ef:59f1:f4f7:174a:4a4a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 384.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:abe:88dd:68d5:4047:527a
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 36.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 226.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 170.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 384.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:4011::/49
+240e:3b0:4011:1000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.1 MiB, BTN网络从此Peer获取流量: 2.0 KiB
+240e:3b0:4011:249e:bd69:300a:ab64:f62f
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 286.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:27d3:14c0:85e0:b651:1228
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:35e1:7598:953e:399:a408
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 512.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:3a8a:d19d:9ef1:2f89:1c17
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 54.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:4a38:7cf8:8635:fec5:24a2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:6ad3:75d3:14fe:3b8:d244
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4011:76ac:1d39:bdf3:b123:e1d1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 61.7 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:4011:9599:7543:ecd6:299b:53a9
@@ -19428,14 +19768,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:4011:ec30:75b7:3ad5:29ff:f25c
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 397.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 263.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 302.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.5 MiB, BTN网络从此Peer获取流量: 0 B
@@ -19444,12 +19776,32 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 26.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 106.5 MiB, BTN网络从此Peer获取流量: 10.9 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 116.9 MiB, BTN网络从此Peer获取流量: 28.0 KiB
-240e:3b0:4023::/49
+240e:3b0:4023:1000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 263.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 302.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4023:3000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 397.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4023:53e4:814a:9eab:1908:215
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4023:5bc9:2f:7df3:529f:6df9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4023:75df:e907:7818:8750:e91b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 115.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:4023:8400:80d2:f7b8:ac09:64b5
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 140.8 MiB, BTN网络从此Peer获取流量: 4.9 KiB
+240e:3b0:4023:97fe:90a1:8ee7:a2c6:880e
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 140.8 MiB, BTN网络从此Peer获取流量: 4.9 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 115.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:4023:8000::/50
+240e:3b0:4023:98f5:bded:eb4b:a570:89a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:4023:e02f:3545:5c35:bd7e:13a0
@@ -19523,11 +19875,17 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:7e14:ce14:211:32ff:fe8e:c39b
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.1 MiB, BTN网络从此Peer获取流量: 38.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:8216::/50
+240e:3b0:8216:995:a436:9d9c:5:f8c3
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.1 MiB, BTN网络从此Peer获取流量: 38.0 KiB
+240e:3b0:8216:b5f:7975:3a9d:d756:e131
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:8216:1c2f:3d50:c6f5:4b94:a930
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:8216:2533:a829:c5a7:da48:262a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 158.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:8216:5e94:7038:3cdf:dc10:598d
@@ -19541,10 +19899,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.8 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:8216:f3d6:fc16:321a:9ecd:3061
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 464.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 103.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:8c13::/50
+240e:3b0:8c13:770:596c:39a3:17a9:f420
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 464.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:8c13:1e9a:d0f6:63cd:e8ba:5267
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:8c13:2fae:78ce:5595:4a4a:c60d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.2 GiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:8c13:503e:90d:e09a:2d67:ab4b
@@ -19600,13 +19962,15 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 154.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:922f::/50
+240e:3b0:922f::/51
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 426.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 274.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 142.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9400::/50
+240e:3b0:9400:1000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9400:2af9:48cb:87ad:2:18f6
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9400:648f:f892:d672:f027:4b76
@@ -19623,26 +19987,58 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 137.8 MiB, BTN网络从此Peer获取流量: 160.0 KiB
 240e:3b0:9400:f920:e461:dbfe:6c4a:cfcf
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 216.7 MiB, BTN网络从此Peer获取流量: 96.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 52.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 345.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 198.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 951.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:6b3:8119:224f:1f53:78af
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 448.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:1188:f006:8645:8858:d0c5
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 327.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:1704:5507:5fa8:630e:8683
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 175.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 107.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 282.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 327.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 448.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 951.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9416::/48
+240e:3b0:9416:2000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:46de:7ca2:1851:245b:c38
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 84.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:53da:7c08:7d7f:24c9:6f34
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 198.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:61df:b4cb:6f05:fc37:d1df
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 41.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:902d:60e9:4624:122f:7b86
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 345.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:99d4:f1f1:5c60:f54d:61cd
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 52.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:a256:904b:86c9:a850:153b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:a696:505e:298:68cc:c167
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 216.7 MiB, BTN网络从此Peer获取流量: 96.0 KiB
+240e:3b0:9416:b098:a92f:c38:27b2:eb47
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:d343:f81b:6421:f07c:a43d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:defa:a0db:c488:7807:e78c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:e08d:f41a:b7b7:1643:3b26
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:e57d:618a:5005:a5d5:4d8b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9416:f9ce:3ddd:c2b3:2b92:1671
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 363.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:941f:14cf:615b:9f9d:a5d2:a2e0
@@ -19659,10 +20055,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:941f:ab10:55fd:7257:63cc:9c6
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 71.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:941f:c000::/50
+240e:3b0:941f:c413:165:1877:c5ab:51d7
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:941f:da81:5de0:c3c4:f1d9:f97a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 71.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:941f:eea4:3c65:3ebb:be93:f21d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9420:1163:c9a8:4888:ed37:2472
@@ -19670,12 +20070,15 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9420:681e:c004:2b56:184a:d973
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 75.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 207.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9420:c000::/50
+240e:3b0:9420:d87c:a153:ad78:bfd2:78cb
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 239.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 75.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9420:dbec:2d3f:a30:5be5:b8e6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 85.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9420:e981:adff:b614:dbdb:39ef
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 232.3 MiB, BTN网络从此Peer获取流量: 0 B
@@ -19686,29 +20089,54 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 672.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 148.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 63.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9422::/50
+240e:3b0:9422::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 239.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9422:1130:2e0:61b0:7760:8bfc
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 416.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9424:775:2e0:6162:9761:5d1a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 471.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9424:775:2e0:6165:b161:5d1a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 448.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9424:1919:2e0:61be:cb61:5d1a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9424:1ae6:2e0:6127:6161:5d1a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 448.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 471.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 416.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9424::/50
+240e:3b0:9424:3dd6:2e0:6116:9561:5d1a
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 388.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 275.2 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:1b9e:5d15:90d3:cb37:64d9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:1ef4:b998:4e1b:f7cd:5670
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 141.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 309.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 72.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9425::/49
+240e:3b0:9425:2000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 275.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:49f0:4de5:f76c:fb60:a940
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:5926:111b:3a87:6f5d:d873
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 388.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:70e7:e1c1:e731:2577:8d8d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 300.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:95ee:ad08:a601:dbb0:16df
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9425:a2d0:d839:bc3b:5075:806a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 28.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 300.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9425:8000::/50
+240e:3b0:9425:bee4:b924:c6ab:f769:56b
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9425:dcb9:85c8:8328:d36f:fdd0
@@ -19716,20 +20144,38 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9425:f0d5:a0d2:78dd:52ff:4abf
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 78.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:962b::/50
+240e:3b0:962b:1da9:14ed:521:b67a:1343
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:962b:2b5d:7d38:a4c2:6bec:5de
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:962b:2bb7:9df6:eb2a:31d3:801
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 78.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:962b:37f3:e9c6:60ba:6798:d3b4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 191.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:1106:64ec:35b5:c60f:a538
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 429.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:2ed2:713f:64d9:4f1a:f814
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 936.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:309b:b133:2eb2:b5cc:8cc1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 249.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:4f56:ac1c:8e22:6e4e:f2f4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:5c40:61ca:cacf:7fe2:b454
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:9817:7221:24b1:269d:ac88:136e
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 249.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 936.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 429.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 191.0 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:9817::/49
+240e:3b0:9817:7586:5d1d:8234:f1d2:c735
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.0 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:9817:9eb5:e518:72ee:b3e8:2b8c
@@ -19740,25 +20186,43 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 335.0 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:b205:3f0d:110:fd8c:9f47:2afd
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 135.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 548.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:b205:4000::/50
+240e:3b0:b205:456a:b89a:d7d0:b0f4:b10e
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.3 MiB, BTN网络从此Peer获取流量: 29.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 308.3 MiB, BTN网络从此Peer获取流量: 2.4 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b205:4cb6:3c4d:204:be5b:ccfb
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 135.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b205:7c2f:a4df:afb8:2c55:4345
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 308.0 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:b205:8000::/49
+240e:3b0:b205:8000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b205:c320:e091:cf64:b820:3460
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b205:d1c7:c9e4:c8bf:edc3:a599
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b205:dbfd:75c9:6bce:376:dde2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 308.3 MiB, BTN网络从此Peer获取流量: 2.4 KiB
+240e:3b0:b205:f00e:6c73:a4c2:2ebe:65a9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.3 MiB, BTN网络从此Peer获取流量: 29.0 KiB
+240e:3b0:b205:f068:69fa:ba32:db9:a6b9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 125.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b206:129b:d4bb:6016:7602:7e69
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b206:2917:7d85:953c:91e8:17d3
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 716.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 125.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:b206::/50
+240e:3b0:b206:3de4:d06b:99bb:e88b:33b7
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 17.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:b206:4d5e:b559:8034:6994:5e90
@@ -19766,32 +20230,54 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.0 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:b206:4f41:f8a2:3e3d:f0f7:f9e2
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 213.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 43.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 97.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:b206:c000::/50
+240e:3b0:b206:c7a3:75a0:fae4:301:d906
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 120.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 112.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.0 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 43.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b206:d15d:941d:9ba1:3621:2cc2
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 213.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:b206:ea77:e98a:512b:8d3f:950d
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 88.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 285.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 156.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d002::/50
+240e:3b0:d002::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d002:153f:2e0:6152:6060:a46
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 112.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d002:153f:2e0:615c:a360:a46
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 242.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d002:269b:2e0:6143:2d60:a46
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 120.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d002:269b:2e0:61be:260:a46
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 77.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d002:3a7b:2e0:6107:725f:f116
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 246.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d014:530e:9c84:cf84:c462:93c1
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d014:5527:d47b:c4d8:9cf5:9c0e
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 83.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 246.1 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d014:4000::/50
+240e:3b0:d014:618d:a501:eab4:99b5:7c1b
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d014:980e:7988:177:dd95:1306
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d014:a18f:89e4:b898:87f5:759a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 90.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d014:8000::/50
+240e:3b0:d014:a4ea:45e0:1eec:b93f:8318
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:d014:c2b0:f815:48c8:cabb:2b55
@@ -19820,11 +20306,17 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 91.6 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:d033:e3b8:80c3:d3fc:d801:135e
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 114.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 141.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 288.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 593.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d046::/50
+240e:3b0:d046:1121:857:80a8:c002:7a74
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 288.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d046:24e2:e9a6:136b:8d2b:6368
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 141.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d046:333b:35de:2f12:e9fe:24cb
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 114.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d046:33a5:ccc3:c670:346a:de3c
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:d046:6089:f08b:1cc3:62c6:3ed4
@@ -19844,12 +20336,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 848.0 KiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:d04c:c19b:8005:9d62:d81b:105e
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 571.4 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 67.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 201.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 569.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 71.8 MiB, BTN网络从此Peer获取流量: 0 B
@@ -19887,13 +20373,16 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 76.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d055::/49
+240e:3b0:d055::/50
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 672.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 131.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.4 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 571.4 KiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 67.0 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d055:4000::/51
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 192.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 67.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 119.8 MiB, BTN网络从此Peer获取流量: 0 B
@@ -20027,7 +20516,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 712.6 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 139.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d056::/50
+240e:3b0:d056::/51
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 672.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 131.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.3 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 126.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:d056:2000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 439.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 136.9 MiB, BTN网络从此Peer获取流量: 0 B
@@ -20037,7 +20533,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 40.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 134.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d059::/50
+240e:3b0:d059::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.6 MiB, BTN网络从此Peer获取流量: 0 B
@@ -20055,7 +20551,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 66.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 309.0 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:d05a::/50
+240e:3b0:d05a::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 466.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:dc02:19bf:78bd:9f7f:4a0d:fb8f
@@ -20069,25 +20565,27 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 157.8 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:dc02:7cc3:d991:33df:bdd3:4d3c
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 115.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 177.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 226.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 310.6 MiB, BTN网络从此Peer获取流量: 25.4 KiB
-240e:3b0:dc02:8000::/49
+240e:3b0:dc02:8289:10aa:c274:25a:8a3c
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 391.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 124.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 496.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.8 MiB, BTN网络从此Peer获取流量: 31.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 145.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 135.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 174.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 226.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:82a7:101e:54a9:28f1:d67e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:a846:d486:79ba:9ca4:94f4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 74.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:d856:8:e6ff:582c:653c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 177.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:e97a:c5d0:adac:39a6:7237
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 115.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:f23d:e098:e9f9:92e8:6c70
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 115.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc02:f78c:29a4:7c21:a74c:781b
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 637.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 64.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 243.9 MiB, BTN网络从此Peer获取流量: 0 B
@@ -20101,12 +20599,39 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 218.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 173.1 MiB, BTN网络从此Peer获取流量: 57.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:dc08::/49
+240e:3b0:dc08::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc08:1562:2e0:6106:a460:e67e
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 145.8 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 135.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 174.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc08:2000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.8 MiB, BTN网络从此Peer获取流量: 31.0 KiB
+240e:3b0:dc08:3ac6:2e0:612e:f761:4c72
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc08:3be5:2e0:614e:ab61:5942
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 82.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 124.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 496.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc08:4000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 391.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:dc08:5015:2e0:612f:5661:61be
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 924.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:e601:4f15:5407:ace7:f627:62c6
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 708.0 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:e601:62ed:2025:d333:f852:5fa
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 175.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 708.0 KiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 924.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:e601:4000::/50
+240e:3b0:e601:7576:6127:cc06:a5ae:fdf7
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:e601:9240:3cd8:31bf:e4bd:12cc
@@ -20114,27 +20639,43 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 102.2 MiB, BTN网络从此Peer获取流量: 208.0 KiB
 240e:3b0:e601:987f:1559:1980:4990:73e2
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:e601:c000::/50
+240e:3b0:e601:cb7c:5c69:6c2c:8448:e575
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 109.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:e601:d7bd:61f5:7f42:7f31:7a94
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:e601:dbbe:3c51:fd33:be0f:459f
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:e601:f695:cd70:dd06:7bc6:ba9c
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 315.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:f102:cf:c542:12b9:3930:a3d4
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 138.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.6 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:f102:4000::/50
+240e:3b0:f102:5300:d1ef:2191:2f73:b295
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 341.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.9 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 81.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f102:5844:85a5:3b5c:f9bb:fa04
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f102:6220:25a2:4be7:f3d8:1af9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 138.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f102:7956:986d:c2e1:10fe:a2e2
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 96.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 121.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 93.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:f102:8000::/50
+240e:3b0:f102:9000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f102:a919:e9ea:eb84:8d1f:9066
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 341.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f102:bb13:b3:6fb9:32c8:7e4d
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 127.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:f102:ffd5:f143:6432:f537:2b66
@@ -20160,21 +20701,41 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.5 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:f11a:484f:9197:64ea:1593:f0e0
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 125.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 511.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 99.5 MiB, BTN网络从此Peer获取流量: 153.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 292.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.1 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 98.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:379:753c:dd66:29a0:a3fe
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 159.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:ee9:45b2:6886:9376:7772
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 266.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 129.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 121.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.7 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 159.3 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 98.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:f11f::/49
+240e:3b0:f11f:1000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 117.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:353f:e092:4649:b88d:c57d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:3e65:5024:6517:42e7:8da8
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 292.1 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:416b:3181:d1a:f99:1bcb
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 99.5 MiB, BTN网络从此Peer获取流量: 153.0 KiB
+240e:3b0:f11f:5387:e942:73a7:8d97:40d3
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:5f2f:9f:d988:5877:c699
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 79.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:694e:e520:b90d:d983:c050
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 511.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:74e5:1084:a59d:22c:fd6c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 125.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:7a06:4d55:acf8:fb10:1d19
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 45.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:f11f:9c48:744f:fde3:969d:4a79
@@ -20182,16 +20743,24 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:f11f:a069:b9eb:5266:1d58:e609
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 428.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 288.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 57.6 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 414.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 263.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:f11f:c000::/50
+240e:3b0:f11f:c31b:81c:edfe:c0e3:c795
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 273.5 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 414.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:cf9e:6d87:9b31:c15b:a475
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 57.6 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:dcc6:5cdb:f2d3:5e9f:696a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 288.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:e34d:e89f:f067:fa16:1c05
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:eea7:708e:7885:e2d6:aa8d
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 428.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f11f:f42e:ed58:e48e:1b5c:b879
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 15.1 MiB, BTN网络从此Peer获取流量: 0 B
@@ -20200,7 +20769,13 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 101.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b0:f133::/50
+240e:3b0:f133::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 273.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f133:12e8:2e0:61c8:8e61:6426
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 206.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b0:f133:12e8:2e0:61c9:5361:6426
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 427.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b1:19e5:2f10:e248:d8ff:fe20:10d4
@@ -20454,10 +21029,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 58.4 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b3:24e9:f140:e248:d8ff:fe20:fdee
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 439.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 917.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b3:2c02::/50
+240e:3b3:2c02:a91::f8a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.3 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b3:2c02:a91:641a:954a:28ee:1b88
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 439.9 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b3:2c02:35b1:91b8:c37d:8bf6:eb70
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 13, 合并记录数量: 1, BTN网络发送到此Peer流量: 44.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b3:30b0:4611:d5bb:e630:b27e:8476
@@ -20573,22 +21152,24 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.9 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 60.2 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b6:30f0:8000::/50
+240e:3b6:30f0:8000::/51
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 576.0 KiB, BTN网络从此Peer获取流量: 0 B
 240e:3b6:30f0:d6d1:b7:ef26:ebe0:5687
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 673.5 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3b6:30f4:4081:3c94:95a9:a292:d173
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 210.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 138.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 19, 不信任票数: 9, 合并记录数量: 2, BTN网络发送到此Peer流量: 318.1 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 673.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b6:30f4:4000::/50
+240e:3b6:30f4:5000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 59.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 91.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 2, BTN网络发送到此Peer流量: 186.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b6:30f4:c000::/50
+240e:3b6:30f4:f000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 165.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b7:401:6790:fa72:a11a:bde1:5f4a
@@ -20611,7 +21192,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 459.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3b7:4c2b::/50
+240e:3b7:4c2b:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.7 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3b7:4c38:2c30:e248:d8ff:fe21:6b56
@@ -20652,7 +21233,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 123.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 104.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3ba:3487::/50
+240e:3ba:3487:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 1.0 GiB
 240e:3bb:638:c970:2e2:59ff:fe00:2338
@@ -20660,29 +21241,49 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 133.3 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3bb:a64:a330:e248:d8ff:fe21:23b0
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 309.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 510.8 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3bb:acc:8000::/50
+240e:3bb:acc:9370:e248:d8ff:fe21:c9a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 309.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:acc:9760:e248:d8ff:fe21:c9a
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:acc:bf60:e248:d8ff:fe21:c9a
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 37.0 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3bb:acc:e0e0:e248:d8ff:fe21:c9a
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 306.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.2 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.7 MiB, BTN网络从此Peer获取流量: 100.7 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.8 MiB, BTN网络从此Peer获取流量: 48.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 221.8 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 344.5 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3bb:ada::/49
+240e:3bb:ada:610:e248:d8ff:fe20:e978
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.7 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 24.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:c80:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 221.8 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:2710:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 100.8 MiB, BTN网络从此Peer获取流量: 48.0 KiB
+240e:3bb:ada:5d40:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.7 MiB, BTN网络从此Peer获取流量: 100.7 KiB
+240e:3bb:ada:62e0:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 95.2 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:7380:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 306.4 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:7710:e248:d8ff:fe20:e978
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 899.6 KiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:8dd0:e248:d8ff:fe20:e978
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 668.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 315.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 312.5 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 899.6 KiB, BTN网络从此Peer获取流量: 0 B
-240e:3bb:ada:8000::/50
+240e:3bb:ada:9000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.7 MiB, BTN网络从此Peer获取流量: 0 B
+240e:3bb:ada:a650:e248:d8ff:fe20:e978
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 38.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:3bb:2ca1:5b20::1
@@ -20738,7 +21339,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 999.2 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 86.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.3 MiB, BTN网络从此Peer获取流量: 0 B
-240e:3bc:2c40::/50
+240e:3bc:2c40::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 357.1 MiB, BTN网络从此Peer获取流量: 0 B
 240e:462:7844:25e0:71a4:db87:2e69:abc2
@@ -20788,7 +21389,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.6 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 56.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.9 MiB, BTN网络从此Peer获取流量: 0 B
-240e:b8f:717:8000::/50
+240e:b8f:717:a000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:b8f:71d:500:45c:cc44:bb5a:6fe3
@@ -20799,7 +21400,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.0 GiB, BTN网络从此Peer获取流量: 53.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.7 MiB, BTN网络从此Peer获取流量: 0 B
-240e:b8f:815:4000::/50
+240e:b8f:815:6000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.9 MiB, BTN网络从此Peer获取流量: 0 B
 240e:b8f:81a:f600:1ebb:add7:b898:6cc1
@@ -20858,7 +21459,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 33.8 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.4 MiB, BTN网络从此Peer获取流量: 0 B
-240e:b8f:bc86::/50
+240e:b8f:bc86:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 91.2 MiB, BTN网络从此Peer获取流量: 0 B
 240e:b8f:bf99:cd00:38dd:5a2b:9819:4bf5
@@ -20931,7 +21532,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 280.0 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 151.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.5 MiB, BTN网络从此Peer获取流量: 0 B
-2607:9000:3000::/50
+2607:9000:3000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.8 MiB, BTN网络从此Peer获取流量: 0 B
 2607:f5b4:88:105:1c00:e6ff:fe00:3da
@@ -20993,7 +21594,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 1, BTN网络发送到此Peer流量: 783.9 MiB, BTN网络从此Peer获取流量: 27.7 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.7 GiB, BTN网络从此Peer获取流量: 5.2 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 12, 合并记录数量: 1, BTN网络发送到此Peer流量: 80.8 MiB, BTN网络从此Peer获取流量: 0 B
-2a00:7c80::/50
+2a00:7c80::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 0 B
 2a01:260:1027:3::cef2
@@ -21018,7 +21619,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 18, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.1 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.0 MiB, BTN网络从此Peer获取流量: 0 B
-2a02:2788:1206::/50
+2a02:2788:1206:2000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 0 B
 2a02:4840:2:239:daac:4554:a356:ea42
@@ -21032,13 +21633,13 @@
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 451.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 199.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 12, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 302.5 MiB, BTN网络从此Peer获取流量: 0 B
-2a02:c207:2291:8000::/50
+2a02:c207:2291:9000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 659.2 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 118.3 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.5 MiB, BTN网络从此Peer获取流量: 0 B
-2a03:4000::/50
+2a03:4000:0:1000::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.0 GiB, BTN网络从此Peer获取流量: 0 B
 2a03:4000:2:30e:6897:8fff:feec:ca32
@@ -21091,7 +21692,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 975.9 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 25.7 MiB, BTN网络从此Peer获取流量: 0 B
-2a03:4000:3f::/50
+2a03:4000:3f::/52
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 223.6 MiB, BTN网络从此Peer获取流量: 1.9 MiB
 2a03:4000:43:71:2836:4fff:feef:1927
@@ -21117,10 +21718,14 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 774.4 KiB, BTN网络从此Peer获取流量: 0 B
 2a09:7c44:0:165::1
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 60.5 MiB, BTN网络从此Peer获取流量: 1.7 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.0 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 30.3 MiB, BTN网络从此Peer获取流量: 0 B
-2a0a:4cc0:c0::/50
+2a0a:4cc0:c0:7d1::ae86
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 42.0 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c0:9f4:6895:aeff:fe0d:1aeb
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 60.5 MiB, BTN网络从此Peer获取流量: 1.7 MiB
+2a0a:4cc0:c0:17e4:8ee:78ff:fe26:8a96
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 740.5 MiB, BTN网络从此Peer获取流量: 0 B
 2a0a:4cc0:c0:c665:9441:cfff:fe48:5878
@@ -21128,27 +21733,49 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 20.9 MiB, BTN网络从此Peer获取流量: 0 B
 2a0a:4cc0:c0:ec58:d820:11ff:fe40:6e2
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 132.4 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 298.0 MiB, BTN网络从此Peer获取流量: 213.8 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 129.3 MiB, BTN网络从此Peer获取流量: 206.4 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.0 MiB, BTN网络从此Peer获取流量: 6.0 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.5 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 172.9 MiB, BTN网络从此Peer获取流量: 0 B
-2a0a:4cc0:c1:4000::/50
+2a0a:4cc0:c1:4407:a4ae:3cff:fec0:7fd2
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.9 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.8 MiB, BTN网络从此Peer获取流量: 1.1 GiB
-# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.6 MiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.5 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c1:4b9f:345e:a8ff:fe06:244c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 73.0 MiB, BTN网络从此Peer获取流量: 6.0 MiB
+2a0a:4cc0:c1:546f:18d6:40ff:fef4:3db9
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 129.3 MiB, BTN网络从此Peer获取流量: 206.4 MiB
+2a0a:4cc0:c1:56d2:980e:99ff:fe87:8c3
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 298.0 MiB, BTN网络从此Peer获取流量: 213.8 MiB
+2a0a:4cc0:c1:6047:74b0:17ff:fe83:b017
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 132.4 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c1:7e11:8857:75ff:fe3d:5811
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 25, 不信任票数: 21, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 73.8 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 31.2 MiB, BTN网络从此Peer获取流量: 5.8 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 49.8 MiB
-2a0a:4cc0:c1:8000::/49
+2a0a:4cc0:c1:b000::/52
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 19.6 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c1:d5ac:e482:80ff:feb2:42d5
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 128.8 MiB, BTN网络从此Peer获取流量: 1.1 GiB
+2a0a:4cc0:c1:e6e4:4843:eeff:fe22:4221
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 21.9 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c1:f781:186c:9aff:fe36:62c0
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 619.8 MiB, BTN网络从此Peer获取流量: 80.0 KiB
+2a0a:4cc0:c2:157c:84dc:34ff:fec5:c18c
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 1.0 MiB
+2a0a:4cc0:c2:1b30:7875:b0ff:fe47:aad3
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 663.0 MiB, BTN网络从此Peer获取流量: 0 B
+2a0a:4cc0:c2:2011:9883:38ff:fe80:ec1
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 663.0 MiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.1 GiB, BTN网络从此Peer获取流量: 1.0 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 3, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 619.8 MiB, BTN网络从此Peer获取流量: 80.0 KiB
-2a0a:4cc0:c2::/50
+2a0a:4cc0:c2:2356:145d:c0ff:fe91:f8e7
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 365.6 MiB, BTN网络从此Peer获取流量: 112.4 MiB
 2a0a:4cc0:2000:365:a49e:22ff:fe4e:eef0
@@ -21197,7 +21824,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 719.8 KiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.7 MiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 12, 合并记录数量: 1, BTN网络发送到此Peer流量: 51.6 MiB, BTN网络从此Peer获取流量: 0 B
-2a14:67c1:a040::/50
+2a14:67c1:a040::/52
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 1.81.141.186
