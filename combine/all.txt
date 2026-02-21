@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-21 14:30:31 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-21 15:30:32 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -23326,13 +23326,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 821.96% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 1.1 TiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 3
 240e:b8f:2e6c:de00:d437:1208:5f48:74a
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 234.0 MiB, BTN 网络从此 Peer 接收的总流量: 18.5 MiB
-1.85.201.17
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 35, BTN 网络发送到此 Peer 的总流量: 1.8 GiB, BTN 网络从此 Peer 接收的总流量: 9.1 MiB
-58.82.251.103
-
 # gopeeddev.txt
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: LUdQZGV2MC1G7SUdDP+C ClientName: Gopeed dev
 14.145.42.51
@@ -29161,6 +29154,10 @@
 # aria2c17
 # aria2c18
 114.228.87.0/24
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 40, BTN 网络发送到此 Peer 的总流量: 4.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+116.30.102.32
 
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 117.26.238.0/24
