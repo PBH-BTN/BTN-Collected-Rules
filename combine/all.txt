@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-26 02:30:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-02-26 03:30:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # overdownload-ips.txt
@@ -1559,6 +1559,13 @@
 # wangxin-pcdn.txt
 112.103.141.134
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 116, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 3.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+1.193.121.227
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 4.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.129.1.251
+
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 27.5 GiB, BTN网络从此Peer获取流量: 55.3 MiB
 2.59.169.232
@@ -2137,7 +2144,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.1 GiB, BTN网络从此Peer获取流量: 0 B
 218.90.198.0/24
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.8 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 36, 不信任票数: 3, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.5 GiB, BTN网络从此Peer获取流量: 0 B
 218.91.237.227
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 4, 不信任票数: 4, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.0 GiB, BTN网络从此Peer获取流量: 426.6 MiB
@@ -7004,16 +7011,6 @@
 # gopeeddev.txt
 # [Sparkle3] Gopeed dev 特征识别: 采样数据: PeerId: b5-9471- ClientName: Gopeed dev
 222.191.213.79
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 8.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-14.212.8.145
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 1.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-123.195.24.60
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 109, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 138.5 MiB, BTN 网络从此 Peer 接收的总流量: 14.1 MiB
-219.157.251.227
 
 # tiantang-pcdn.txt
 # 以下 IP 地址除了 BTN 收到用户的上报封禁外，额外发现运行甜糖 PCDN 节点
