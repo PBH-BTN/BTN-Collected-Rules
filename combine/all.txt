@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-01 18:01:24 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-01 18:01:48 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -947,6 +947,9 @@
 183.255.64.19
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 183.255.64.28
+# 特征：-RN0.0.0- Rain 0.0.0 刷流
+# 合并
+185.107.45.0/24
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
 185.209.198.132
 # 特征：-RN0.0.0- Rain 0.0.0 刷流
@@ -2780,10 +2783,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 GiB, BTN网络从此Peer获取流量: 0 B
 112.29.66.0/24
 
-# rain0.0.0.txt
-# [Sparkle3] Rain0.0.0 特征识别: 采样数据: PeerId: LVJOMC4wLjAtxk5XdB1O ClientName: Rain 0.0.0
-64.120.95.52
-
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -2885,14 +2884,6 @@
 # Datacenter qBittorrent/4.6.7
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# [Merged Comment]
-# 特征：-RN0.0.0- Rain 0.0.0 刷流
-# rain0.0.0.txt
-# 合并
-# [Sparkle3] Rain0.0.0 特征识别: 采样数据: PeerId: LVJOMC4wLjAt230zwYdI ClientName: Rain 0.0.0
-# [Sparkle3] Rain0.0.0 特征识别: 采样数据: PeerId: LVJOMC4wLjAtdRPOBQ4z ClientName: Rain 0.0.0
-185.107.45.0/24
 
 # [Merged Comment]
 # localhost.localdomain
