@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-05 08:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-05 09:30:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # overdownload-ips.txt
@@ -6130,6 +6130,22 @@
 # aria2c18
 114.228.87.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 6.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+115.63.161.74
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 9, BTN 网络发送到此 Peer 的总流量: 509.5 MiB, BTN 网络从此 Peer 接收的总流量: 199.8 MiB
+152.53.118.218
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 104, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 208.4 MiB, BTN 网络从此 Peer 接收的总流量: 9.6 MiB
+180.165.25.24
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 7.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2408:8220:1a18:6bd0:c47f:f256:bce1:2772
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 870.4 MiB, BTN 网络从此 Peer 接收的总流量: 18.8 MiB
+240e:333:1f4b:700:2697:edff:fe2e:dbc3
+
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
@@ -6160,19 +6176,6 @@
 240e:35b:2317:c301::/64
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 203.3 MiB, BTN 网络从此 Peer 接收的总流量: 9.6 MiB
-180.165.25.24
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 7.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2408:8220:1a18:6bd0:c47f:f256:bce1:2772
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 784.3 MiB, BTN 网络从此 Peer 接收的总流量: 15.5 MiB
-240e:333:1f4b:700::1002
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 11, BTN 网络发送到此 Peer 的总流量: 819.9 MiB, BTN 网络从此 Peer 接收的总流量: 39.7 MiB
-240e:390:5e1d:ce91::644
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
