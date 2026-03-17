@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-17 03:30:13 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-17 04:30:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -5822,6 +5822,10 @@
 240e:35b:2317:c301::/64
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
+
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 11029.92% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 1.9 TiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+150.129.10.3
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
