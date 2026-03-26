@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-26 02:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-26 03:30:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # gopeeddev.txt
@@ -5140,6 +5140,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 2, BTN网络发送到此Peer流量: 12.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 18.3 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.2 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.7 GiB, BTN网络从此Peer获取流量: 0 B
@@ -5223,9 +5224,6 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.7 GiB, BTN网络从此Peer获取流量: 0 B
 222.9.246.217
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.3 GiB, BTN网络从此Peer获取流量: 0 B
-2400:4164:1e06:6a00::
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.5 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8249:1e2d:300::
@@ -5476,33 +5474,26 @@
 175.171.144.0/20
 
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 154, 标记人数: 33, BTN 网络发送到此 Peer 的总流量: 7.1 GiB, BTN 网络从此 Peer 接收的总流量: 2.3 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 3.2 GiB, BTN 网络从此 Peer 接收的总流量: 2.3 MiB
 58.19.155.144
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 174, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 770.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-58.252.121.31
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 5.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 157, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 5.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 113.70.63.244
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 34, BTN 网络发送到此 Peer 的总流量: 4.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-119.123.74.37
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 105, 标记人数: 38, BTN 网络发送到此 Peer 的总流量: 2.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+115.217.65.51
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 1.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-183.241.56.71
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 13.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+183.92.101.69
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 642.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 27, BTN 网络发送到此 Peer 的总流量: 309.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:3b2:4ee0:ab00::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 144, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 4.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 155, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 4.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 240e:3b2:4eec:3500::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 127, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 6.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 125, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 5.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 28, BTN 网络发送到此 Peer 的总流量: 4.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 22, BTN 网络发送到此 Peer 的总流量: 4.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 240e:3b7:3222:1f00::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 555.5 MiB, BTN 网络从此 Peer 接收的总流量: 138.2 KiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 644.6 MiB, BTN 网络从此 Peer 接收的总流量: 138.2 KiB
 240e:3bb:64e:4f00::/56
 
 # [Merged Comment]
