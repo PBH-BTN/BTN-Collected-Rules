@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-26 15:30:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-26 16:30:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -5524,10 +5524,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 115.238.230.0/23
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# Datacenter qBittorrent/4.6.7
-183.131.116.0/24
 
 # 恶意 Aria2 IP 地址
 # 79 个吸血唯一地址
@@ -5776,6 +5772,13 @@
 240e:35b:2317:c301::/64
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
+
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 5596.68% (100% = 完整下载一次种子大小), BTN 网络发送到此 Peer 的流量: 20.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B, 跨种计算数量: 1
+183.131.116.0/24
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
