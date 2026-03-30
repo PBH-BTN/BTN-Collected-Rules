@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-29 22:30:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-03-30 00:30:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -145,6 +145,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
 113.15.162.220
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.0 GiB, BTN网络从此Peer获取流量: 68.5 MiB
+113.224.4.72
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 12, 合并记录数量: 2, BTN网络发送到此Peer流量: 41.1 GiB, BTN网络从此Peer获取流量: 350.6 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 12.9 GiB, BTN网络从此Peer获取流量: 0 B
@@ -5628,16 +5631,6 @@
 # rain0.0.0.txt
 # [Sparkle3] Rain0.0.0 特征识别: 采样数据: PeerId: LVJOMC4wLjAtdRPOBQ4z ClientName: Rain 0.0.0
 185.107.45.34
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 492.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-110.244.0.10
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 6.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-113.201.56.54
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 11, BTN 网络发送到此 Peer 的总流量: 3.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-168.70.37.53
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
