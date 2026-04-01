@@ -8,11 +8,18 @@ on:
       - '**.yml'
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   combine-txt-files:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Wait a minute
+      run: sleep 60
+
     - name: Checkout repository
       uses: actions/checkout@v4
 
