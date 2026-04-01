@@ -31,10 +31,10 @@ def parse_line(l):
     if line.startswith("#"):
         return line, None, None
     if not "#" in line:
-        return line, ipaddress.ip_network(line, strict=False), None
+        return line, ipaddress.ip_network(line, strict=True), None
     else:
         mark = line.find("#")
-        return line, ipaddress.ip_network(line[:mark].strip(), strict=False), line[mark:]
+        return line, ipaddress.ip_network(line[:mark].strip(), strict=True), line[mark:]
 
 def find_comments_block(new_ip, full=False):
     if not full and new_ip in comments_block:
@@ -97,11 +97,11 @@ for name in glob.glob("*.txt"):
                 ip = ipaddress.ip_network(ip.network_address.ipv4_mapped)
             if ip.version == 4:
                 ipv4_blocklist[ip] += 1
-                prefix = ipaddress.ip_network((ip.network_address, ipv4_prefix), strict=True)
+                prefix = ipaddress.ip_network((ip.network_address, ipv4_prefix), strict=False)
                 ipv4_prefix_counter[prefix] += 1
             else:
                 ipv6_blocklist[ip] += 1
-                prefix = ipaddress.ip_network((ip.network_address, ipv6_prefix), strict=True)
+                prefix = ipaddress.ip_network((ip.network_address, ipv6_prefix), strict=False)
                 ipv6_prefix_counter[prefix] += 1
             add_comment(ip,comment_block,comment_multi_line)
             comment_multi_line = []
