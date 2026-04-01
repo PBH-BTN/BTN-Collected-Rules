@@ -97,11 +97,11 @@ for name in glob.glob("*.txt"):
                 ip = ipaddress.ip_network(ip.network_address.ipv4_mapped)
             if ip.version == 4:
                 ipv4_blocklist[ip] += 1
-                prefix = ipaddress.ip_network((ip.network_address, ipv4_prefix), strict=False)
+                prefix = ipaddress.ip_network((ip.network_address, ipv4_prefix), strict=True)
                 ipv4_prefix_counter[prefix] += 1
             else:
                 ipv6_blocklist[ip] += 1
-                prefix = ipaddress.ip_network((ip.network_address, ipv6_prefix), strict=False)
+                prefix = ipaddress.ip_network((ip.network_address, ipv6_prefix), strict=True)
                 ipv6_prefix_counter[prefix] += 1
             add_comment(ip,comment_block,comment_multi_line)
             comment_multi_line = []
