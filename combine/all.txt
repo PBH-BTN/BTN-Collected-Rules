@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-11 03:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-11 06:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1317,6 +1317,16 @@
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 181, 标记人数: 42, BTN 网络发送到此 Peer 的总流量: 2.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+122.116.216.7
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 136, 标记人数: 37, BTN 网络发送到此 Peer 的总流量: 9.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+124.77.220.43
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 2.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2407:4b00:1c0c::/56
+
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
@@ -1378,10 +1388,6 @@
 240e:390:7c00::/47
 # 组合段刷流合并 需要进一步调查 2025-02-19
 240e:390:7d00::/47
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 146, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 12.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:3bc:2c40::/56
 
 # [Merged Comment]
 # untrusted-ips.txt
