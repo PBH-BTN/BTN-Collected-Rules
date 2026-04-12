@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-12 13:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-12 15:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1136,6 +1136,22 @@
 # 江苏省 常州市 qBittorrent/4.6.7 刷流
 58.216.104.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 45, BTN 网络发送到此 Peer 的总流量: 1.5 GiB, BTN 网络从此 Peer 接收的总流量: 2.2 MiB
+59.175.8.203
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 1.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+123.192.115.184
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 55, BTN 网络发送到此 Peer 的总流量: 1.3 GiB, BTN 网络从此 Peer 接收的总流量: 11.3 MiB
+2001:da8:2d00:2100::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 2.8 GiB, BTN 网络从此 Peer 接收的总流量: 65.1 MiB
+2409:8a55:8c84:b300::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 158, 标记人数: 7, BTN 网络发送到此 Peer 的总流量: 457.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240e:b8f:1ee7:9700::/56
+
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
 60.20.243.0/24
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
@@ -1324,16 +1340,6 @@
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 2.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-123.154.235.191
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 1.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2408:8240:3e10:500::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 158, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 432.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:b8f:1ee7:9700::/56
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
