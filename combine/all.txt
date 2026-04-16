@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-16 00:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-16 02:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1391,15 +1391,18 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 1.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 125.229.124.148
 
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 2441.30% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 657.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+150.129.10.3
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 2241.01% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 56.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+184.82.112.240
+
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 2241.01% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 56.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-184.82.112.240
 
 # localhost.localdomain
 223.111.104.0/25
