@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-17 19:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-17 20:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1052,8 +1052,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 125.77.27.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
-183.134.92.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
 220.180.184.0/24
 
 # 2025/02/02 福建省 宁德市 古田县 Transmission 2.9x 刷流
@@ -1267,6 +1265,11 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 23.5 GiB, BTN网络从此Peer获取流量: 0 B
 124.91.148.0/24
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.1 GiB, BTN网络从此Peer获取流量: 14.7 MiB
+183.134.92.0/24
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
