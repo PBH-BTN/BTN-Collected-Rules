@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-23 06:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-23 08:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -704,6 +704,11 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.9 GiB, BTN网络从此Peer获取流量: 32.9 MiB
 185.177.126.221
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.8 GiB, BTN网络从此Peer获取流量: 37.7 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.0 GiB, BTN网络从此Peer获取流量: 758.7 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 90, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 316.2 GiB, BTN网络从此Peer获取流量: 10.9 GiB
+185.183.32.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 138, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 136.9 GiB, BTN网络从此Peer获取流量: 27.6 MiB
 185.183.34.95
@@ -1440,15 +1445,6 @@
 # Datacenter qBittorrent/4.6.7
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# [Merged Comment]
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.8 GiB, BTN网络从此Peer获取流量: 37.7 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 35.0 GiB, BTN网络从此Peer获取流量: 758.7 MiB
-# [Sparkle3 过量下载在线分析]  过量下载比率: 1133.31% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 90, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 316.2 GiB, BTN网络从此Peer获取流量: 10.9 GiB
-185.183.32.0/24
 
 # localhost.localdomain
 223.111.104.0/25
