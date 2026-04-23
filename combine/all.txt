@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-22 23:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-04-23 00:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1394,6 +1394,10 @@
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 139, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 48.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+118.86.250.192
+
 # [Merged Comment]
 # multi-dial.txt
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -1436,13 +1440,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 47, BTN 网络发送到此 Peer 的总流量: 3.3 GiB, BTN 网络从此 Peer 接收的总流量: 8.9 KiB
-183.194.152.14
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 295, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 134.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:ce:607:5200::/56
 
 # [Merged Comment]
 # overdownload-ips.txt
