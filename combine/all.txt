@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-01 01:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-01 03:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1044,31 +1044,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 9.0 GiB, BTN网络从此Peer获取流量: 6.3 MiB
 2a03:4000:3f:c00::/54
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 181, 标记人数: 52, BTN 网络发送到此 Peer 的总流量: 15.8 GiB, BTN 网络从此 Peer 接收的总流量: 5.3 KiB
-14.146.47.8
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 5.7 GiB, BTN 网络从此 Peer 接收的总流量: 648.2 KiB
-116.147.149.130
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 113.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-130.162.158.140
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 41, BTN 网络发送到此 Peer 的总流量: 3.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-155.103.67.22
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 148, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 189.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-180.164.90.106
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 121, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 606.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-182.235.242.10
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 113, 标记人数: 5, BTN 网络发送到此 Peer 的总流量: 70.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-221.4.167.23
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 18, BTN 网络发送到此 Peer 的总流量: 607.4 MiB, BTN 网络从此 Peer 接收的总流量: 464.0 KiB
-2001:e68:5441:6a00::/56
-
 # multi-dial.txt
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (17 条进度回退)
 27.133.128.0/19
@@ -1195,6 +1170,10 @@
 183.160.76.0/22
 # 复查于 25/1/9 Transmission 2.94 刷流 IP 分散段
 183.162.220.0/24
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 369, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 979.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+36.231.69.212
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
