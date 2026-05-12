@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-12 15:31:21 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-12 18:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1331,6 +1331,38 @@
 # 复查于 25/1/9 Transmission 2.94 刷流 IP 分散段
 183.162.220.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 83.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+36.35.190.195
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 3.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+111.241.248.235
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 52.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+120.228.150.233
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 144, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 85.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+120.228.150.245
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 194, 标记人数: 136, BTN 网络发送到此 Peer 的总流量: 10.3 GiB, BTN 网络从此 Peer 接收的总流量: 9.5 KiB
+180.112.88.102
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 3.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.244.145.22
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 9, BTN 网络发送到此 Peer 的总流量: 60.8 MiB, BTN 网络从此 Peer 接收的总流量: 4.5 MiB
+2409:8a47:1:c800::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 30.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2409:8a50:e06:d00::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 20.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2409:8a50:e06:1500::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 52, BTN 网络发送到此 Peer 的总流量: 2.4 GiB, BTN 网络从此 Peer 接收的总流量: 360.4 KiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 59, BTN 网络发送到此 Peer 的总流量: 1.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240e:b8f:801:4c00::/56
+
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
@@ -1670,26 +1702,6 @@
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 52.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-120.228.150.233
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 83.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-120.228.150.245
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 37, BTN 网络发送到此 Peer 的总流量: 1.0 GiB, BTN 网络从此 Peer 接收的总流量: 7.0 KiB
-183.254.77.114
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 110, 标记人数: 45, BTN 网络发送到此 Peer 的总流量: 32.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 43, BTN 网络发送到此 Peer 的总流量: 38.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2408:8409:2480:1800::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 111, 标记人数: 5, BTN 网络发送到此 Peer 的总流量: 29.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2409:8a50:e06:d00::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 20.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2409:8a50:e06:1500::/56
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
