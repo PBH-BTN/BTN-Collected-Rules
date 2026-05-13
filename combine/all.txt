@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-13 18:31:22 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-13 21:31:17 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1648,10 +1648,6 @@
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 119.113.80.0/21
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 415.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-114.32.162.4
-
 # [Merged Comment]
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
 # aria2c.txt
@@ -1673,6 +1669,13 @@
 # aria2c17
 # aria2c18
 114.228.87.0/24
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 27, BTN 网络发送到此 Peer 的总流量: 3.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.231.151.154
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 747.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+115.220.233.211
 
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 117.26.238.0/24
