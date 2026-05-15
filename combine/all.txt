@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-15 12:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-15 13:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1483,6 +1483,7 @@
 # multi-dial.txt
 # untrusted-ips.txt
 # qBittorrent/4.6.7 刷流 福建泉州
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 21.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 21.5 GiB, BTN网络从此Peer获取流量: 0 B
 36.250.249.0/24
@@ -1654,11 +1655,10 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 # 恶意 Aria2 IP 地址
-# multi-dial.txt
 # aria2c.txt
 # localhost.localdomain
+# multi-dial.txt
 # 224 个吸血唯一地址
-# 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # aria2c115
 # aria2c117
 # aria2c118
@@ -1677,6 +1677,7 @@
 # aria2c150
 # aria2c151
 # aria2c198-114
+# 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -1725,8 +1726,8 @@
 114.227.158.0/24
 
 # [Merged Comment]
-# multi-dial.txt
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
+# multi-dial.txt
 # aria2c.txt
 # 复查于 25/1/9 aria2/1.37.0 刷流（77 条进度回退，IP 集中）
 # aria2c12
@@ -1775,13 +1776,13 @@
 223.111.104.0/25
 
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
 # untrusted-ips.txt
+# 恶意 Aria2 IP 地址
 # [Sparkle3 不受信任投票] 封禁计数: 799, 不信任票数: 28, 合并记录数量: 2, BTN网络发送到此Peer流量: 619.2 GiB, BTN网络从此Peer获取流量: 0 B
 240e:e9:b00c::/48
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
 # untrusted-ips.txt
+# 恶意 Aria2 IP 地址
 # [Sparkle3 不受信任投票] 封禁计数: 79, 不信任票数: 44, 合并记录数量: 4, BTN网络发送到此Peer流量: 58.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 238, 不信任票数: 93, 合并记录数量: 4, BTN网络发送到此Peer流量: 147.4 GiB, BTN网络从此Peer获取流量: 0 B
 240e:3ac:3a24::/48
@@ -1792,10 +1793,9 @@
 240e:390:7d00::/47
 
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
 # untrusted-ips.txt
+# 恶意 Aria2 IP 地址
 # multi-dial.txt
-# 12851 个吸血唯一地址 - 江苏省 IDC 机房段
 # [Sparkle3 不受信任投票] 封禁计数: 265, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 152.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 171, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 220.2 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 128, 不信任票数: 24, 合并记录数量: 1, BTN网络发送到此Peer流量: 99.5 GiB, BTN网络从此Peer获取流量: 0 B
@@ -1804,6 +1804,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5231, 不信任票数: 12, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.6 TiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 103, 不信任票数: 28, 合并记录数量: 1, BTN网络发送到此Peer流量: 69.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7543, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.2 TiB, BTN网络从此Peer获取流量: 0 B
+# 12851 个吸血唯一地址 - 江苏省 IDC 机房段
 # IPV6 Random
 240e:978::/30
 
