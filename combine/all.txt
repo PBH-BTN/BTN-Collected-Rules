@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-18 04:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-18 06:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1200,17 +1200,26 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 689.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 2.200.168.62
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 2.1 GiB, BTN 网络从此 Peer 接收的总流量: 254.9 KiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 2.1 GiB, BTN 网络从此 Peer 接收的总流量: 270.9 KiB
 38.58.181.10
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 159, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 385.8 MiB, BTN 网络从此 Peer 接收的总流量: 986 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 168, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 349.2 MiB, BTN 网络从此 Peer 接收的总流量: 986 B
 46.138.172.113
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 74.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 126, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 75.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 85.241.200.30
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 583.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-85.241.200.242
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 149, 标记人数: 13, BTN 网络发送到此 Peer 的总流量: 4.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.189.89.66
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 185, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 277.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+138.99.67.44
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 308.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+149.154.210.21
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 205, 标记人数: 24, BTN 网络发送到此 Peer 的总流量: 6.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2409:8a6a:aa40:af00::/56
 
 # multi-dial.txt
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (17 条进度回退)
@@ -1498,6 +1507,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 14, 不信任票数: 14, 合并记录数量: 8, BTN网络发送到此Peer流量: 6.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 3680.06% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 34.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 2251.81% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 58.216.29.0/24
 
 # 恶意 Aria2 IP 地址
@@ -1750,10 +1760,6 @@
 
 # localhost.localdomain
 223.111.104.0/25
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 6224.24% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 17.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2409:8a63:366:2b00::/56
 
 # [Merged Comment]
 # 恶意 Aria2 IP 地址
