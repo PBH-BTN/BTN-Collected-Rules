@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-20 11:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-20 12:31:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1527,6 +1527,20 @@
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 394, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 8.7 GiB, BTN 网络从此 Peer 接收的总流量: 5.5 MiB
+118.141.143.118
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 528.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+188.214.125.164
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 171, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 14.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+216.24.212.30
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 657.7 MiB, BTN 网络从此 Peer 接收的总流量: 45.3 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 599.5 MiB, BTN 网络从此 Peer 接收的总流量: 30.5 MiB
+2408:8362:245d:4200::/56
+
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
@@ -1547,17 +1561,6 @@
 # Datacenter qBittorrent/4.6.7
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 143, 标记人数: 95, BTN 网络发送到此 Peer 的总流量: 697.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-188.214.125.164
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 42, BTN 网络发送到此 Peer 的总流量: 3.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-218.252.170.56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 675.3 MiB, BTN 网络从此 Peer 接收的总流量: 45.0 MiB
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 609.3 MiB, BTN 网络从此 Peer 接收的总流量: 33.5 MiB
-2408:8362:245d:4200::/56
 
 # localhost.localdomain
 223.111.104.0/25
