@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-20 14:31:51 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-20 15:31:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1463,6 +1463,19 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2079.78% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 61.177.172.0/23
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 149, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 3.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+112.3.225.131
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 404, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 8.3 GiB, BTN 网络从此 Peer 接收的总流量: 1.5 MiB
+118.141.143.118
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 172, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 16.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+216.24.212.30
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 30, BTN 网络发送到此 Peer 的总流量: 4.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2409:8a20:883:3500::/56
+
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -1526,20 +1539,6 @@
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 394, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 8.7 GiB, BTN 网络从此 Peer 接收的总流量: 5.5 MiB
-118.141.143.118
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 528.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-188.214.125.164
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 171, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 14.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-216.24.212.30
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 657.7 MiB, BTN 网络从此 Peer 接收的总流量: 45.3 MiB
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 599.5 MiB, BTN 网络从此 Peer 接收的总流量: 30.5 MiB
-2408:8362:245d:4200::/56
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
