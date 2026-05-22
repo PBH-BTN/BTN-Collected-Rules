@@ -1,24 +1,5 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-21 21:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-22 00:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 131, 标记人数: 52, BTN 网络发送到此 Peer 的总流量: 5.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-1.169.227.126
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 288, 标记人数: 70, BTN 网络发送到此 Peer 的总流量: 1.2 GiB, BTN 网络从此 Peer 接收的总流量: 20.3 KiB
-96.62.250.199
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 917.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-104.28.163.40
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 2.1 GiB, BTN 网络从此 Peer 接收的总流量: 498.0 KiB
-116.147.148.83
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 142, 标记人数: 50, BTN 网络发送到此 Peer 的总流量: 3.5 GiB, BTN 网络从此 Peer 接收的总流量: 9.5 MiB
-183.221.19.120
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 274, 标记人数: 44, BTN 网络发送到此 Peer 的总流量: 999.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2a12:bec4:1df0:100::/56
 
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.8 GiB, BTN网络从此Peer获取流量: 157.3 MiB
@@ -1484,6 +1465,17 @@
 # aria2c151
 # aria2c198-114
 61.160.192.0/18
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 1015.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+104.28.163.40
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 2.1 GiB, BTN 网络从此 Peer 接收的总流量: 498.0 KiB
+116.147.148.83
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 8, BTN 网络发送到此 Peer 的总流量: 455.3 MiB, BTN 网络从此 Peer 接收的总流量: 6.7 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 139.0 MiB, BTN 网络从此 Peer 接收的总流量: 2.3 MiB
+2408:8362:245d:6200::/56
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
