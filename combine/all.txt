@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-24 00:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-24 03:31:08 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1520,20 +1520,23 @@
 # aria2c18
 114.228.87.0/24
 
-# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
-117.26.238.0/24
-# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
-140.237.6.0/24
-
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 115, 标记人数: 42, BTN 网络发送到此 Peer 的总流量: 4.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+116.147.106.151
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 28, BTN 网络发送到此 Peer 的总流量: 706.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 119.166.176.233
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 131, 标记人数: 35, BTN 网络发送到此 Peer 的总流量: 579.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-119.166.187.124
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 203, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 2.0 GiB, BTN 网络从此 Peer 接收的总流量: 83.2 MiB
+161.81.67.43
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 166, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 3.3 GiB, BTN 网络从此 Peer 接收的总流量: 6.3 KiB
-175.0.69.97
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 30, BTN 网络发送到此 Peer 的总流量: 3.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+183.47.95.234
+
+# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
+117.26.238.0/24
+# 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
+140.237.6.0/24
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
