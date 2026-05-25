@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-25 18:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-25 21:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1547,22 +1547,18 @@
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 66, BTN 网络发送到此 Peer 的总流量: 886.4 MiB, BTN 网络从此 Peer 接收的总流量: 6.6 KiB
-152.53.243.1
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 111, 标记人数: 8, BTN 网络发送到此 Peer 的总流量: 8.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 7, BTN 网络发送到此 Peer 的总流量: 6.3 MiB, BTN 网络从此 Peer 接收的总流量: 80.0 KiB
-2a01:cb1c:14af:300::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 113, 标记人数: 55, BTN 网络发送到此 Peer 的总流量: 1.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2a0a:4cc0:2000:8700::/56
-
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 195, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 5.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+198.44.159.43
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 4.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+220.200.58.83
 
 # localhost.localdomain
 223.111.104.0/25
