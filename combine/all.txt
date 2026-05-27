@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-27 02:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-27 03:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1553,15 +1553,6 @@
 240e:35b:2317:c301::/64
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
-
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 129, 标记人数: 75, BTN 网络发送到此 Peer 的总流量: 2.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-163.125.185.170
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 214, 标记人数: 54, BTN 网络发送到此 Peer 的总流量: 7.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 190, 标记人数: 50, BTN 网络发送到此 Peer 的总流量: 5.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 172, 标记人数: 46, BTN 网络发送到此 Peer 的总流量: 4.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2408:8256:3292::/52
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
