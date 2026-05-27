@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-27 18:31:17 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-27 21:31:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -128,6 +128,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.9 GiB, BTN网络从此Peer获取流量: 0 B
 42.48.254.124/31
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.6 GiB, BTN网络从此Peer获取流量: 0 B
+42.49.238.199
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 8, 合并记录数量: 1, BTN网络发送到此Peer流量: 11.8 GiB, BTN网络从此Peer获取流量: 0 B
 42.56.7.134
@@ -1115,31 +1118,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 23.6 GiB, BTN网络从此Peer获取流量: 24.5 MiB
 2a00:7c80:0:200::/56
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 5, BTN 网络发送到此 Peer 的总流量: 1.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-14.109.238.126
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 7.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-39.152.175.0
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 335, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 889.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-60.183.5.70
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 176, 标记人数: 47, BTN 网络发送到此 Peer 的总流量: 2.0 GiB, BTN 网络从此 Peer 接收的总流量: 864.2 KiB
-113.17.74.223
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 24, BTN 网络发送到此 Peer 的总流量: 22.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-118.86.250.192
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 1.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-118.161.75.72
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 210, 标记人数: 18, BTN 网络发送到此 Peer 的总流量: 18.5 GiB, BTN 网络从此 Peer 接收的总流量: 4.2 MiB
-222.68.24.10
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 182, 标记人数: 5, BTN 网络发送到此 Peer 的总流量: 262.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:390:5f17:3000::/56
-
 # multi-dial.txt
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (17 条进度回退)
 27.133.128.0/19
@@ -1375,6 +1353,22 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.7 GiB, BTN网络从此Peer获取流量: 0 B
 123.156.68.0/23
 
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 6.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+39.152.175.0
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 167, 标记人数: 47, BTN 网络发送到此 Peer 的总流量: 2.0 GiB, BTN 网络从此 Peer 接收的总流量: 864.2 KiB
+113.17.74.223
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 36, BTN 网络发送到此 Peer 的总流量: 2.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+113.17.76.194
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 4.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+139.226.176.244
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 196, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 17.6 GiB, BTN 网络从此 Peer 接收的总流量: 4.2 MiB
+222.68.24.10
+
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 42.84.144.0/20
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
@@ -1468,14 +1462,13 @@
 60.20.247.0/24
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# Datacenter qBittorrent/4.6.7
 # 恶意 Aria2 IP 地址
-# multi-dial.txt
 # aria2c.txt
 # localhost.localdomain
+# 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
+# multi-dial.txt
 # 224 个吸血唯一地址
-# 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # aria2c115
 # aria2c117
 # aria2c118
@@ -1494,6 +1487,7 @@
 # aria2c150
 # aria2c151
 # aria2c198-114
+# 复查于 25/1/9 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -1542,8 +1536,8 @@
 114.227.158.0/24
 
 # [Merged Comment]
-# multi-dial.txt
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
+# multi-dial.txt
 # aria2c.txt
 # 复查于 25/1/9 aria2/1.37.0 刷流（77 条进度回退，IP 集中）
 # aria2c12
