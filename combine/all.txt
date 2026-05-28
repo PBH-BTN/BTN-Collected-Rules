@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-28 18:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-28 21:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1508,20 +1508,6 @@
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 223.109.147.0/24
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 51, BTN 网络发送到此 Peer 的总流量: 3.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-113.78.107.109
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 64, BTN 网络发送到此 Peer 的总流量: 3.3 GiB, BTN 网络从此 Peer 接收的总流量: 256.0 KiB
-114.224.204.138
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 141, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 3.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 92, BTN 网络发送到此 Peer 的总流量: 5.8 GiB, BTN 网络从此 Peer 接收的总流量: 383.1 KiB
-240e:36f:15bf:e900::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 7, BTN 网络发送到此 Peer 的总流量: 208.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2a0a:4cc0:c0:e600::/56
-
 # [Merged Comment]
 # multi-dial.txt
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
@@ -1537,6 +1523,19 @@
 # multi-dial.txt
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 119.113.80.0/21
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 64, BTN 网络发送到此 Peer 的总流量: 3.0 GiB, BTN 网络从此 Peer 接收的总流量: 256.0 KiB
+114.224.204.138
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 106, BTN 网络发送到此 Peer 的总流量: 1.5 GiB, BTN 网络从此 Peer 接收的总流量: 81.3 KiB
+118.161.151.59
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 202.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+128.53.3.9
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 71, BTN 网络发送到此 Peer 的总流量: 4.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+152.53.243.1
 
 # [Merged Comment]
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
