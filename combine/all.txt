@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-30 18:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-05-30 21:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -750,6 +750,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.1 GiB, BTN网络从此Peer获取流量: 0 B
 180.22.182.209
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 45.3 GiB, BTN网络从此Peer获取流量: 0 B
+180.97.50.176/30
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.4 GiB, BTN网络从此Peer获取流量: 3.7 MiB
 180.150.13.54
 # untrusted-ips.txt
@@ -764,6 +767,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 22.8 GiB, BTN网络从此Peer获取流量: 2.5 GiB
 185.21.217.34
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 372, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 209.8 GiB, BTN网络从此Peer获取流量: 40.8 MiB
+185.132.134.202
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.3 GiB, BTN网络从此Peer获取流量: 155.3 MiB
 185.132.178.251
@@ -1494,14 +1500,14 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 2.7 GiB, BTN 网络从此 Peer 接收的总流量: 318.9 KiB
 106.104.136.25
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 112, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 51.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 31, BTN 网络发送到此 Peer 的总流量: 42.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 118.86.250.192
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 113, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 1.4 GiB, BTN 网络从此 Peer 接收的总流量: 2.9 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 1.0 GiB, BTN 网络从此 Peer 接收的总流量: 2.5 MiB
 121.29.178.68
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 208, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 1.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-223.166.25.144
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 28, BTN 网络发送到此 Peer 的总流量: 842.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+123.194.245.45
 
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
