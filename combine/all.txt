@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-02 23:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-03 00:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -820,6 +820,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 372, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 209.8 GiB, BTN网络从此Peer获取流量: 40.8 MiB
 185.132.134.202
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.9 GiB, BTN网络从此Peer获取流量: 8.4 MiB
+185.132.178.151
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.3 GiB, BTN网络从此Peer获取流量: 155.3 MiB
 185.132.178.251
 # untrusted-ips.txt
@@ -1370,22 +1373,6 @@
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 175.171.144.0/20
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 134, 标记人数: 24, BTN 网络发送到此 Peer 的总流量: 6.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-51.255.64.44
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 7.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-117.167.2.5
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 111, 标记人数: 33, BTN 网络发送到此 Peer 的总流量: 337.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-118.86.250.192
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 141, 标记人数: 60, BTN 网络发送到此 Peer 的总流量: 1.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-180.143.163.94
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 3.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-222.68.24.10
-
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
@@ -1606,6 +1593,13 @@
 117.26.238.0/24
 # 2025/02/02 福建省 莆田市 涵江区 Transmission 2.9x 刷流
 140.237.6.0/24
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 7.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.167.2.5
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 30, BTN 网络发送到此 Peer 的总流量: 199.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+118.86.250.192
 
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 124.115.184.0/22
