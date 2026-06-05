@@ -21,10 +21,13 @@
 
 ## 订阅链接
 
+> [!WARNING]
+> 我们正在更新 CloudFlare Pages 的订阅链接。**原 `https://bcr.pbh-btn.ghorg.ghostchu-services.top` 域名的链接将于 2027 年 2 月失效**。**请您及时更新规则域到新的域名 `https://bcr.pbh-btn.com`**。原路径继续保持不变。
+
 以下链接默认均为 `combine/all.txt` 的链接，如果您需要分开订阅，请自行修改。
 
 * [Github Raw (推荐，可能需要科学)](https://raw.githubusercontent.com/PBH-BTN/BTN-Collected-Rules/main/combine/all.txt)
-* [CloudFlare Pages (和上面保持同步更新)](https://bcr.pbh-btn.ghorg.ghostchu-services.top/combine/all.txt)
+* [CloudFlare Pages (和上面保持同步更新)](https://bcr.pbh-btn.com/combine/all.txt)
 * [jsdelivr (部分地区可能有污染，更新可能有数日延迟)](https://fastly.jsdelivr.net/gh/PBH-BTN/BTN-Collected-Rules@master/combine/all.txt)
 
 ## 使用指南
