@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-20 03:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-20 04:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -2098,19 +2098,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.8 GiB, BTN网络从此Peer获取流量: 0 B
 61.160.192.0/18
 
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 594.21% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 65.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-106.226.57.198
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 638.40% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 70.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-114.218.157.2
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 597.11% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 65.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-121.30.221.19
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 599.52% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 65.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-182.96.55.207
-
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -2147,6 +2134,16 @@
 # multi-dial.txt
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 119.113.80.0/21
+
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 638.40% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 70.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+114.218.157.2
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 597.11% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 65.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+121.30.221.19
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 599.52% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 65.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+182.96.55.207
 
 # [Merged Comment]
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
