@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-20 18:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-06-20 20:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -2412,10 +2412,6 @@
 # multi-dial.txt
 # Transmission 4.0.6/Transmission 3.00 IP 刷流分散段
 119.113.80.0/21
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 638.40% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 70.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-114.218.157.2
 
 # [Merged Comment]
 # aria2c group: aria2c2,aria2c3,aria2c4,aria2c5,aria2c6,aria2c7,aria2c8,aria2c9,aria2c10,aria2c11
