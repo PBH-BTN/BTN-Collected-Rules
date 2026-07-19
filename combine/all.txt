@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-07-19 03:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-07-19 04:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -1263,6 +1263,13 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 10, 合并记录数量: 2, BTN网络发送到此Peer流量: 8.6 GiB, BTN网络从此Peer获取流量: 0 B
 110.53.69.0/24
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.7 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.2 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 12, 合并记录数量: 2, BTN网络发送到此Peer流量: 21.6 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 2.6 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.4 GiB, BTN网络从此Peer获取流量: 0 B
+110.53.70.0/24
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.8 GiB, BTN网络从此Peer获取流量: 0 B
 110.53.94.2/31
 # untrusted-ips.txt
@@ -2464,17 +2471,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1376.61% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 17.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 101.70.158.0/24
 
-# [Merged Comment]
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.7 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 16.2 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 12, 合并记录数量: 2, BTN网络发送到此Peer流量: 21.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 2.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 13.4 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 过量下载在线分析]  过量下载比率: 689.53% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 34.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-110.53.70.0/24
-
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 2025/01/11 libtorrent/2.0.7.0 江苏/河北刷流
@@ -2562,16 +2558,6 @@
 
 # localhost.localdomain
 223.111.104.0/25
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 6656.21% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 18.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2408:8266:301:700::/56
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 5834.36% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2408:8266:bb01:1100::/56
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 5639.11% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2408:8266:bb01:1700::/56
 
 # [Merged Comment]
 # 恶意 Aria2 IP 地址
