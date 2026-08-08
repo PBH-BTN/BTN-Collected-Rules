@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-08 12:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-08 14:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -2540,6 +2540,9 @@
 # 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (17 条进度回退)
 27.133.128.0/19
 # multi-dial.txt
+# 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (39 条进度回退)
+59.106.192.0/19
+# multi-dial.txt
 # 复查于 25/1/9 Transmission 4.0.6 （53 条进度回退）
 60.20.0.0/20
 # multi-dial.txt
@@ -2897,13 +2900,6 @@
 # 江苏省 常州市 qBittorrent/4.6.7 刷流
 58.216.104.0/24
 
-# [Merged Comment]
-# multi-dial.txt
-# overdownload-ips.txt
-# 复查于 25/1/9 libtorrent/2.0.2.0 刷流 (39 条进度回退)
-# [Sparkle3 过量下载在线分析]  过量下载比率: 1494.86% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 30.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-59.106.192.0/19
-
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
 60.20.243.0/24
 # 2025/02/02 辽宁省 大连市 沙河口区 Transmission 4.x 刷流
@@ -3045,6 +3041,10 @@
 240e:35b:2317:c301::/64
 # 复查于 25/1/9 qBittorrent Enhanced/5.0.2.10 刷流 IP 分散段
 240e:3a6:185d:d750::/64
+
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 2911.80% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+179.172.254.171
 
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
