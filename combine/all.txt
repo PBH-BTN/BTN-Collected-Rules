@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-09 06:31:13 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-09 07:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -1199,7 +1199,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 20, 合并记录数量: 8, BTN网络发送到此Peer流量: 23.2 GiB, BTN网络从此Peer获取流量: 14.5 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 41, 不信任票数: 38, 合并记录数量: 16, BTN网络发送到此Peer流量: 37.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 88, 不信任票数: 88, 合并记录数量: 32, BTN网络发送到此Peer流量: 79.7 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 213, 不信任票数: 208, 合并记录数量: 64, BTN网络发送到此Peer流量: 203.1 GiB, BTN网络从此Peer获取流量: 46.8 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 214, 不信任票数: 209, 合并记录数量: 64, BTN网络发送到此Peer流量: 203.5 GiB, BTN网络从此Peer获取流量: 46.8 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 223, 不信任票数: 216, 合并记录数量: 64, BTN网络发送到此Peer流量: 179.9 GiB, BTN网络从此Peer获取流量: 38.9 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 390, 不信任票数: 117, 合并记录数量: 32, BTN网络发送到此Peer流量: 2.4 TiB, BTN网络从此Peer获取流量: 18.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 25, 不信任票数: 25, 合并记录数量: 8, BTN网络发送到此Peer流量: 31.2 GiB, BTN网络从此Peer获取流量: 17.9 MiB
@@ -2825,7 +2825,9 @@
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
+# untrusted-ips.txt
 # MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 7.3 GiB, BTN网络从此Peer获取流量: 4.4 MiB
 183.136.216.0/23
 
 # localhost.localdomain
