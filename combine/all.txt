@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-11 16:38:47 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-11 16:44:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1428,6 +1428,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 313, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 909.7 GiB, BTN网络从此Peer获取流量: 0 B
 240b:250:7821:e200::/56
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 798, 不信任票数: 27, 合并记录数量: 2, BTN网络发送到此Peer流量: 618.7 GiB, BTN网络从此Peer获取流量: 0 B
+240e:e9:b00c::/55
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.1 GiB, BTN网络从此Peer获取流量: 0 B
 240e:335:97:2800::/56
 # untrusted-ips.txt
@@ -1445,6 +1448,12 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 GiB, BTN网络从此Peer获取流量: 0 B
 240e:3a4:4cb7:cb00::/56
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 238, 不信任票数: 93, 合并记录数量: 4, BTN网络发送到此Peer流量: 147.4 GiB, BTN网络从此Peer获取流量: 0 B
+240e:3ac:3a24:c00::/54
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 79, 不信任票数: 44, 合并记录数量: 4, BTN网络发送到此Peer流量: 58.9 GiB, BTN网络从此Peer获取流量: 0 B
+240e:3ac:3a24:1000::/54
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.8 GiB, BTN网络从此Peer获取流量: 0 B
 240e:3b0:2cab:400::/54
@@ -3081,43 +3090,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.4 GiB, BTN网络从此Peer获取流量: 0 B
 58.216.29.0/24
 
-# 恶意 Aria2 IP 地址
-# 79 个吸血唯一地址
-58.216.32.0/23
-# 恶意 Aria2 IP 地址
-# 72 个吸血唯一地址
-58.216.63.0/24
-# 恶意 Aria2 IP 地址
-# 222 个吸血唯一地址
-61.147.208.0/20
-# 恶意 Aria2 IP 地址
-# 253 个吸血唯一地址
-114.227.93.0/24
-# 恶意 Aria2 IP 地址
-# 237 个吸血唯一地址
-114.227.148.0/24
-# 恶意 Aria2 IP 地址
-# 237 个吸血唯一地址
-180.116.206.0/24
-# 恶意 Aria2 IP 地址
-# 252 个吸血唯一地址
-218.93.63.0/24
-# 恶意 Aria2 IP 地址
-# 8472 个吸血唯一地址
-240e:3a0:3a02::/48
-# 恶意 Aria2 IP 地址
-240e:3a0:3a0a::/48
-# 恶意 Aria2 IP 地址
-240e:3ac:3a22::/47
-# 恶意 Aria2 IP 地址
-240e:3ac:3a29::/48
-# 恶意 Aria2 IP 地址
-240e:3ac:3a2a::/48
-# 恶意 Aria2 IP 地址
-240e:3ac:3a2d::/48
-# 恶意 Aria2 IP 地址
-240e:3ac:3a2e::/48
-
 # [Merged Comment]
 # multi-dial.txt
 # Datacenter qBittorrent/4.6.7
@@ -3172,6 +3144,10 @@
 # Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
 183.131.116.0/24
+
+# 恶意 Aria2 IP 地址
+# 222 个吸血唯一地址
+61.147.208.0/20
 
 # [Merged Comment]
 # multi-dial.txt
@@ -3277,18 +3253,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.1 GiB, BTN网络从此Peer获取流量: 0 B
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# [Merged Comment]
-# 恶意 Aria2 IP 地址
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 798, 不信任票数: 27, 合并记录数量: 2, BTN网络发送到此Peer流量: 618.7 GiB, BTN网络从此Peer获取流量: 0 B
-240e:e9:b00c::/48
-# [Merged Comment]
-# 恶意 Aria2 IP 地址
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 79, 不信任票数: 44, 合并记录数量: 4, BTN网络发送到此Peer流量: 58.9 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 238, 不信任票数: 93, 合并记录数量: 4, BTN网络发送到此Peer流量: 147.4 GiB, BTN网络从此Peer获取流量: 0 B
-240e:3ac:3a24::/48
 
 # 组合段刷流合并 需要进一步调查 2025-02-19
 240e:390:7c00::/47
