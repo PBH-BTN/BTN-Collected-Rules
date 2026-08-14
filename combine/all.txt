@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-14 09:31:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-14 10:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -2546,7 +2546,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 38891, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 199.0 TiB, BTN网络从此Peer获取流量: 0 B
 2408:8266:301:1000::/54
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 17463, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 95.1 TiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 17493, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 95.1 TiB, BTN网络从此Peer获取流量: 0 B
 2408:8266:301:1800::/54
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7182, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 40.4 TiB, BTN网络从此Peer获取流量: 0 B
@@ -2947,10 +2947,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.7 GiB, BTN网络从此Peer获取流量: 0 B
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 1136.20% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2409:8a63:363:e300::/56
 
 # [Merged Comment]
 # overdownload-ips.txt
