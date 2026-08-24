@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-24 03:31:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-08-24 04:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -2667,14 +2667,12 @@
 # untrusted-ips.txt
 # Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
-# overdownload-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 192, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 60.9 GiB, BTN网络从此Peer获取流量: 5.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 236, 不信任票数: 8, 合并记录数量: 4, BTN网络发送到此Peer流量: 100.9 GiB, BTN网络从此Peer获取流量: 3.4 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.2 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 5.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 2913, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.0 TiB, BTN网络从此Peer获取流量: 2.5 MiB
-# [Sparkle3 过量下载在线分析]  过量下载比率: 352.38% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 22.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 58.216.29.0/24
 
 # 恶意 Aria2 IP 地址
