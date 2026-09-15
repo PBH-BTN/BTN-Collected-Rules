@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-15 13:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-15 14:31:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -438,6 +438,20 @@
 # [Sparkle3 不受信任投票] 封禁计数: 200, 不信任票数: 18, 合并记录数量: 4, BTN网络发送到此Peer流量: 82.4 GiB, BTN网络从此Peer获取流量: 18.1 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 1.8 GiB, BTN网络从此Peer获取流量: 4.2 MiB
 60.188.85.0/24
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.5 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 1.8 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 10, 合并记录数量: 4, BTN网络发送到此Peer流量: 10.9 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 20, 合并记录数量: 8, BTN网络发送到此Peer流量: 23.2 GiB, BTN网络从此Peer获取流量: 14.5 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 41, 不信任票数: 38, 合并记录数量: 16, BTN网络发送到此Peer流量: 37.6 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 88, 不信任票数: 88, 合并记录数量: 32, BTN网络发送到此Peer流量: 79.7 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 216, 不信任票数: 211, 合并记录数量: 64, BTN网络发送到此Peer流量: 206.5 GiB, BTN网络从此Peer获取流量: 46.8 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 226, 不信任票数: 219, 合并记录数量: 64, BTN网络发送到此Peer流量: 184.5 GiB, BTN网络从此Peer获取流量: 38.9 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 390, 不信任票数: 117, 合并记录数量: 32, BTN网络发送到此Peer流量: 2.4 TiB, BTN网络从此Peer获取流量: 18.0 KiB
+# [Sparkle3 不受信任投票] 封禁计数: 50, 不信任票数: 49, 合并记录数量: 16, BTN网络发送到此Peer流量: 46.2 GiB, BTN网络从此Peer获取流量: 17.9 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 29, 不信任票数: 29, 合并记录数量: 8, BTN网络发送到此Peer流量: 18.4 GiB, BTN网络从此Peer获取流量: 4.6 MiB
+# [Sparkle3 不受信任投票] 封禁计数: 23, 不信任票数: 9, 合并记录数量: 4, BTN网络发送到此Peer流量: 136.8 GiB, BTN网络从此Peer获取流量: 0 B
+60.188.86.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 8.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 8.5 GiB, BTN网络从此Peer获取流量: 0 B
@@ -1650,7 +1664,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 798, 不信任票数: 27, 合并记录数量: 2, BTN网络发送到此Peer流量: 618.7 GiB, BTN网络从此Peer获取流量: 0 B
 240e:e9:b00c::/55
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 17, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 44.7 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 19, 不信任票数: 9, 合并记录数量: 1, BTN网络发送到此Peer流量: 46.5 GiB, BTN网络从此Peer获取流量: 0 B
 240e:f7:c000:300::/56
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.1 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3072,24 +3086,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 2913, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.0 TiB, BTN网络从此Peer获取流量: 2.5 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 650, 不信任票数: 9, 合并记录数量: 8, BTN网络发送到此Peer流量: 691.5 GiB, BTN网络从此Peer获取流量: 0 B
 58.216.29.0/24
-
-# [Merged Comment]
-# untrusted-ips.txt
-# overdownload-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 4.5 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 1.8 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 10, 合并记录数量: 4, BTN网络发送到此Peer流量: 10.9 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 20, 合并记录数量: 8, BTN网络发送到此Peer流量: 23.2 GiB, BTN网络从此Peer获取流量: 14.5 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 41, 不信任票数: 38, 合并记录数量: 16, BTN网络发送到此Peer流量: 37.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 88, 不信任票数: 88, 合并记录数量: 32, BTN网络发送到此Peer流量: 79.7 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 216, 不信任票数: 211, 合并记录数量: 64, BTN网络发送到此Peer流量: 206.5 GiB, BTN网络从此Peer获取流量: 46.8 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 226, 不信任票数: 219, 合并记录数量: 64, BTN网络发送到此Peer流量: 184.5 GiB, BTN网络从此Peer获取流量: 38.9 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 390, 不信任票数: 117, 合并记录数量: 32, BTN网络发送到此Peer流量: 2.4 TiB, BTN网络从此Peer获取流量: 18.0 KiB
-# [Sparkle3 不受信任投票] 封禁计数: 50, 不信任票数: 49, 合并记录数量: 16, BTN网络发送到此Peer流量: 46.2 GiB, BTN网络从此Peer获取流量: 17.9 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 29, 不信任票数: 29, 合并记录数量: 8, BTN网络发送到此Peer流量: 18.4 GiB, BTN网络从此Peer获取流量: 4.6 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 23, 不信任票数: 9, 合并记录数量: 4, BTN网络发送到此Peer流量: 136.8 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 过量下载在线分析]  过量下载比率: 5674.16% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 23.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-60.188.86.0/24
 
 # 恶意 Aria2 IP 地址
 # 222 个吸血唯一地址
