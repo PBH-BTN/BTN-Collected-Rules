@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-20 09:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-20 10:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -989,9 +989,6 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.8 GiB, BTN网络从此Peer获取流量: 0 B
 240b:11:1a40:3b00::/56
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.3 GiB, BTN网络从此Peer获取流量: 0 B
-240e:f7:c000:300::/56
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.1 GiB, BTN网络从此Peer获取流量: 0 B
 240e:335:97:2800::/56
@@ -2430,7 +2427,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 7.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 6.8 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 2, BTN网络发送到此Peer流量: 10.4 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 243, 不信任票数: 8, 合并记录数量: 4, BTN网络发送到此Peer流量: 80.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.3 GiB, BTN网络从此Peer获取流量: 704.0 KiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 34.9 GiB, BTN网络从此Peer获取流量: 10.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 5.4 GiB, BTN网络从此Peer获取流量: 0 B
@@ -2578,6 +2575,13 @@
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.7 GiB, BTN网络从此Peer获取流量: 0 B
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
+
+# [Merged Comment]
+# untrusted-ips.txt
+# overdownload-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 10, 合并记录数量: 1, BTN网络发送到此Peer流量: 53.3 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 1502.49% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 20.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+240e:f7:c000:300::/56
 
 # [Merged Comment]
 # untrusted-ips.txt
