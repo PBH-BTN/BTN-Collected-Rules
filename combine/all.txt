@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-28 03:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-09-28 04:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1203,6 +1203,9 @@
 # overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 666.08% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 58.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 110.52.135.244
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 377.58% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 20.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+152.53.21.145
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -1213,8 +1216,11 @@
 # Datacenter qBittorrent/4.6.7
 183.131.116.0/24
 
+# [Merged Comment]
 # 恶意 Aria2 IP 地址
+# overdownload-ips.txt
 # 222 个吸血唯一地址
+# [Sparkle3 过量下载在线分析]  过量下载比率: 3181.40% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 61.147.208.0/20
 
 # [Merged Comment]
