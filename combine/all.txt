@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-04 18:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-04 20:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1807,6 +1807,10 @@
 # AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
+
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 2983.79% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 111.8 GiB, BTN 网络从此 Peer 接收的流量: 108.4 MiB
+220.255.159.159
 
 # [Merged Comment]
 # 恶意 Aria2 IP 地址
