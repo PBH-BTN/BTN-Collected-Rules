@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-12 03:31:10 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-12 04:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1307,23 +1307,16 @@
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 221.229.52.0/24
 
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 13390.51% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 225.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 过量下载在线分析]  过量下载比率: 11318.59% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 225.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-118.25.95.166
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 853.32% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-2402:4e00:c032:6900::/56
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 352.68% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-240e:341:2e08:3400::/56
-
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 # AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
+
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 352.68% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+240e:341:2e08:3400::/56
 
 # [Merged Comment]
 # 恶意 Aria2 IP 地址
