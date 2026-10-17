@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-17 03:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-17 04:31:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -225,6 +225,9 @@
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 11, 合并记录数量: 8, BTN网络发送到此Peer流量: 28.0 GiB, BTN网络从此Peer获取流量: 8.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 6.2 GiB, BTN网络从此Peer获取流量: 0 B
 123.148.123.0/24
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 11.5 GiB, BTN网络从此Peer获取流量: 476.4 MiB
+123.184.44.132/31
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 7.4 GiB, BTN网络从此Peer获取流量: 1.6 GiB
 123.184.44.136/31
@@ -1961,7 +1964,7 @@
 183.136.216.0/23
 
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 346.96% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 356.81% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 240e:341:2e0b:6a00::/56
 
 # [Merged Comment]
