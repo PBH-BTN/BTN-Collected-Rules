@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-22 09:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-22 10:31:10 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -792,9 +792,9 @@
 61.147.208.0/20
 
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# 恶意 Aria2 IP 地址
 # untrusted-ips.txt
 # multi-dial.txt
 # 224 个吸血唯一地址
@@ -838,18 +838,18 @@
 183.136.216.0/23
 
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 366.93% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 371.26% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 240e:341:2e30:7d00::/56
 
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
-# untrusted-ips.txt
 # overdownload-ips.txt
-# 12851 个吸血唯一地址 - 江苏省 IDC 机房段
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.4 GiB, BTN网络从此Peer获取流量: 0 B
+# untrusted-ips.txt
+# 恶意 Aria2 IP 地址
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2384.79% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 24.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1057.86% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.4 GiB, BTN网络从此Peer获取流量: 0 B
+# 12851 个吸血唯一地址 - 江苏省 IDC 机房段
+# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 46, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 22, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 15.2 GiB, BTN网络从此Peer获取流量: 0 B
