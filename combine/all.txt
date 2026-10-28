@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-28 09:31:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-10-28 10:31:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -1349,6 +1349,25 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 18.2 GiB, BTN网络从此Peer获取流量: 0 B
 61.177.172.0/23
 
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 695.14% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 53.7 GiB, BTN 网络从此 Peer 接收的流量: 18.2 GiB
+84.26.145.120
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 907.49% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 68.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+118.47.203.220
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 513.53% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 17.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+124.235.106.10
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 4171.54% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 75.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+180.165.53.178
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 353.90% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+240e:341:2e30:7d00::/56
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 391.86% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+240e:b8f:723:8700::/56
+
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
@@ -1359,19 +1378,6 @@
 116.147.21.0/24
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 221.229.52.0/24
-
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 513.53% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 17.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-124.235.106.10
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 4171.96% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 75.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-180.165.53.178
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 353.90% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-240e:341:2e30:7d00::/56
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 391.86% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-240e:b8f:723:8700::/56
 
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
