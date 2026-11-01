@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-01 15:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-01 17:31:09 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -1124,11 +1124,11 @@
 220.180.184.0/24
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# multi-dial.txt
 # overdownload-ips.txt
-# qBittorrent/4.6.7 刷流 福建泉州
+# multi-dial.txt
+# 恶意流量 IDC 地址黑名单 IPv4
 # [Sparkle3 过量下载在线分析]  过量下载比率: 546.92% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 46.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# qBittorrent/4.6.7 刷流 福建泉州
 36.250.249.0/24
 
 # overdownload-ips.txt
@@ -1139,12 +1139,12 @@
 180.112.212.179
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# 恶意流量 IDC 地址黑名单 IPv4
 58.216.29.0/24
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# 恶意流量 IDC 地址黑名单 IPv4
 183.131.116.0/24
 
 # 恶意 Aria2 IP 地址
@@ -1152,22 +1152,22 @@
 61.147.208.0/20
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# Datacenter qBittorrent/4.6.7
-# multi-dial.txt
 # untrusted-ips.txt
+# multi-dial.txt
+# Datacenter qBittorrent/4.6.7
+# 恶意流量 IDC 地址黑名单 IPv4
 # 恶意 Aria2 IP 地址
-# 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 8.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 23, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 9.4 GiB, BTN网络从此Peer获取流量: 8.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.0 GiB, BTN网络从此Peer获取流量: 33.8 MiB
+# 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 # 224 个吸血唯一地址
 61.160.192.0/18
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # untrusted-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
 # [Sparkle3 不受信任投票] 封禁计数: 46, 不信任票数: 10, 合并记录数量: 8, BTN网络发送到此Peer流量: 20.3 GiB, BTN网络从此Peer获取流量: 1.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 2.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 7.8 GiB, BTN网络从此Peer获取流量: 0 B
@@ -1182,8 +1182,8 @@
 61.177.172.0/23
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # overdownload-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
 # [Sparkle3 过量下载在线分析]  过量下载比率: 530.77% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 45.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 101.69.214.0/24
 
@@ -1199,14 +1199,14 @@
 221.229.52.0/24
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
+# 恶意流量 IDC 地址黑名单 IPv4
 # qb467 刷流
 123.156.68.0/23
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# 恶意流量 IDC 地址黑名单 IPv4
 # AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
@@ -1214,7 +1214,7 @@
 # [Merged Comment]
 # untrusted-ips.txt
 # 恶意 Aria2 IP 地址
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.3 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 10, 不信任票数: 7, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 9.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 46, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 32.4 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 11, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 14.0 GiB, BTN网络从此Peer获取流量: 0 B
