@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-01 06:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-01 09:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # untrusted-ips.txt
@@ -138,6 +138,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 7.0 GiB, BTN网络从此Peer获取流量: 0 B
 82.131.13.141
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 5.1 GiB, BTN网络从此Peer获取流量: 0 B
+91.234.6.114
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 29.3 GiB, BTN网络从此Peer获取流量: 0 B
 106.73.209.64
@@ -530,14 +533,17 @@
 220.180.184.0/24
 
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 105, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 1.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 1.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 36.44.126.155
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 7, BTN 网络发送到此 Peer 的总流量: 811.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-39.174.24.46
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 4.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+39.147.241.137
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 585.7 MiB, BTN 网络从此 Peer 接收的总流量: 2.5 MiB
-42.242.92.175
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 120, BTN 网络发送到此 Peer 的总流量: 321.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.80.210
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 122, 标记人数: 146, BTN 网络发送到此 Peer 的总流量: 199.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.81.145
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 156, 标记人数: 172, BTN 网络发送到此 Peer 的总流量: 326.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.66.82.71
@@ -545,41 +551,108 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 137, BTN 网络发送到此 Peer 的总流量: 420.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.66.83.191
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 148.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.154.63
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 130, BTN 网络发送到此 Peer 的总流量: 262.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.66.157.67
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 387.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.162.156
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 147, 标记人数: 169, BTN 网络发送到此 Peer 的总流量: 433.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.172.25
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 144.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.66.172.36
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 157, 标记人数: 175, BTN 网络发送到此 Peer 的总流量: 368.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 370.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.181.79
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 138, BTN 网络发送到此 Peer 的总流量: 487.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.187.136
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 124.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.189.123
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 142, 标记人数: 157, BTN 网络发送到此 Peer 的总流量: 259.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.66.191.53
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 157, 标记人数: 177, BTN 网络发送到此 Peer 的总流量: 369.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.66.213.234
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 112, BTN 网络发送到此 Peer 的总流量: 503.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.7.21
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 458.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.76.32.11
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 112, BTN 网络发送到此 Peer 的总流量: 467.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.53.201
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 106, BTN 网络发送到此 Peer 的总流量: 388.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.76.55.53
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 138.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 112, BTN 网络发送到此 Peer 的总流量: 137.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.78.52
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 533.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.78.111
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 139.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.76.112.59
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 317.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 136, BTN 网络发送到此 Peer 的总流量: 243.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.122.167
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 135, 标记人数: 168, BTN 网络发送到此 Peer 的总流量: 440.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.76.124.181
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 133, 标记人数: 148, BTN 网络发送到此 Peer 的总流量: 322.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 49.76.125.13
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 354.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-58.214.154.110
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 353.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.139.239
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 452.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.182.227
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 168.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+49.76.183.169
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 40.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+51.255.93.132
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 112, BTN 网络发送到此 Peer 的总流量: 336.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.54.80
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 158, BTN 网络发送到此 Peer 的总流量: 1.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.122.43
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 163.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.153.92
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 162, 标记人数: 177, BTN 网络发送到此 Peer 的总流量: 428.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-58.214.154.153
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 354.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 500.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.154.0/24
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 176.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.158.166
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 159, 标记人数: 183, BTN 网络发送到此 Peer 的总流量: 525.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.214.158.184
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 116, 标记人数: 144, BTN 网络发送到此 Peer 的总流量: 267.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 101, BTN 网络发送到此 Peer 的总流量: 129.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-58.214.189.226
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 92, BTN 网络发送到此 Peer 的总流量: 80.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.189.0/24
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 140.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.198.77
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 130, BTN 网络发送到此 Peer 的总流量: 281.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.210.227
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 121, BTN 网络发送到此 Peer 的总流量: 434.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.214.215.4
@@ -587,7 +660,7 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 133, BTN 网络发送到此 Peer 的总流量: 254.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.214.215.180
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 156, 标记人数: 184, BTN 网络发送到此 Peer 的总流量: 694.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 157, 标记人数: 186, BTN 网络发送到此 Peer 的总流量: 696.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.214.220.19
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 494.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -596,8 +669,17 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 99, BTN 网络发送到此 Peer 的总流量: 199.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.219.18.191
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 409.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.219.19.137
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 647.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.219.19.165
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 141, BTN 网络发送到此 Peer 的总流量: 559.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.219.55.255
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 104, 标记人数: 130, BTN 网络发送到此 Peer 的总流量: 320.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.219.74.226
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 199.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.219.117.27
@@ -608,38 +690,50 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 129, BTN 网络发送到此 Peer 的总流量: 351.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 58.219.119.125
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 2.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-66.49.208.176
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 634.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.219.124.27
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 9, BTN 网络发送到此 Peer 的总流量: 389.0 MiB, BTN 网络从此 Peer 接收的总流量: 17.6 MiB
-82.29.38.110
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 174, 标记人数: 175, BTN 网络发送到此 Peer 的总流量: 4.4 GiB, BTN 网络从此 Peer 接收的总流量: 5.4 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 174, 标记人数: 176, BTN 网络发送到此 Peer 的总流量: 4.4 GiB, BTN 网络从此 Peer 接收的总流量: 5.4 MiB
 111.251.155.211
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 27, BTN 网络发送到此 Peer 的总流量: 11.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 41, BTN 网络发送到此 Peer 的总流量: 2.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+111.255.117.79
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 40, BTN 网络发送到此 Peer 的总流量: 11.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 112.45.101.145
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 127, 标记人数: 32, BTN 网络发送到此 Peer 的总流量: 2.8 GiB, BTN 网络从此 Peer 接收的总流量: 22.5 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 107, 标记人数: 32, BTN 网络发送到此 Peer 的总流量: 2.6 GiB, BTN 网络从此 Peer 接收的总流量: 22.2 MiB
 112.236.144.211
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 147.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 97.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 113.124.224.94
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 109, 标记人数: 9, BTN 网络发送到此 Peer 的总流量: 1.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-114.97.147.106
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 547.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.32.138
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 348.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 413.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.37.79
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 110, BTN 网络发送到此 Peer 的总流量: 352.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.40.149
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 397.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 397.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.53.101
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 111, BTN 网络发送到此 Peer 的总流量: 487.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.79.35
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 131, 标记人数: 144, BTN 网络发送到此 Peer 的总流量: 227.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.120.90
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 501.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.120.99
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 361.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.121.41
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 554.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.123.229
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 446.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.146.60
@@ -656,11 +750,23 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 132, 标记人数: 155, BTN 网络发送到此 Peer 的总流量: 532.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.215.171
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 136, 标记人数: 158, BTN 网络发送到此 Peer 的总流量: 423.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 212.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.223.212
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 159, BTN 网络发送到此 Peer 的总流量: 424.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.227.49
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 133.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.223.227.239
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 193, 标记人数: 215, BTN 网络发送到此 Peer 的总流量: 305.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.234.100
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 446.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.249.13
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 140, 标记人数: 147, BTN 网络发送到此 Peer 的总流量: 259.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.250.209
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 122, 标记人数: 141, BTN 网络发送到此 Peer 的总流量: 517.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.11.183
@@ -677,18 +783,30 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 488.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.54.174
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 111, BTN 网络发送到此 Peer 的总流量: 485.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.76.243
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 411.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 99, BTN 网络发送到此 Peer 的总流量: 379.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.77.166/31
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 153.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 420.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.83.66
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 157.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.120.115
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 249.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.121.59
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 127, BTN 网络发送到此 Peer 的总流量: 305.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.123.135
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 99, BTN 网络发送到此 Peer 的总流量: 347.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.123.174
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 401.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.125.171
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 331.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.131.29
@@ -702,6 +820,12 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 106, BTN 网络发送到此 Peer 的总流量: 371.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.190.118
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 119, BTN 网络发送到此 Peer 的总流量: 492.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.194.6
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 159, BTN 网络发送到此 Peer 的总流量: 514.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.201.180
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 399.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.205.52
 # concurrent-downloads-ips.txt
@@ -711,13 +835,22 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 110, BTN 网络发送到此 Peer 的总流量: 246.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.225.62.182
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 113, BTN 网络发送到此 Peer 的总流量: 306.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.225.118.137
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 207.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.225.151.13
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 438.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.225.151.147
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 169.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.225.168.35
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 152.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 111, BTN 网络发送到此 Peer 的总流量: 300.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.225.199.50
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 153.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.225.201.154
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 659.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -726,11 +859,29 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 444.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.17.169
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 563.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.45.161
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 220.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.61.159
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 129, 标记人数: 141, BTN 网络发送到此 Peer 的总流量: 195.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 106, BTN 网络发送到此 Peer 的总流量: 153.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.62.135
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 130, 标记人数: 142, BTN 网络发送到此 Peer 的总流量: 196.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.98.45
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 118, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 204.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.98.213
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 79.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.101.246
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 238.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.114.168
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 148, 标记人数: 169, BTN 网络发送到此 Peer 的总流量: 1003.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.131.31
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 437.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.181.191
@@ -744,19 +895,40 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 120, 标记人数: 132, BTN 网络发送到此 Peer 的总流量: 287.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.190.197
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 146, 标记人数: 165, BTN 网络发送到此 Peer 的总流量: 325.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 146, 标记人数: 166, BTN 网络发送到此 Peer 的总流量: 327.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.84.194.249
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 146, 标记人数: 173, BTN 网络发送到此 Peer 的总流量: 333.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 116, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 369.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 128, BTN 网络发送到此 Peer 的总流量: 416.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-117.84.196.4
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 259.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.196.0/24
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 117, BTN 网络发送到此 Peer 的总流量: 259.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-117.84.196.30
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 111, BTN 网络发送到此 Peer 的总流量: 583.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.223.95
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 125, 标记人数: 157, BTN 网络发送到此 Peer 的总流量: 497.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.25.26
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 107, 标记人数: 131, BTN 网络发送到此 Peer 的总流量: 253.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.47.175
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 104, 标记人数: 133, BTN 网络发送到此 Peer 的总流量: 696.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.56.20
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 123, BTN 网络发送到此 Peer 的总流量: 284.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.112.108
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 83.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.113.54
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 388.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.119.30
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 149, 标记人数: 165, BTN 网络发送到此 Peer 的总流量: 313.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.133.223
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 435.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 110, BTN 网络发送到此 Peer 的总流量: 439.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.134.83
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 466.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -765,8 +937,14 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 110, 标记人数: 121, BTN 网络发送到此 Peer 的总流量: 289.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.136.186
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 182.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.143.39
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 101, 标记人数: 131, BTN 网络发送到此 Peer 的总流量: 571.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.143.246
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 139, 标记人数: 161, BTN 网络发送到此 Peer 的总流量: 495.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.144.143
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 431.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.145.28
@@ -774,10 +952,16 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 96, BTN 网络发送到此 Peer 的总流量: 77.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 117.85.167.49
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 87.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 157.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.175.133
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 151, 标记人数: 174, BTN 网络发送到此 Peer 的总流量: 322.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.85.175.203
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 87, BTN 网络发送到此 Peer 的总流量: 88.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.12.29
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 38.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 38.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.12.67
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 105, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 237.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -786,17 +970,26 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 420.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.33.245
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 165.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.67.185
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 411.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.68.39
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 94, BTN 网络发送到此 Peer 的总流量: 268.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.68.86
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 111, BTN 网络发送到此 Peer 的总流量: 544.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.95.93
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 137, BTN 网络发送到此 Peer 的总流量: 779.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 138, BTN 网络发送到此 Peer 的总流量: 779.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.126.200
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 171.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.126.252
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 111, 标记人数: 134, BTN 网络发送到此 Peer 的总流量: 468.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.137.196
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 181, 标记人数: 203, BTN 网络发送到此 Peer 的总流量: 296.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 354.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -818,14 +1011,29 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 168.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.204.167
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 97, BTN 网络发送到此 Peer 的总流量: 124.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 119, BTN 网络发送到此 Peer 的总流量: 579.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.222.92
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 124.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.223.176
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 123, BTN 网络发送到此 Peer 的总流量: 378.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 345.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.237.226
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 126, BTN 网络发送到此 Peer 的总流量: 584.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.237.231
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 380.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.3.8
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 482.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.3.207
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 475.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.17.114
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 87, BTN 网络发送到此 Peer 的总流量: 140.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.17.188
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 120.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.18.163
@@ -833,10 +1041,19 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 478.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.22.145
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 151, BTN 网络发送到此 Peer 的总流量: 622.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.22.184
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 144, 标记人数: 170, BTN 网络发送到此 Peer 的总流量: 428.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.28.170
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 457.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.54.162
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 297.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.88.232
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 158, 标记人数: 179, BTN 网络发送到此 Peer 的总流量: 309.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 159, 标记人数: 180, BTN 网络发送到此 Peer 的总流量: 309.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.90.141
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 144.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -845,14 +1062,20 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 120, BTN 网络发送到此 Peer 的总流量: 442.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.238.92.200
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 3.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 405.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+123.240.54.121
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 9, BTN 网络发送到此 Peer 的总流量: 3.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 124.126.196.244
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 128, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 4.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 122, 标记人数: 21, BTN 网络发送到此 Peer 的总流量: 3.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 124.160.247.38
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 148, 标记人数: 31, BTN 网络发送到此 Peer 的总流量: 2.6 GiB, BTN 网络从此 Peer 接收的总流量: 33.0 MiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 139, 标记人数: 31, BTN 网络发送到此 Peer 的总流量: 2.6 GiB, BTN 网络从此 Peer 接收的总流量: 32.3 MiB
 139.227.188.191
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 135, 标记人数: 33, BTN 网络发送到此 Peer 的总流量: 4.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+171.222.190.150
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 92, BTN 网络发送到此 Peer 的总流量: 220.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.16.184
@@ -860,10 +1083,10 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 152.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.18.234
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 109, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 378.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 110, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 384.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.19.131
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 282.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 117, BTN 网络发送到此 Peer 的总流量: 286.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.56.108
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 126, 标记人数: 149, BTN 网络发送到此 Peer 的总流量: 489.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -872,10 +1095,16 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 104, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 442.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.68.24
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 177, 标记人数: 206, BTN 网络发送到此 Peer 的总流量: 348.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 257.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.113.89
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 146.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.113.200
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 178, 标记人数: 207, BTN 网络发送到此 Peer 的总流量: 348.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.114.142
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 87, BTN 网络发送到此 Peer 的总流量: 404.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 406.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.118.156
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 110, 标记人数: 123, BTN 网络发送到此 Peer 的总流量: 277.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -887,11 +1116,25 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 116, BTN 网络发送到此 Peer 的总流量: 602.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.154.27
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 318.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-180.112.182.142
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 140, BTN 网络发送到此 Peer 的总流量: 602.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.155.46
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 141, 标记人数: 161, BTN 网络发送到此 Peer 的总流量: 640.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.157.61
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 121, 标记人数: 126, BTN 网络发送到此 Peer 的总流量: 421.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.157.212
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 152, BTN 网络发送到此 Peer 的总流量: 592.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.172.210
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 152.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.178.11
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 136, 标记人数: 156, BTN 网络发送到此 Peer 的总流量: 436.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-180.112.182.159
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 318.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 422.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.182.0/24
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 41.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.191.187
@@ -899,11 +1142,17 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 95, BTN 网络发送到此 Peer 的总流量: 203.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.192.92
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 552.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.192.109
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 107, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 330.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.199.98
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 121, BTN 网络发送到此 Peer 的总流量: 332.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.230.24
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 115, 标记人数: 137, BTN 网络发送到此 Peer 的总流量: 628.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.230.186
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 138.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.112.240.99
@@ -911,26 +1160,83 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 484.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.9.156
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 99, BTN 网络发送到此 Peer 的总流量: 287.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.10.191
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 127, BTN 网络发送到此 Peer 的总流量: 649.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.20.170
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 422.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.21.97
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 137, 标记人数: 155, BTN 网络发送到此 Peer 的总流量: 528.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.23.62
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 126, BTN 网络发送到此 Peer 的总流量: 131.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.23.214
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 122, BTN 网络发送到此 Peer 的总流量: 114.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.32.118
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 117, BTN 网络发送到此 Peer 的总流量: 363.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.34.38
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 380.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.35.44
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 166, 标记人数: 190, BTN 网络发送到此 Peer 的总流量: 417.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.41.75
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 123, BTN 网络发送到此 Peer 的总流量: 452.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.52.236
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 145, BTN 网络发送到此 Peer 的总流量: 684.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.53.224
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 188, 标记人数: 213, BTN 网络发送到此 Peer 的总流量: 250.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 189, 标记人数: 214, BTN 网络发送到此 Peer 的总流量: 251.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.56.212
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 113, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 165.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 99, BTN 网络发送到此 Peer 的总流量: 257.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.61.186
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 110, BTN 网络发送到此 Peer 的总流量: 231.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.65.34
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 97, BTN 网络发送到此 Peer 的总流量: 357.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.143.185
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 53.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.146.148
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 159.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.146.244
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 149.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.161.122
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 266.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.194.176
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 92, BTN 网络发送到此 Peer 的总流量: 57.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.200.87
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 126, BTN 网络发送到此 Peer 的总流量: 166.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.207.37
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 85, BTN 网络发送到此 Peer 的总流量: 145.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.208.234
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 290.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 291.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.113.225.184
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 118, 标记人数: 131, BTN 网络发送到此 Peer 的总流量: 144.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.235.241
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 120, 标记人数: 146, BTN 网络发送到此 Peer 的总流量: 600.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.249.75
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 393.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.113.254.116
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 147, BTN 网络发送到此 Peer 的总流量: 354.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.3.224
@@ -938,10 +1244,13 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 160, 标记人数: 189, BTN 网络发送到此 Peer 的总流量: 543.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.15.32
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 187.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 117, BTN 网络发送到此 Peer 的总流量: 198.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.27.8
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 104, 标记人数: 119, BTN 网络发送到此 Peer 的总流量: 347.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 102, BTN 网络发送到此 Peer 的总流量: 184.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.34.243
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 105, 标记人数: 120, BTN 网络发送到此 Peer 的总流量: 348.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.35.174
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 321.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -950,11 +1259,20 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 124, BTN 网络发送到此 Peer 的总流量: 424.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.98.209
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 145, BTN 网络发送到此 Peer 的总流量: 512.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 146, BTN 网络发送到此 Peer 的总流量: 517.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.99.2
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 660.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.103.2
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 83, BTN 网络发送到此 Peer 的总流量: 128.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.109.243
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 231.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.116.127
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 109, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 236.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.119.141
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 113, BTN 网络发送到此 Peer 的总流量: 248.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.125.52
@@ -968,10 +1286,10 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 118, BTN 网络发送到此 Peer 的总流量: 360.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.127.248
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 115, 标记人数: 137, BTN 网络发送到此 Peer 的总流量: 534.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 116, 标记人数: 138, BTN 网络发送到此 Peer 的总流量: 534.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.148.172
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 122, 标记人数: 147, BTN 网络发送到此 Peer 的总流量: 335.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 148, BTN 网络发送到此 Peer 的总流量: 337.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.152.228
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 412.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -980,22 +1298,19 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 285.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.154.164
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 95, BTN 网络发送到此 Peer 的总流量: 199.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.166.48
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 114, 标记人数: 138, BTN 网络发送到此 Peer 的总流量: 356.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 180.114.183.60
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 1.2 GiB, BTN 网络从此 Peer 接收的总流量: 33.4 MiB
-180.165.48.207
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 29.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-182.245.53.32
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 1.1 GiB, BTN 网络从此 Peer 接收的总流量: 4.7 KiB
-183.134.160.174
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 149, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 1.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 150, 标记人数: 15, BTN 网络发送到此 Peer 的总流量: 1.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 183.241.23.98
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 128, 标记人数: 26, BTN 网络发送到此 Peer 的总流量: 747.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 105, 标记人数: 6, BTN 网络发送到此 Peer 的总流量: 4.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+187.14.241.149
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 24, BTN 网络发送到此 Peer 的总流量: 628.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.72.49.123
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 121, BTN 网络发送到此 Peer 的总流量: 539.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
@@ -1004,14 +1319,38 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 123, BTN 网络发送到此 Peer 的总流量: 295.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.5.205
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 415.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.8.130
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 130, BTN 网络发送到此 Peer 的总流量: 375.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.9.155
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 196, 标记人数: 231, BTN 网络发送到此 Peer 的总流量: 295.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.24.179
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 454.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.25.211
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 105, BTN 网络发送到此 Peer 的总流量: 296.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.32.26
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 125, BTN 网络发送到此 Peer 的总流量: 337.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.33.195
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 374.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.80.253
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 103, BTN 网络发送到此 Peer 的总流量: 165.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 375.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.81.71
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 104, BTN 网络发送到此 Peer 的总流量: 166.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.82.95
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 563.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.82.156
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 141, BTN 网络发送到此 Peer 的总流量: 376.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.83.175
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 113, BTN 网络发送到此 Peer 的总流量: 501.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.83.177
@@ -1022,17 +1361,17 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 117, BTN 网络发送到此 Peer 的总流量: 549.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 218.90.90.104
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 106, 标记人数: 77, BTN 网络发送到此 Peer 的总流量: 7.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 107, 标记人数: 76, BTN 网络发送到此 Peer 的总流量: 7.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 219.78.56.99
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 3.5 GiB, BTN 网络从此 Peer 接收的总流量: 20.0 MiB
-220.205.77.52
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 148, 标记人数: 169, BTN 网络发送到此 Peer 的总流量: 297.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 149, 标记人数: 170, BTN 网络发送到此 Peer 的总流量: 298.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.227.20.169
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 281.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 130, 标记人数: 161, BTN 网络发送到此 Peer 的总流量: 451.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.227.22.220
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 498.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.227.31.225
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 113, BTN 网络发送到此 Peer 的总流量: 243.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.227.34.69
@@ -1043,26 +1382,47 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 119, BTN 网络发送到此 Peer 的总流量: 477.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.227.64.241
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 635.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 636.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.227.68.18
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 550.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.227.74.58
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 567.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.227.121.203
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 110, BTN 网络发送到此 Peer 的总流量: 298.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.228.149.159
 # concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 235.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.228.165.148
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 284.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.228.191.219
+# concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 315.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 221.228.191.240
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 18, BTN 网络发送到此 Peer 的总流量: 114.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-222.91.65.160
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 113, BTN 网络发送到此 Peer 的总流量: 357.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 222.191.150.77
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 83, BTN 网络发送到此 Peer 的总流量: 90.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 120, BTN 网络发送到此 Peer 的总流量: 334.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.191.163.164
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 90.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 222.191.165.44
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 534.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 393.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.191.180.182
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 109, BTN 网络发送到此 Peer 的总流量: 534.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 222.191.181.118
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 99, 标记人数: 107, BTN 网络发送到此 Peer 的总流量: 319.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.191.183.197
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 89, 标记人数: 115, BTN 网络发送到此 Peer 的总流量: 236.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.191.196.175
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 95, BTN 网络发送到此 Peer 的总流量: 214.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 222.191.200.2
@@ -1070,32 +1430,48 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 119, 标记人数: 137, BTN 网络发送到此 Peer 的总流量: 520.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 222.191.203.67
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 153, 标记人数: 23, BTN 网络发送到此 Peer 的总流量: 3.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 20, BTN 网络发送到此 Peer 的总流量: 2.4 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 2408:8240:820:4a00::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 111, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 2.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 116, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 2.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 2408:8244:8500:1500::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 59.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 100, 标记人数: 29, BTN 网络发送到此 Peer 的总流量: 871.4 MiB, BTN 网络从此 Peer 接收的总流量: 64.0 KiB
+2408:8256:681:1f00::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 124, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 57.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 2409:8a1e:4d37:ca00::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 112, 标记人数: 18, BTN 网络发送到此 Peer 的总流量: 316.6 MiB, BTN 网络从此 Peer 接收的总流量: 16.0 KiB
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 285.6 MiB, BTN 网络从此 Peer 接收的总流量: 16.0 KiB
 2409:8a28:d02:7d00::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 3.6 GiB, BTN 网络从此 Peer 接收的总流量: 4.7 MiB
-240e:347:2700:5500::/56
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 130, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 776.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2409:8a30:8460:2500::/56
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 17, BTN 网络发送到此 Peer 的总流量: 318.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-240e:390:e91:4900::/56
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 566.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 14, BTN 网络发送到此 Peer 的总流量: 566.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240b:11:9720:8e00::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 16, BTN 网络发送到此 Peer 的总流量: 2.3 GiB, BTN 网络从此 Peer 接收的总流量: 4.6 MiB
+240e:347:2700:5500::/56
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 34, BTN 网络发送到此 Peer 的总流量: 2.3 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 32, BTN 网络发送到此 Peer 的总流量: 2.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 35, BTN 网络发送到此 Peer 的总流量: 2.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
 240e:3a3:b20d:4000::/52
 # concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 119, BTN 网络发送到此 Peer 的总流量: 390.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 121, 标记人数: 114, BTN 网络发送到此 Peer 的总流量: 639.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 122, 标记人数: 48, BTN 网络发送到此 Peer 的总流量: 1.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240e:3bc:490:e000::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 326.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 207.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 240e:914:1002::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 25, BTN 网络发送到此 Peer 的总流量: 2.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240e:b8f:a30:ab00::/56
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 69, BTN 网络发送到此 Peer 的总流量: 13.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+240e:b8f:a65:2400::/56
 
 # [Merged Comment]
 # overdownload-ips.txt
