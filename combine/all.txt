@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-02 12:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-02 14:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -2503,11 +2503,10 @@
 # [Sparkle3 不受信任投票] 封禁计数: 41, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 11.1 GiB, BTN网络从此Peer获取流量: 0 B
 110.53.69.164/30
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 0 B
-111.30.6.129
-# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.9 GiB, BTN网络从此Peer获取流量: 0 B
-111.30.6.142
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.5 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.6 GiB, BTN网络从此Peer获取流量: 0 B
+111.30.6.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.7 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.1 GiB, BTN网络从此Peer获取流量: 0 B
@@ -2836,8 +2835,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 36.248.74.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
-36.250.241.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
 58.216.104.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 58.218.202.0/24
@@ -2861,8 +2858,6 @@
 60.191.142.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 101.69.63.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
-101.70.158.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 110.85.5.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
@@ -2891,6 +2886,23 @@
 183.134.92.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 220.180.184.0/24
+
+# [Merged Comment]
+# overdownload-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# [Sparkle3 过量下载在线分析]  过量下载比率: 446.92% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 20.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+36.250.241.0/24
+# [Merged Comment]
+# overdownload-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# [Sparkle3 过量下载在线分析]  过量下载比率: 530.77% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 45.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 438.65% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 20.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+101.69.214.0/24
+# [Merged Comment]
+# overdownload-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# [Sparkle3 过量下载在线分析]  过量下载比率: 425.73% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 19.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+101.70.158.0/24
 
 # [Merged Comment]
 # overdownload-ips.txt
@@ -2942,12 +2954,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 34.9 GiB, BTN网络从此Peer获取流量: 10.0 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 18.2 GiB, BTN网络从此Peer获取流量: 0 B
 61.177.172.0/23
-
-# [Merged Comment]
-# overdownload-ips.txt
-# 恶意流量 IDC 地址黑名单 IPv4
-# [Sparkle3 过量下载在线分析]  过量下载比率: 530.77% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 45.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-101.69.214.0/24
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
