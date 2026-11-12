@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-12 20:00:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-12 20:23:29 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3121,6 +3121,16 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 72, 标记人数: 4, BTN 网络发送到此 Peer 的总流量: 24.7 GiB, BTN 网络从此 Peer 接收的总流量: 1.7 MiB
 240e:b8f:b1b:5700::/56
 
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 339, 种子: 1, 对方从报告者下载(to_peer_traffic): 897.1888900734483 GiB, 最近观测: 2026-11-12T19:53:08.523Z
+45.87.251.46
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 18, 连接记录: 150, 种子: 20, 对方从报告者下载(to_peer_traffic): 1.181988081605596 TiB, 最近观测: 2026-11-12T19:55:16.662Z
+88.99.151.25
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 247, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.132590796330077 TiB, 最近观测: 2026-11-12T11:02:53.76Z
+223.107.85.122
+
 # [Merged Comment]
 # geoip-blacklist.txt
 # concurrent-downloads-ips.txt
@@ -3712,13 +3722,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 12.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 7.7 GiB, BTN网络从此Peer获取流量: 0 B
 61.177.172.0/23
-
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 18, 连接记录: 136, 种子: 20, 对方从报告者下载(to_peer_traffic): 1.193904116682461 TiB, 最近观测: 2026-11-12T18:56:14.439Z
-88.99.151.25
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 247, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.132590796330077 TiB, 最近观测: 2026-11-12T11:02:53.76Z
-223.107.85.122
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
