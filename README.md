@@ -60,47 +60,16 @@ Sparkle 服务端每隔 1 小时就会自动更新此仓库中的对应规则文
 ## IP 规则说明
 
 * `combine/all.txt` 包含下列所有规则
-* `multi-dial.txt` 包含被观测到/用户报告的多拨下载的 IP 地址，这些 IP 段下批量部署大量客户端并进行吸血活动。此规则由人工手动更新
-* `untrusted-ips.txt` 被多位 BTN 的客户端标记为问题 Peer 的 IP 地址列表
-* `overdownload-ips.txt` - 由 BTN 网络统计的超量下载列表，当单一 IP 地址在 BTN 网络上下载总量超过种子大小的一定比例（目前为 250%）时才会加入此列表
-* `high-risk-ips.txt` - 符合近期流行的吸血特征且因吸血而被的 IP 地址列表，此列表内的 IP 不受共识机制的最低共认人数的限制
-* `tracker-high-risk-ips.txt` - 通过 Sparkle Tracker 的数据生成的 BTN 规则，借助 Tracker 的力量生成更加准确的规则数据
-* `aria2c.txt` - 使用 aria2 特征刷流的 IP 地址，按主机名分类，非完整列表
-* `cevskxsnm-10-idc.txt` - 分布在特定 IDC 下运行刷流业务的 IP 地址，按主机名分类，非完整列表
-* `gopeeddev.txt` - 执行 Gopeed dev 刷流业务的 IP 地址，按主机名分类，非完整列表
-* `poonisxq-10.txt` - 某运行电影文件分发业务公司的刷流边缘节点，由于边缘节点过多，因此本列表未按照主机名分类，非完整列表，可能频繁变动
-* `tiantang-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行甜糖 PCDN 节点的 IP 地址列表，非完整列表
-* `wangxin-pcdn.txt` - 由 BTN 用户上报封禁列表时，整理过程发现运行网心云 PCDN 节点的 IP 地址列表，非完整列表
-* `concurrent-downloads-ips.txt` - 同时进行大量下载任务的 IP 地址列表
-* `random-identity.txt` - 使用随机 PeerID + 客户端名称进行吸血的 IP 地址列表
-* `rain0.0.0.txt` - `Rain 0.0.0` 特征 IP 名单
+* `AS58461.txt` 包含 AS58461 自治域 IP 地址，原因：流量异常滥用
+* `cevskxsnm-10-idc.txt` 包含某已通过直接证据确认恶意活动的 IDC 服务商的 IP 地址
+* `concurrent-downloads-ips.txt` 【BTN更新】包含同时启动大量下载的 IP 地址，数量超过了正常人类可创建的合理范围
+* `geoip-blacklist.txt` 【BTN更新】同步 BTN 上的 GeoIP 黑名单 IP 地址列表，通常是因为区域网络被极大量恶意流量占用且对网络正面贡献微乎其微
+* `malicious-aria2.txt` 包含部分 Aria2 恶意活动常出现网络段
+* `massive-download.txt` 【BTN更新】包含短时间内产生大量下载活动的 IP 地址
+* `multi-dial.txt` 由人工维护的恶意 IP 地址列表
+* `overdownload-ips.txt` 【BTN更新】包含存在对单一种子的下载量远超过种子本身体积的活动的 IP 地址
+* `untrusted-ips.txt` 【BTN更新】同步 BTN 网络上分析确认不可信的 IP 地址
 
-## 被移除的规则
-
-* ~~`gopeed dev.txt` Gopeed dev 修改版本，已经变成被人拿来吸血的形状了~~
-  * 已合并到 `random-peerid.txt`
-* ~~`progress-rewind.txt` 包含了被观测到为进度重置/回退的 IP 地址，这通常意味着恶意刷流（该 IP 集的内容不会增量，而是每次替换）~~
-  * 已合并到 `untrusted-ips.txt`
-* ~~`gitlab.i.ljyun.cn-hangzhou-monitoring.txt` 包含被观测到使用 `gitlab.i.ljyun.cn/hangzhou/monitoring (devel) (anacrolix/torrent v1.55.0)` 的 IP 地址，此特征 Peers 使用较为固定的 IP 段刷流~~ 
-  * 长时间未再发现拥有此特征的 IP 地址
-* ~~`ipv6-dhcp-address.txt` - 使用 DHCP 分配的 IPV6 地址（IPV6 常使用 SLAAC 而非 DHCP），根据 Sparkle 统计数据显示，大部分 DHCP 的 IPV6 地址都为吸血 Peer （由于更改 IPV6 后缀地址绕过反吸血和用作混淆）。此规则内包含**已被用户标记为吸血**的 DHCP IPV6 地址。无封禁记录的 DHCP IPV6 地址并不会被一刀切到此规则内。~~
-  * 改进了识别方式并已合并到 `strange_ipv6_block.txt`
-* ~~`dot1_v6_tagging.txt` 包含以 ::1 结尾的 IPV6 地址，考虑到大部分正常用户都是无状态 IPV6，这种特征极度明显的有状态 IPV6 非常可疑，且出现明显吸血行为~~
-  * 已合并到 `strange_ipv6_block.txt`
-* ~~`hp_torrent.txt` 包含被观测到的 `hp/torrent` 的 IP 地址~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持
-* ~~`dt_torrent.txt` 包含被观测到的 `dt/torrent` 的 IP 地址~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持
-* ~~`go.torrent dev 20181121.txt` 包含被观测到的百度网盘离线下载的 IP 地址~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持
-* ~~`0xde-0xad-0xbe-0xef.txt` 包含被观测到的 `ޭ__` 乱码客户端的 IP 地址~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持
-* ~~`123pan.txt` 包含被观测到使用 `offline-download (devel) (anacrolix/torrent unknown)` 的 IP 地址，此 UA 由 123 云盘使用~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持
-* ~~`random-peerid.txt` 包含了全随机 PeerID IP 地址列表，这是对 BT 网络的破坏，绝对恶意的行为[(ref)](https://github.com/PBH-BTN/PeerBanHelper/issues/309)~~
-  * 建议使用客户端名称过滤，主流下载器已全部支持 (PeerID 随机但客户端名称不变)
-* ~~`strange_ipv6_block.txt` - 在数据筛选检查过程中发现的一些异常的 IPV6 地址~~
-  * 误伤严重
 ## 协议
 
 PBH-BTN 为所有 BitTorrent 用户免费提供和维护这份规则，本规则使用[知识共享 署名 4.0 国际版 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可。以下是本许可的重要内容摘要：
