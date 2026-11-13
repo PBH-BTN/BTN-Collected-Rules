@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-13 10:31:17 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-13 11:31:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3074,10 +3074,13 @@
 123.156.68.0/23
 
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 339, 种子: 1, 对方从报告者下载(to_peer_traffic): 897.1888900734483 GiB, 最近观测: 2026-11-12T19:53:08.523Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 117, 种子: 1, 对方从报告者下载(to_peer_traffic): 888.616492126137 GiB, 最近观测: 2026-11-13T10:53:34.644Z
+39.76.214.60
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 330, 种子: 1, 对方从报告者下载(to_peer_traffic): 877.1335067749023 GiB, 最近观测: 2026-11-12T19:53:08.523Z
 45.87.251.46
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 163, 种子: 1, 对方从报告者下载(to_peer_traffic): 875.1137930341064 GiB, 最近观测: 2026-11-13T09:59:30.593Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 150, 种子: 1, 对方从报告者下载(to_peer_traffic): 891.3292076997459 GiB, 最近观测: 2026-11-13T10:07:16.694Z
 240e:368:2803:c00::/56
 
 # [Merged Comment]
@@ -3288,6 +3291,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.9 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8220:1917:6a00::/56
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 21, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 62.7 GiB, BTN网络从此Peer获取流量: 0 B
+240e:f7:c000:300::/56
 
 # 恶意 Aria2 IP 地址
 # 222 个吸血唯一地址
