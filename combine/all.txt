@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-13 09:31:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-13 10:31:17 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3076,6 +3076,9 @@
 # massive-download.txt
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 339, 种子: 1, 对方从报告者下载(to_peer_traffic): 897.1888900734483 GiB, 最近观测: 2026-11-12T19:53:08.523Z
 45.87.251.46
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 163, 种子: 1, 对方从报告者下载(to_peer_traffic): 875.1137930341064 GiB, 最近观测: 2026-11-13T09:59:30.593Z
+240e:368:2803:c00::/56
 
 # [Merged Comment]
 # geoip-blacklist.txt
@@ -3294,10 +3297,8 @@
 # multi-dial.txt
 # Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
-# overdownload-ips.txt
 # 恶意 Aria2 IP 地址
 # 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
-# [Sparkle3 过量下载在线分析]  过量下载比率: 67333.26% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 26.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # 224 个吸血唯一地址
 61.160.192.0/18
 
@@ -3351,11 +3352,14 @@
 221.229.52.0/24
 
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 6477.88% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 18.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-116.237.220.99
+# [Sparkle3 过量下载在线分析]  过量下载比率: 18277.41% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 89.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+123.113.110.151
 # overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 37319.19% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 32.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-117.86.125.8
+# [Sparkle3 过量下载在线分析]  过量下载比率: 333.55% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 32.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+2408:823c:9c12:9000::/56
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 518.84% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 19.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+2409:8a60:2c11:6600::/56
 
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
