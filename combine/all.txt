@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 06:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 08:31:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -3036,8 +3036,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 36.248.74.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
-36.250.241.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
 58.216.104.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 58.218.202.0/24
@@ -3095,15 +3093,18 @@
 220.180.184.0/24
 
 # [Merged Comment]
-# multi-dial.txt
+# overdownload-ips.txt
 # 恶意流量 IDC 地址黑名单 IPv4
-# qBittorrent/4.6.7 刷流 福建泉州
-36.250.249.0/24
+# [Sparkle3 过量下载在线分析]  过量下载比率: 6785.99% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+36.250.241.0/24
+
 # [Merged Comment]
 # multi-dial.txt
 # 恶意流量 IDC 地址黑名单 IPv4
-# qb467 刷流
-123.156.68.0/23
+# overdownload-ips.txt
+# qBittorrent/4.6.7 刷流 福建泉州
+# [Sparkle3 过量下载在线分析]  过量下载比率: 12749.68% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 39.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+36.250.249.0/24
 
 # [Merged Comment]
 # geoip-blacklist.txt
@@ -3252,7 +3253,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.9 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8220:1917:6a00::/56
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 27, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 67.0 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 31, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 70.1 GiB, BTN网络从此Peer获取流量: 0 B
 240e:f7:c000:300::/56
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.8 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3303,7 +3304,7 @@
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 22, 种子: 3, 对方从报告者下载(to_peer_traffic): 1.091929726320813 TiB, 最近观测: 2026-11-16T16:52:14.28Z
 110.255.216.163
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 233, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.112090329183956 TiB, 最近观测: 2026-11-16T21:05:04.802Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 222, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.110909243534479 TiB, 最近观测: 2026-11-16T21:05:04.802Z
 2001:da8:204:1100::/56
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
@@ -3328,6 +3329,12 @@
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 98, 标记人数: 108, BTN 网络发送到此 Peer 的总流量: 507.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 362.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 114.224.0.0/15
+
+# [Merged Comment]
+# multi-dial.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# qb467 刷流
+123.156.68.0/23
 
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
