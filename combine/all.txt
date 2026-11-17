@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 15:31:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 16:31:15 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3036,8 +3036,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 101.69.214.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
-101.70.158.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
 110.85.5.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 112.29.66.0/24
@@ -3097,6 +3095,11 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 # [Sparkle3 过量下载在线分析]  过量下载比率: 6790.57% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 36.250.241.0/24
+# [Merged Comment]
+# overdownload-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# [Sparkle3 过量下载在线分析]  过量下载比率: 4792.94% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 30.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+101.70.158.0/24
 
 # [Merged Comment]
 # multi-dial.txt
@@ -3297,6 +3300,19 @@
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 221.229.52.0/24
 
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 368, 种子: 1, 对方从报告者下载(to_peer_traffic): 895.855908498168 GiB, 最近观测: 2026-11-17T15:38:55.139Z
+113.81.50.217
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 273, 种子: 1, 对方从报告者下载(to_peer_traffic): 879.9898382686079 GiB, 最近观测: 2026-11-17T13:08:19.943Z
+125.114.60.159
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 208, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.099676380621531 TiB, 最近观测: 2026-11-16T21:05:04.802Z
+2001:da8:204:1100::/56
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 74, 种子: 1, 对方从报告者下载(to_peer_traffic): 870.3104178663344 GiB, 最近观测: 2026-11-17T09:17:49.183Z
+240e:390:57e:7b00::/56
+
 # [Merged Comment]
 # geoip-blacklist.txt
 # overdownload-ips.txt
@@ -3338,16 +3354,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 10.4 GiB, BTN网络从此Peer获取流量: 0 B
 123.148.123.0/24
-
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 273, 种子: 1, 对方从报告者下载(to_peer_traffic): 879.9898382686079 GiB, 最近观测: 2026-11-17T13:08:19.943Z
-125.114.60.159
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 208, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.099676380621531 TiB, 最近观测: 2026-11-16T21:05:04.802Z
-2001:da8:204:1100::/56
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 74, 种子: 1, 对方从报告者下载(to_peer_traffic): 870.3104178663344 GiB, 最近观测: 2026-11-17T09:17:49.183Z
-240e:390:57e:7b00::/56
 
 # [Merged Comment]
 # Datacenter qBittorrent/4.6.7
