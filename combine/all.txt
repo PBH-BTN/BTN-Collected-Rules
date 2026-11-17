@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 01:31:09 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-17 02:31:11 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3268,9 +3268,6 @@
 # massive-download.txt
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 233, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.112090329183956 TiB, 最近观测: 2026-11-16T21:05:04.802Z
 2001:da8:204:1100::/56
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 12, 种子: 1, 对方从报告者下载(to_peer_traffic): 859.3570033889264 GiB, 最近观测: 2026-11-16T03:06:26.291Z
-240e:b8f:1d71:3e00::/56
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
