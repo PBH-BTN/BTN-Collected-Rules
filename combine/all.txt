@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-18 15:31:16 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-18 16:31:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -3219,12 +3219,16 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 183.131.116.0/24
 
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 231, 种子: 1, 对方从报告者下载(to_peer_traffic): 849.2279390990734 GiB, 最近观测: 2026-11-18T15:46:37.317Z
+59.53.45.23
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 176, 种子: 2, 对方从报告者下载(to_peer_traffic): 888.8077612873167 GiB, 最近观测: 2026-11-18T03:01:00.084Z
+2408:8256:1080:3f00::/56
+
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.0 GiB, BTN网络从此Peer获取流量: 19.3 MiB
 60.188.85.174/31
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.0 GiB, BTN网络从此Peer获取流量: 0 B
-60.188.119.24/30
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 32, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 88.9 GiB, BTN网络从此Peer获取流量: 0 B
 79.127.224.132/31
@@ -3319,10 +3323,6 @@
 # AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
-
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 176, 种子: 2, 对方从报告者下载(to_peer_traffic): 888.8077612873167 GiB, 最近观测: 2026-11-18T03:01:00.084Z
-2408:8256:1080:3f00::/56
 
 # [Merged Comment]
 # geoip-blacklist.txt
