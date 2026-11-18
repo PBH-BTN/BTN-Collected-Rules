@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-18 03:31:15 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-18 04:31:19 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3068,26 +3068,26 @@
 220.180.184.0/24
 
 # [Merged Comment]
-# overdownload-ips.txt
 # 恶意流量 IDC 地址黑名单 IPv4
+# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 6790.57% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 14.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 36.250.241.0/24
 # [Merged Comment]
-# overdownload-ips.txt
 # 恶意流量 IDC 地址黑名单 IPv4
+# overdownload-ips.txt
 # [Sparkle3 过量下载在线分析]  过量下载比率: 4792.94% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 30.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 101.70.158.0/24
 
 # [Merged Comment]
-# multi-dial.txt
 # 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
 # overdownload-ips.txt
 # qBittorrent/4.6.7 刷流 福建泉州
 # [Sparkle3 过量下载在线分析]  过量下载比率: 12750.88% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 39.0 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 36.250.249.0/24
 # [Merged Comment]
-# multi-dial.txt
 # 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
 # overdownload-ips.txt
 # qb467 刷流
 # [Sparkle3 过量下载在线分析]  过量下载比率: 5441.02% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
@@ -3189,18 +3189,17 @@
 221.228.128.0/18
 
 # [Merged Comment]
-# Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
 58.216.29.0/24
 # [Merged Comment]
-# Datacenter qBittorrent/4.6.7
 # 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
 183.131.116.0/24
 
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 10.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 20.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 6.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.6 GiB, BTN网络从此Peer获取流量: 0 B
 58.222.33.0/24
 # untrusted-ips.txt
@@ -3247,17 +3246,17 @@
 61.147.208.0/20
 
 # [Merged Comment]
-# multi-dial.txt
-# Datacenter qBittorrent/4.6.7
-# 恶意流量 IDC 地址黑名单 IPv4
 # 恶意 Aria2 IP 地址
-# 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
+# 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
+# multi-dial.txt
 # 224 个吸血唯一地址
+# 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
 
 # [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
 # untrusted-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.9 GiB, BTN网络从此Peer获取流量: 72.1 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 11.6 GiB, BTN网络从此Peer获取流量: 104.3 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 13.8 GiB, BTN网络从此Peer获取流量: 6.9 MiB
@@ -3276,6 +3275,9 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 519.88% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 23.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 360.81% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 21.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 101.204.225.0/24
+# overdownload-ips.txt
+# [Sparkle3 过量下载在线分析]  过量下载比率: 1639.18% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 172.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+2001:da8:9000:a800::/56
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
@@ -3289,13 +3291,13 @@
 221.229.52.0/24
 
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 265, 种子: 1, 对方从报告者下载(to_peer_traffic): 870.2292933948338 GiB, 最近观测: 2026-11-17T15:38:55.139Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 261, 种子: 1, 对方从报告者下载(to_peer_traffic): 866.133795804344 GiB, 最近观测: 2026-11-17T15:38:55.139Z
 113.81.50.217
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 170, 种子: 2, 对方从报告者下载(to_peer_traffic): 853.294036006555 GiB, 最近观测: 2026-11-18T02:50:29.848Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 176, 种子: 2, 对方从报告者下载(to_peer_traffic): 888.8077612873167 GiB, 最近观测: 2026-11-18T03:01:00.084Z
 2408:8256:1080:3f00::/56
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 141, 种子: 2, 对方从报告者下载(to_peer_traffic): 860.979991612956 GiB, 最近观测: 2026-11-18T02:58:44.222Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 2, 连接记录: 143, 种子: 2, 对方从报告者下载(to_peer_traffic): 926.8963230475783 GiB, 最近观测: 2026-11-18T03:00:20.613Z
 2408:8270:40:6b00::/56
 # massive-download.txt
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 74, 种子: 1, 对方从报告者下载(to_peer_traffic): 870.3104178663344 GiB, 最近观测: 2026-11-17T09:17:49.183Z
@@ -3303,30 +3305,29 @@
 
 # [Merged Comment]
 # geoip-blacklist.txt
-# overdownload-ips.txt
 # concurrent-downloads-ips.txt
+# overdownload-ips.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-# [Sparkle3 过量下载在线分析]  过量下载比率: 17310.57% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 23.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 470.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 96, BTN 网络发送到此 Peer 的总流量: 218.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 96, BTN 网络发送到此 Peer 的总流量: 361.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 92, BTN 网络发送到此 Peer 的总流量: 207.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 236.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 17310.57% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 23.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 114.224.0.0/15
 # [Merged Comment]
 # geoip-blacklist.txt
-# overdownload-ips.txt
 # concurrent-downloads-ips.txt
+# overdownload-ips.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 407.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 467.02% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 23.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 665.86% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 19.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 407.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 121.235.0.0/16
 
 # [Merged Comment]
-# overdownload-ips.txt
 # untrusted-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 10043.72% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 21.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# overdownload-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 6.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 33.6 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3334,23 +3335,24 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 16.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 13.6 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 10043.72% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 21.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 116.148.193.0/24
 # [Merged Comment]
-# overdownload-ips.txt
 # untrusted-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 4949.67% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
+# overdownload-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 4, BTN网络发送到此Peer流量: 25.8 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 4, BTN网络发送到此Peer流量: 7.7 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 8, 合并记录数量: 4, BTN网络发送到此Peer流量: 7.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 7.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 11, 合并记录数量: 8, BTN网络发送到此Peer流量: 10.5 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 10.4 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 过量下载在线分析]  过量下载比率: 4949.67% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.1 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 123.148.123.0/24
 
 # [Merged Comment]
-# Datacenter qBittorrent/4.6.7
-# 恶意流量 IDC 地址黑名单 IPv4
 # AS58461.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# Datacenter qBittorrent/4.6.7
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
 
@@ -3363,10 +3365,10 @@
 
 # [Merged Comment]
 # geoip-blacklist.txt
-# overdownload-ips.txt
 # 恶意 Aria2 IP 地址
+# overdownload-ips.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-# [Sparkle3 过量下载在线分析]  过量下载比率: 52212.71% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 37.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # 12851 个吸血唯一地址 - 江苏省 IDC 机房段
+# [Sparkle3 过量下载在线分析]  过量下载比率: 52212.71% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 37.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 240e:978::/30
 
