@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-22 13:31:17 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-22 14:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3141,6 +3141,9 @@
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 2.4 GiB, BTN网络从此Peer获取流量: 0 B
 2408:8256:3523:fb00::/56
+# untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 6.3 GiB, BTN网络从此Peer获取流量: 0 B
+2604:a00:2df0::/56
 
 # [Merged Comment]
 # geoip-blacklist.txt
@@ -3455,17 +3458,17 @@
 61.147.208.0/20
 
 # [Merged Comment]
-# 恶意 Aria2 IP 地址
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# 恶意 Aria2 IP 地址
 # multi-dial.txt
 # 224 个吸血唯一地址
 # 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
 
 # [Merged Comment]
-# untrusted-ips.txt
 # 恶意流量 IDC 地址黑名单 IPv4
+# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 6.0 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.1 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 14.8 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3506,8 +3509,11 @@
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 56, 种子: 2, 对方从报告者下载(to_peer_traffic): 878.5067393323406 GiB, 最近观测: 2026-11-22T12:02:57.652Z
 112.201.129.106
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 7, 连接记录: 70, 种子: 13, 对方从报告者下载(to_peer_traffic): 864.2534681921824 GiB, 最近观测: 2026-11-22T09:19:51.552Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 7, 连接记录: 59, 种子: 12, 对方从报告者下载(to_peer_traffic): 863.1980131082237 GiB, 最近观测: 2026-11-22T09:19:51.552Z
 183.206.29.71
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 212, 种子: 1, 对方从报告者下载(to_peer_traffic): 852.5477033210918 GiB, 最近观测: 2026-11-22T13:03:55.782Z
+240e:310:6c5a:6300::/56
 
 # [Merged Comment]
 # geoip-blacklist.txt
@@ -3566,9 +3572,9 @@
 123.156.68.0/23
 
 # [Merged Comment]
-# AS58461.txt
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
+# AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
 
