@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-22 09:31:11 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-22 10:31:13 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # concurrent-downloads-ips.txt
@@ -3588,6 +3588,10 @@
 # AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
+
+# massive-download.txt
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 7, 连接记录: 70, 种子: 13, 对方从报告者下载(to_peer_traffic): 864.2534681921824 GiB, 最近观测: 2026-11-22T09:19:51.552Z
+183.206.29.71
 
 # [Merged Comment]
 # geoip-blacklist.txt
