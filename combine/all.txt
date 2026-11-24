@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-24 07:31:13 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-24 08:31:14 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3032,6 +3032,8 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 101.69.214.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
+101.70.158.0/24
+# 恶意流量 IDC 地址黑名单 IPv4
 110.85.5.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 112.29.66.0/24
@@ -3065,6 +3067,11 @@
 # multi-dial.txt
 # qBittorrent/4.6.7 刷流 福建泉州
 36.250.249.0/24
+# [Merged Comment]
+# 恶意流量 IDC 地址黑名单 IPv4
+# multi-dial.txt
+# qb467 刷流
+123.156.68.0/23
 
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3289,12 +3296,6 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 340.15% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 51.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 62.115.191.221
 
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# overdownload-ips.txt
-# [Sparkle3 过量下载在线分析]  过量下载比率: 353.58% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 88.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-101.70.158.0/24
-
 # concurrent-downloads-ips.txt
 # [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 103, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 20.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
 107.182.123.174
@@ -3320,10 +3321,10 @@
 221.229.52.0/24
 
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 145, 种子: 4, 对方从报告者下载(to_peer_traffic): 1.001377634699564 TiB, 最近观测: 2026-11-23T17:59:24.713Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 130, 种子: 3, 对方从报告者下载(to_peer_traffic): 1023.98064846918 GiB, 最近观测: 2026-11-23T17:59:24.713Z
 121.239.31.4
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 10, 连接记录: 620, 种子: 18, 对方从报告者下载(to_peer_traffic): 1019.578834531829 GiB, 最近观测: 2026-11-23T15:27:59.719Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 7, 连接记录: 380, 种子: 13, 对方从报告者下载(to_peer_traffic): 955.1106633292513 GiB, 最近观测: 2026-11-23T15:27:59.719Z
 175.8.37.197
 # massive-download.txt
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 181, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.954431373571424 TiB, 最近观测: 2026-11-23T18:12:44.115Z
@@ -3332,18 +3333,8 @@
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 423, 种子: 3, 对方从报告者下载(to_peer_traffic): 856.3287437502295 GiB, 最近观测: 2026-11-23T23:43:23.908Z
 2409:8a18:923:7000::/56
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 89, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.735773288441123 TiB, 最近观测: 2026-11-23T09:48:06.333Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 66, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.563220788944818 TiB, 最近观测: 2026-11-23T09:48:06.333Z
 2409:8a28:e31:ba00::/56
-
-# [Merged Comment]
-# 恶意流量 IDC 地址黑名单 IPv4
-# multi-dial.txt
-# overdownload-ips.txt
-# qb467 刷流
-# [Sparkle3 过量下载在线分析]  过量下载比率: 426.55% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 107.3 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 过量下载在线分析]  过量下载比率: 346.60% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 87.2 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 过量下载在线分析]  过量下载比率: 327.84% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 82.4 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-123.156.68.0/23
 
 # [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
