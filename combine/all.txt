@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-26 19:31:13 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-26 20:31:16 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3003,7 +3003,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 5.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 18.0 GiB, BTN网络从此Peer获取流量: 123.3 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.4 GiB, BTN网络从此Peer获取流量: 4.9 MiB
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 9.1 GiB, BTN网络从此Peer获取流量: 0 B
 60.188.119.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.6 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3021,7 +3020,11 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 19.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 4.8 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 25.8 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 13.3 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 5.3 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.4 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 23.6 GiB, BTN网络从此Peer获取流量: 0 B
 116.148.193.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 280, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 130.1 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3304,10 +3307,10 @@
 221.229.52.0/24
 
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 791, 种子: 3, 对方从报告者下载(to_peer_traffic): 917.3659597821533 GiB, 最近观测: 2026-11-26T11:05:17.689Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 782, 种子: 3, 对方从报告者下载(to_peer_traffic): 915.1212469525635 GiB, 最近观测: 2026-11-26T11:05:17.689Z
 120.219.54.103
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 4, 连接记录: 102, 种子: 3, 对方从报告者下载(to_peer_traffic): 943.5552487047389 GiB, 最近观测: 2026-11-26T11:15:28.097Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 66, 种子: 2, 对方从报告者下载(to_peer_traffic): 874.0885189119727 GiB, 最近观测: 2026-11-26T11:15:28.097Z
 218.88.196.94
 
 # [Merged Comment]
