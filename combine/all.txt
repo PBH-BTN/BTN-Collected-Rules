@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-27 02:31:12 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-27 03:31:19 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -472,12 +472,6 @@
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 58.193.112.0/20
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-58.214.0.0/15
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-58.219.0.0/17
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 58.223.52.0/22
@@ -1383,12 +1377,6 @@
 121.58.64.0/18
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-121.235.0.0/16
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-121.238.0.0/17
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 121.248.224.0/19
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 海南省 / 海口市
@@ -1791,12 +1779,6 @@
 180.103.96.0/22
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-180.112.0.0/15
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-180.114.0.0/16
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 180.208.128.0/17
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
@@ -2091,9 +2073,6 @@
 218.77.128.0/17
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-218.90.0.0/18
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 218.90.64.0/19
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
@@ -2235,13 +2214,7 @@
 221.199.224.0/19
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-221.227.0.0/17
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 221.228.0.0/17
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-221.228.128.0/18
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 221.228.192.0/19
@@ -2323,9 +2296,6 @@
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 222.191.120.0/21
-# geoip-blacklist.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-222.191.128.0/17
 # geoip-blacklist.txt
 # Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
 223.2.120.0/21
@@ -3039,12 +3009,6 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.4 GiB, BTN网络从此Peer获取流量: 4.9 MiB
 60.188.119.0/24
 # untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 14.8 GiB, BTN网络从此Peer获取流量: 0 B
-61.177.172.136/30
-# untrusted-ips.txt
-# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 20.2 GiB, BTN网络从此Peer获取流量: 0 B
-61.177.172.148/31
-# untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.6 GiB, BTN网络从此Peer获取流量: 0 B
 79.127.224.130/31
 # untrusted-ips.txt
@@ -3081,7 +3045,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 8, 不信任票数: 7, 合并记录数量: 4, BTN网络发送到此Peer流量: 17.9 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 4, BTN网络发送到此Peer流量: 12.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 2, BTN网络发送到此Peer流量: 4.6 GiB, BTN网络从此Peer获取流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 35, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 16.9 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 41, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 20.9 GiB, BTN网络从此Peer获取流量: 0 B
 123.148.123.0/24
 # untrusted-ips.txt
 # [Sparkle3 不受信任投票] 封禁计数: 7, 不信任票数: 7, 合并记录数量: 2, BTN网络发送到此Peer流量: 3.2 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3137,8 +3101,6 @@
 # 恶意流量 IDC 地址黑名单 IPv4
 60.191.142.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
-61.177.173.0/24
-# 恶意流量 IDC 地址黑名单 IPv4
 101.69.63.0/24
 # 恶意流量 IDC 地址黑名单 IPv4
 101.69.214.0/24
@@ -3180,6 +3142,103 @@
 36.250.249.0/24
 
 # [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 324.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 86, BTN 网络发送到此 Peer 的总流量: 151.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 82, BTN 网络发送到此 Peer 的总流量: 298.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.214.0.0/15
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 85, BTN 网络发送到此 Peer 的总流量: 335.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+58.219.0.0/17
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 421.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 343.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 156.5 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 83, BTN 网络发送到此 Peer 的总流量: 262.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.223.0.0/16
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 467.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 244.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 229.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+114.224.0.0/15
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 96, BTN 网络发送到此 Peer 的总流量: 430.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 89, BTN 网络发送到此 Peer 的总流量: 361.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+117.84.0.0/15
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 94, 标记人数: 100, BTN 网络发送到此 Peer 的总流量: 246.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 95, BTN 网络发送到此 Peer 的总流量: 356.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 368.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 82, BTN 网络发送到此 Peer 的总流量: 232.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 85, BTN 网络发送到此 Peer 的总流量: 455.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.235.0.0/16
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 82, BTN 网络发送到此 Peer 的总流量: 267.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+121.238.0.0/17
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 98, BTN 网络发送到此 Peer 的总流量: 203.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 87, BTN 网络发送到此 Peer 的总流量: 214.8 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 277.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 83, 标记人数: 85, BTN 网络发送到此 Peer 的总流量: 195.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 80, 标记人数: 82, BTN 网络发送到此 Peer 的总流量: 159.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.112.0.0/15
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 88, 标记人数: 91, BTN 网络发送到此 Peer 的总流量: 267.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 85, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 251.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+180.114.0.0/16
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 101, BTN 网络发送到此 Peer 的总流量: 213.9 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 82, 标记人数: 84, BTN 网络发送到此 Peer 的总流量: 318.4 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+218.90.0.0/18
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 84, 标记人数: 88, BTN 网络发送到此 Peer 的总流量: 249.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.227.0.0/17
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 281.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+221.228.128.0/18
+# [Merged Comment]
+# geoip-blacklist.txt
+# concurrent-downloads-ips.txt
+# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 87, 标记人数: 90, BTN 网络发送到此 Peer 的总流量: 217.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+222.191.128.0/17
+
+# [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
 58.216.29.0/24
@@ -3192,51 +3251,41 @@
 # 222 个吸血唯一地址
 61.147.208.0/20
 
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 11, BTN 网络发送到此 Peer 的总流量: 3.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-61.150.43.41
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 187, 标记人数: 69, BTN 网络发送到此 Peer 的总流量: 2.6 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-82.129.255.18
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 555.1 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-95.211.3.139
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 19, BTN 网络发送到此 Peer 的总流量: 2.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-113.140.3.70
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 12, BTN 网络发送到此 Peer 的总流量: 747.6 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-124.114.148.31
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 13, BTN 网络发送到此 Peer 的总流量: 7.3 GiB, BTN 网络从此 Peer 接收的总流量: 8.6 KiB
-145.239.143.44
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 45, BTN 网络发送到此 Peer 的总流量: 13.0 GiB, BTN 网络从此 Peer 接收的总流量: 64.0 KiB
-185.203.56.44
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 157, 标记人数: 61, BTN 网络发送到此 Peer 的总流量: 2.5 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-196.219.242.135
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 102, 标记人数: 33, BTN 网络发送到此 Peer 的总流量: 1.8 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-218.80.118.46
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 108, 标记人数: 37, BTN 网络发送到此 Peer 的总流量: 5.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-223.66.231.93
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 10, BTN 网络发送到此 Peer 的总流量: 6.0 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2409:8a55:4f14:7000::/56
-# concurrent-downloads-ips.txt
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 93, 标记人数: 26, BTN 网络发送到此 Peer 的总流量: 7.1 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
-2a0a:e340:1001:400::/56
-
 # [Merged Comment]
+# 恶意 Aria2 IP 地址
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
-# 恶意 Aria2 IP 地址
 # multi-dial.txt
 # 224 个吸血唯一地址
 # 复查于 26/8/12 qBittorrent/4.6.7 刷流 (290 条进度回退) [!临近 cevskxsnm-10-idc.txt IP段!]
 61.160.192.0/18
+
+# [Merged Comment]
+# untrusted-ips.txt
+# 恶意流量 IDC 地址黑名单 IPv4
+# [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 2, BTN网络发送到此Peer流量: 15.5 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 20.2 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 13, 不信任票数: 13, 合并记录数量: 8, BTN网络发送到此Peer流量: 25.4 GiB, BTN网络从此Peer获取流量: 0 B
+61.177.172.0/23
+
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 92, 标记人数: 42, BTN 网络发送到此 Peer 的总流量: 2.2 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+82.129.255.18
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 97, 标记人数: 3, BTN 网络发送到此 Peer 的总流量: 630.7 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
+95.211.3.139
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 96, 标记人数: 34, BTN 网络发送到此 Peer 的总流量: 540.7 MiB, BTN 网络从此 Peer 接收的总流量: 65.8 KiB
+123.202.164.82
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 123, 标记人数: 41, BTN 网络发送到此 Peer 的总流量: 9.5 GiB, BTN 网络从此 Peer 接收的总流量: 64.0 KiB
+185.203.56.44
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 95, 标记人数: 44, BTN 网络发送到此 Peer 的总流量: 2.7 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+196.219.242.135
+# concurrent-downloads-ips.txt
+# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 86, 标记人数: 26, BTN 网络发送到此 Peer 的总流量: 3.9 GiB, BTN 网络从此 Peer 接收的总流量: 0 B
+2a0a:e340:1001:400::/56
 
 # 26/8/12 libtorrent/2.0.7.0 江苏/河北刷流
 112.87.174.0/24
@@ -3250,32 +3299,6 @@
 221.229.52.0/24
 
 # [Merged Comment]
-# geoip-blacklist.txt
-# concurrent-downloads-ips.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 81, 标记人数: 85, BTN 网络发送到此 Peer 的总流量: 347.3 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-114.223.0.0/16
-# [Merged Comment]
-# geoip-blacklist.txt
-# concurrent-downloads-ips.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 90, 标记人数: 93, BTN 网络发送到此 Peer 的总流量: 338.2 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-114.224.0.0/15
-# [Merged Comment]
-# geoip-blacklist.txt
-# concurrent-downloads-ips.txt
-# Sparkle3 GeoIP 城市黑名单 | CN 江苏省 / 无锡市
-# [Sparkle3 并发下载在线分析] 过去给定时间内并发下载计数: 91, 标记人数: 97, BTN 网络发送到此 Peer 的总流量: 319.0 MiB, BTN 网络从此 Peer 接收的总流量: 0 B
-117.84.0.0/15
-
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 624, 种子: 3, 对方从报告者下载(to_peer_traffic): 822.5956721873954 GiB, 最近观测: 2026-11-26T11:05:17.689Z
-120.219.54.103
-# massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 17, 种子: 2, 对方从报告者下载(to_peer_traffic): 847.8691811952739 GiB, 最近观测: 2026-11-27T01:05:47.561Z
-240e:398:30d0:b400::/56
-
-# [Merged Comment]
 # 恶意流量 IDC 地址黑名单 IPv4
 # multi-dial.txt
 # overdownload-ips.txt
@@ -3284,22 +3307,22 @@
 123.156.68.0/23
 
 # [Merged Comment]
+# AS58461.txt
 # 恶意流量 IDC 地址黑名单 IPv4
 # Datacenter qBittorrent/4.6.7
-# AS58461.txt
 # 复查于 26/8/12 MoveInternet Network Technology Co.,Ltd.; Some client seems hosting qBittorrent stuff in their servers
 183.136.216.0/23
 
 # [Merged Comment]
-# overdownload-ips.txt
 # untrusted-ips.txt
+# overdownload-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.2 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2316.11% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 29.8 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1531.10% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 19.7 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1285.24% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 16.6 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1233.39% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1231.22% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2212.01% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.2 GiB, BTN网络从此Peer获取流量: 0 B
 240e:f7:c000::/52
 
 # [Merged Comment]
