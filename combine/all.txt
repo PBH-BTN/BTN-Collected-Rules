@@ -1,4 +1,4 @@
-# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-28 03:31:14 UTC.
+# PBH-BTN/BTN-Collected-Rules, Licensed under CC-BY 4.0. Generated at 2026-11-28 04:31:12 UTC.
 # [START] Auto merged CIDR - IPV4: 24, IPV6: 52
 
 # geoip-blacklist.txt
@@ -3038,6 +3038,7 @@
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 1.4 GiB, BTN网络从此Peer获取流量: 0 B
 113.95.145.56
 # untrusted-ips.txt
+# [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 2, BTN网络发送到此Peer流量: 8.3 GiB, BTN网络从此Peer获取流量: 48.1 MiB
 # [Sparkle3 不受信任投票] 封禁计数: 6, 不信任票数: 6, 合并记录数量: 2, BTN网络发送到此Peer流量: 12.6 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 5, 不信任票数: 5, 合并记录数量: 4, BTN网络发送到此Peer流量: 3.3 GiB, BTN网络从此Peer获取流量: 0 B
 # [Sparkle3 不受信任投票] 封禁计数: 9, 不信任票数: 9, 合并记录数量: 4, BTN网络发送到此Peer流量: 8.7 GiB, BTN网络从此Peer获取流量: 0 B
@@ -3168,7 +3169,7 @@
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 3, 连接记录: 592, 种子: 5, 对方从报告者下载(to_peer_traffic): 858.079903469421 GiB, 最近观测: 2026-11-28T00:04:35.833Z
 36.34.5.2
 # massive-download.txt
-# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 48, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.006987719232711 TiB, 最近观测: 2026-11-27T14:05:26.616Z
+# [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 1, 连接记录: 37, 种子: 1, 对方从报告者下载(to_peer_traffic): 1.006150179339784 TiB, 最近观测: 2026-11-27T14:05:26.616Z
 61.170.226.8
 # massive-download.txt
 # [Sparkle3 大量下载监测] 统计窗口: 1天, 报告者: 18, 连接记录: 156, 种子: 23, 对方从报告者下载(to_peer_traffic): 1.132364011536083 TiB, 最近观测: 2026-11-28T01:26:23.929Z
@@ -3375,7 +3376,7 @@
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1233.39% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 1231.22% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.9 GiB, BTN 网络从此 Peer 接收的流量: 0 B
 # [Sparkle3 过量下载在线分析]  过量下载比率: 2212.01% (100% = 完整下载一次种子大小)BTN 网络发送到此 Peer 的流量: 15.5 GiB, BTN 网络从此 Peer 接收的流量: 0 B
-# [Sparkle3 不受信任投票] 封禁计数: 15, 不信任票数: 5, 合并记录数量: 1, BTN网络发送到此Peer流量: 49.2 GiB, BTN网络从此Peer获取流量: 0 B
+# [Sparkle3 不受信任投票] 封禁计数: 16, 不信任票数: 6, 合并记录数量: 1, BTN网络发送到此Peer流量: 50.4 GiB, BTN网络从此Peer获取流量: 0 B
 240e:f7:c000::/52
 
 # [Merged Comment]
